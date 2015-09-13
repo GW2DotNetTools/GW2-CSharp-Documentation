@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ApiBase class">
+    <HelpKINode Title="ApiBase Class" Url="html/5c0f0dec-3029-00cc-3949-02c94f84e5a6.htm" />
+    <HelpKINode Title="about ApiBase class" Url="html/5c0f0dec-3029-00cc-3949-02c94f84e5a6.htm" />
+    <HelpKINode Title="constructor" Url="html/de684c1d-3b4d-4f1a-330a-a356aca61c79.htm" />
+    <HelpKINode Title="methods" Url="html/b120079b-a7b5-6ca9-6df4-5ab4824601c2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApiBase.ApiBase constructor" Url="html/de684c1d-3b4d-4f1a-330a-a356aca61c79.htm" />
+  <HelpKINode Title="English enumeration member" Url="html/6300c96a-36de-0448-fbb5-a711e3f2723d.htm" />
+  <HelpKINode Title="Europe enumeration member" Url="html/247e5bee-d95a-f0d3-bc13-6d817b734402.htm" />
+  <HelpKINode Title="French enumeration member" Url="html/6300c96a-36de-0448-fbb5-a711e3f2723d.htm" />
+  <HelpKINode Title="Full enumeration member" Url="html/02cfb275-1167-557d-da1c-4314f6220b30.htm" />
+  <HelpKINode Title="German enumeration member" Url="html/6300c96a-36de-0448-fbb5-a711e3f2723d.htm" />
+  <HelpKINode Title="GetAllWorlds method" Url="html/1f5e3ae6-e7da-26c1-c718-75eee734351a.htm" />
+  <HelpKINode Title="GetBuildId property" Url="html/338a580b-e0d1-f6ad-8eea-78080c1b3732.htm" />
+  <HelpKINode Title="GetWorldById method" Url="html/17abcb41-7646-4501-5bb7-201fc982eeec.htm" />
+  <HelpKINode Title="GetWorldByIds method" Url="html/92f36382-4eed-9367-2e7b-e013f44f1795.htm" />
+  <HelpKINode Title="GW2Api class">
+    <HelpKINode Title="GW2Api Class" Url="html/12d92a1f-25cf-70ec-d717-813da0939b2c.htm" />
+    <HelpKINode Title="about GW2Api class" Url="html/12d92a1f-25cf-70ec-d717-813da0939b2c.htm" />
+    <HelpKINode Title="properties" Url="html/0d1d793c-781c-c35e-dc9f-db232183f4a7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GW2Api.GetBuildId property" Url="html/338a580b-e0d1-f6ad-8eea-78080c1b3732.htm" />
+  <HelpKINode Title="GW2Api.Worlds property" Url="html/7964fc90-6a27-b932-85a9-341ef3bccb14.htm" />
+  <HelpKINode Title="GW2Sharp namespace" Url="html/eb2bd372-255f-c01e-7fd4-a25208588461.htm" />
+  <HelpKINode Title="GW2Sharp.GW2Api class" Url="html/12d92a1f-25cf-70ec-d717-813da0939b2c.htm" />
+  <HelpKINode Title="GW2Sharp.v2 namespace" Url="html/f9b4e7ae-acf3-ab7b-5eec-a369310900ce.htm" />
+  <HelpKINode Title="GW2Sharp.v2.ApiBase class" Url="html/5c0f0dec-3029-00cc-3949-02c94f84e5a6.htm" />
+  <HelpKINode Title="GW2Sharp.v2.unauthenticated.miscellaneous.worlds namespace" Url="html/df315e4f-a349-22f0-ce42-6e655d4705fa.htm" />
+  <HelpKINode Title="GW2Sharp.v2.unauthenticated.miscellaneous.worlds.enums namespace" Url="html/c72aa17e-6a09-7a73-3688-79cd6341662d.htm" />
+  <HelpKINode Title="GW2Sharp.v2.unauthenticated.miscellaneous.worlds.enums.Language enumeration" Url="html/6300c96a-36de-0448-fbb5-a711e3f2723d.htm" />
+  <HelpKINode Title="GW2Sharp.v2.unauthenticated.miscellaneous.worlds.enums.Population enumeration" Url="html/02cfb275-1167-557d-da1c-4314f6220b30.htm" />
+  <HelpKINode Title="GW2Sharp.v2.unauthenticated.miscellaneous.worlds.enums.Region enumeration" Url="html/247e5bee-d95a-f0d3-bc13-6d817b734402.htm" />
+  <HelpKINode Title="GW2Sharp.v2.unauthenticated.miscellaneous.worlds.World class" Url="html/27dd3507-4bc3-6512-f477-b838b02dc5b8.htm" />
+  <HelpKINode Title="GW2Sharp.v2.unauthenticated.miscellaneous.worlds.WorldWrapper class" Url="html/9216d257-5ab0-e577-7992-02b76f910016.htm" />
+  <HelpKINode Title="High enumeration member" Url="html/02cfb275-1167-557d-da1c-4314f6220b30.htm" />
+  <HelpKINode Title="Id property" Url="html/b7490f9d-e031-bfc2-9e71-4218a62f8d09.htm" />
+  <HelpKINode Title="Language enumeration" Url="html/6300c96a-36de-0448-fbb5-a711e3f2723d.htm" />
+  <HelpKINode Title="Language property" Url="html/b0c45677-d76f-b74e-ba7d-e37ae270b7c3.htm" />
+  <HelpKINode Title="Low enumeration member" Url="html/02cfb275-1167-557d-da1c-4314f6220b30.htm" />
+  <HelpKINode Title="Medium enumeration member" Url="html/02cfb275-1167-557d-da1c-4314f6220b30.htm" />
+  <HelpKINode Title="Name property" Url="html/4ecc8119-9b2c-323e-94f8-d8802f27c566.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/247e5bee-d95a-f0d3-bc13-6d817b734402.htm" />
+  <HelpKINode Title="NorthAmerica enumeration member" Url="html/247e5bee-d95a-f0d3-bc13-6d817b734402.htm" />
+  <HelpKINode Title="Population enumeration" Url="html/02cfb275-1167-557d-da1c-4314f6220b30.htm" />
+  <HelpKINode Title="Population property" Url="html/f3b255f3-d8d8-4738-4836-58cb1fb5bdc5.htm" />
+  <HelpKINode Title="Region enumeration" Url="html/247e5bee-d95a-f0d3-bc13-6d817b734402.htm" />
+  <HelpKINode Title="Region property" Url="html/690d004d-02ee-ad2e-1bb4-f238e03299d6.htm" />
+  <HelpKINode Title="Spanish enumeration member" Url="html/6300c96a-36de-0448-fbb5-a711e3f2723d.htm" />
+  <HelpKINode Title="VeryHigh enumeration member" Url="html/02cfb275-1167-557d-da1c-4314f6220b30.htm" />
+  <HelpKINode Title="World class">
+    <HelpKINode Title="World Class" Url="html/27dd3507-4bc3-6512-f477-b838b02dc5b8.htm" />
+    <HelpKINode Title="about World class" Url="html/27dd3507-4bc3-6512-f477-b838b02dc5b8.htm" />
+    <HelpKINode Title="constructor" Url="html/59681c4c-0490-1111-1253-57c7d0fe9bf7.htm" />
+    <HelpKINode Title="methods" Url="html/1cd57537-8954-e949-4570-fd07fe847099.htm" />
+    <HelpKINode Title="properties" Url="html/87d32ef7-70c3-1c0c-4781-aba66e41617e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="World.Id property" Url="html/b7490f9d-e031-bfc2-9e71-4218a62f8d09.htm" />
+  <HelpKINode Title="World.Language property" Url="html/b0c45677-d76f-b74e-ba7d-e37ae270b7c3.htm" />
+  <HelpKINode Title="World.Name property" Url="html/4ecc8119-9b2c-323e-94f8-d8802f27c566.htm" />
+  <HelpKINode Title="World.Population property" Url="html/f3b255f3-d8d8-4738-4836-58cb1fb5bdc5.htm" />
+  <HelpKINode Title="World.Region property" Url="html/690d004d-02ee-ad2e-1bb4-f238e03299d6.htm" />
+  <HelpKINode Title="World.World constructor" Url="html/59681c4c-0490-1111-1253-57c7d0fe9bf7.htm" />
+  <HelpKINode Title="Worlds property" Url="html/7964fc90-6a27-b932-85a9-341ef3bccb14.htm" />
+  <HelpKINode Title="WorldWrapper class">
+    <HelpKINode Title="WorldWrapper Class" Url="html/9216d257-5ab0-e577-7992-02b76f910016.htm" />
+    <HelpKINode Title="about WorldWrapper class" Url="html/9216d257-5ab0-e577-7992-02b76f910016.htm" />
+    <HelpKINode Title="constructor" Url="html/39448a24-9af7-eba1-439b-d5d706d5c02b.htm" />
+    <HelpKINode Title="methods" Url="html/c51485aa-e4cb-ea29-a6d5-d2f991333791.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WorldWrapper.GetAllWorlds method" Url="html/1f5e3ae6-e7da-26c1-c718-75eee734351a.htm" />
+  <HelpKINode Title="WorldWrapper.GetWorldById method" Url="html/17abcb41-7646-4501-5bb7-201fc982eeec.htm" />
+  <HelpKINode Title="WorldWrapper.GetWorldByIds method" Url="html/92f36382-4eed-9367-2e7b-e013f44f1795.htm" />
+  <HelpKINode Title="WorldWrapper.WorldWrapper constructor" Url="html/39448a24-9af7-eba1-439b-d5d706d5c02b.htm" />
+</HelpKI>
