@@ -83,7 +83,7 @@
   <HelpKINode Title="English enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Language.htm" />
   <HelpKINode Title="es enumeration member" Url="html/T_GW2CSharp_RequestedLanguage.htm" />
   <HelpKINode Title="Europe enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Region.htm" />
-  <HelpKINode Title="FileFormat enumeration" Url="html/T_GW2CSharp_V1_Services_Enums_FileFormat.htm" />
+  <HelpKINode Title="FileFormat enumeration" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
   <HelpKINode Title="FlameLegionCharrCarving enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
   <HelpKINode Title="fr enumeration member" Url="html/T_GW2CSharp_RequestedLanguage.htm" />
   <HelpKINode Title="FractalRelic enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
@@ -97,7 +97,7 @@
   <HelpKINode Title="GetBuildId property" Url="html/P_GW2CSharp_GW2Api_GetBuildId.htm" />
   <HelpKINode Title="GetColorById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper_GetColorById.htm" />
   <HelpKINode Title="GetCurrency method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper_GetCurrency.htm" />
-  <HelpKINode Title="GetImage method" Url="html/M_GW2CSharp_V1_Services_RenderService_GetImage.htm" />
+  <HelpKINode Title="GetImage method" Url="html/M_GW2CSharp_Services_RenderService_GetImage.htm" />
   <HelpKINode Title="GetWorldById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById.htm" />
   <HelpKINode Title="GetWorldByIds method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldByIds.htm" />
   <HelpKINode Title="GuildCommendation enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
@@ -113,10 +113,10 @@
   <HelpKINode Title="GW2CSharp namespace" Url="html/N_GW2CSharp.htm" />
   <HelpKINode Title="GW2CSharp.GW2Api class" Url="html/T_GW2CSharp_GW2Api.htm" />
   <HelpKINode Title="GW2CSharp.RequestedLanguage enumeration" Url="html/T_GW2CSharp_RequestedLanguage.htm" />
-  <HelpKINode Title="GW2CSharp.V1.Services namespace" Url="html/N_GW2CSharp_V1_Services.htm" />
-  <HelpKINode Title="GW2CSharp.V1.Services.Enums namespace" Url="html/N_GW2CSharp_V1_Services_Enums.htm" />
-  <HelpKINode Title="GW2CSharp.V1.Services.Enums.FileFormat enumeration" Url="html/T_GW2CSharp_V1_Services_Enums_FileFormat.htm" />
-  <HelpKINode Title="GW2CSharp.V1.Services.RenderService class" Url="html/T_GW2CSharp_V1_Services_RenderService.htm" />
+  <HelpKINode Title="GW2CSharp.Services namespace" Url="html/N_GW2CSharp_Services.htm" />
+  <HelpKINode Title="GW2CSharp.Services.Enums namespace" Url="html/N_GW2CSharp_Services_Enums.htm" />
+  <HelpKINode Title="GW2CSharp.Services.Enums.FileFormat enumeration" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
+  <HelpKINode Title="GW2CSharp.Services.RenderService class" Url="html/T_GW2CSharp_Services_RenderService.htm" />
   <HelpKINode Title="GW2CSharp.V2 namespace" Url="html/N_GW2CSharp_V2.htm" />
   <HelpKINode Title="GW2CSharp.V2.ApiBase class" Url="html/T_GW2CSharp_V2_ApiBase.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Colors namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors.htm" />
@@ -143,7 +143,7 @@
     <HelpKINode Title="Currency.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Id.htm" />
     <HelpKINode Title="World.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Id.htm" />
   </HelpKINode>
-  <HelpKINode Title="jpg enumeration member" Url="html/T_GW2CSharp_V1_Services_Enums_FileFormat.htm" />
+  <HelpKINode Title="jpg enumeration member" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
   <HelpKINode Title="Karma enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
   <HelpKINode Title="KnowledgeCrystal enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
   <HelpKINode Title="Language enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Language.htm" />
@@ -163,18 +163,18 @@
   <HelpKINode Title="None enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Region.htm" />
   <HelpKINode Title="NorthAmerica enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Region.htm" />
   <HelpKINode Title="Order property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Order.htm" />
-  <HelpKINode Title="png enumeration member" Url="html/T_GW2CSharp_V1_Services_Enums_FileFormat.htm" />
+  <HelpKINode Title="png enumeration member" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
   <HelpKINode Title="Population enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Population.htm" />
   <HelpKINode Title="Population property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Population.htm" />
   <HelpKINode Title="PristineFractalRelic enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
   <HelpKINode Title="Region enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Region.htm" />
   <HelpKINode Title="Region property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Region.htm" />
   <HelpKINode Title="RenderService class">
-    <HelpKINode Title="RenderService Class" Url="html/T_GW2CSharp_V1_Services_RenderService.htm" />
-    <HelpKINode Title="about RenderService class" Url="html/T_GW2CSharp_V1_Services_RenderService.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V1_Services_RenderService.htm" />
+    <HelpKINode Title="RenderService Class" Url="html/T_GW2CSharp_Services_RenderService.htm" />
+    <HelpKINode Title="about RenderService class" Url="html/T_GW2CSharp_Services_RenderService.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_Services_RenderService.htm" />
   </HelpKINode>
-  <HelpKINode Title="RenderService.GetImage method" Url="html/M_GW2CSharp_V1_Services_RenderService_GetImage.htm" />
+  <HelpKINode Title="RenderService.GetImage method" Url="html/M_GW2CSharp_Services_RenderService_GetImage.htm" />
   <HelpKINode Title="RequestedLanguage enumeration" Url="html/T_GW2CSharp_RequestedLanguage.htm" />
   <HelpKINode Title="RGB property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_RGB.htm" />
   <HelpKINode Title="Saturation property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Saturation.htm" />
