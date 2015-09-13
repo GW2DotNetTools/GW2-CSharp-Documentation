@@ -1,47 +1,80 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="f66ffbd0-c973-4a2a-aaf4-6208c64c1f90" Title="GW2Sharp" Url="html/eb2bd372-255f-c01e-7fd4-a25208588461.htm">
-    <HelpTOCNode Id="43e2b78d-42fc-4973-8423-9e2d29687829" Title="GW2Api Class" Url="html/12d92a1f-25cf-70ec-d717-813da0939b2c.htm">
-      <HelpTOCNode Id="6ca5d920-e1f8-41d4-bdd8-3a81cb7f6098" Title="GW2Api Properties" Url="html/0d1d793c-781c-c35e-dc9f-db232183f4a7.htm">
+  <HelpTOCNode Id="d65f9f6d-316f-4519-81f3-5d97c260e50e" Title="GW2Sharp" Url="html/eb2bd372-255f-c01e-7fd4-a25208588461.htm">
+    <HelpTOCNode Id="2c3d879c-6935-4991-8a4e-c6392b4ba914" Title="GW2Api Class" Url="html/12d92a1f-25cf-70ec-d717-813da0939b2c.htm">
+      <HelpTOCNode Id="fe5215e3-2026-4d07-97aa-bddf300e35f1" Title="GW2Api Properties" Url="html/0d1d793c-781c-c35e-dc9f-db232183f4a7.htm">
+        <HelpTOCNode Title="Currencies Property " Url="html/7aa6111c-fefc-956a-e2a0-3a930892199b.htm" />
         <HelpTOCNode Title="GetBuildId Property " Url="html/338a580b-e0d1-f6ad-8eea-78080c1b3732.htm" />
         <HelpTOCNode Title="Worlds Property " Url="html/7964fc90-6a27-b932-85a9-341ef3bccb14.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="719cb2f1-c160-4901-adfc-5bde08c5a62a" Title="GW2Sharp.v2" Url="html/f9b4e7ae-acf3-ab7b-5eec-a369310900ce.htm">
-    <HelpTOCNode Id="cf2241c9-3fef-4e7e-8bac-1a0ac96e90e6" Title="ApiBase Class" Url="html/5c0f0dec-3029-00cc-3949-02c94f84e5a6.htm">
-      <HelpTOCNode Title="ApiBase Constructor " Url="html/de684c1d-3b4d-4f1a-330a-a356aca61c79.htm" />
-      <HelpTOCNode Title="ApiBase Methods" Url="html/b120079b-a7b5-6ca9-6df4-5ab4824601c2.htm" />
+  <HelpTOCNode Id="6f6e3cf8-20ba-41df-abfb-41fbdff2bd1b" Title="GW2Sharp.V1.Services" Url="html/eb466c52-6dd9-791d-3fad-1ed4475587cb.htm">
+    <HelpTOCNode Id="e719d03a-d376-411e-b3cb-7b7b30288d45" Title="RenderService Class" Url="html/ed72a094-e787-bc6f-0319-64cd10c96f1a.htm">
+      <HelpTOCNode Id="c76679bf-4966-4e72-b09a-f85be1889b5c" Title="RenderService Methods" Url="html/20e8c035-a907-d3f3-5b47-e11709522919.htm">
+        <HelpTOCNode Title="GetImage Method " Url="html/11b95dec-d478-8275-5484-7629ddeb291b.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="9f472374-b9b8-45cd-a24d-051e2b747602" Title="GW2Sharp.v2.unauthenticated.miscellaneous.worlds" Url="html/df315e4f-a349-22f0-ce42-6e655d4705fa.htm">
-    <HelpTOCNode Id="fd99beeb-80fb-4c17-8aa1-59f1ea4bf57e" Title="World Class" Url="html/27dd3507-4bc3-6512-f477-b838b02dc5b8.htm">
-      <HelpTOCNode Title="World Constructor " Url="html/59681c4c-0490-1111-1253-57c7d0fe9bf7.htm" />
-      <HelpTOCNode Id="2dca5088-1bd2-4932-8ed8-c2efefbc8f1e" Title="World Properties" Url="html/87d32ef7-70c3-1c0c-4781-aba66e41617e.htm">
-        <HelpTOCNode Title="Id Property " Url="html/b7490f9d-e031-bfc2-9e71-4218a62f8d09.htm" />
-        <HelpTOCNode Title="Language Property " Url="html/b0c45677-d76f-b74e-ba7d-e37ae270b7c3.htm" />
-        <HelpTOCNode Title="Name Property " Url="html/4ecc8119-9b2c-323e-94f8-d8802f27c566.htm" />
-        <HelpTOCNode Title="Population Property " Url="html/f3b255f3-d8d8-4738-4836-58cb1fb5bdc5.htm" />
-        <HelpTOCNode Title="Region Property " Url="html/690d004d-02ee-ad2e-1bb4-f238e03299d6.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="World Methods" Url="html/1cd57537-8954-e949-4570-fd07fe847099.htm" />
+  <HelpTOCNode Id="f13034bb-ffd7-4f48-aa3d-d869a5afd7b8" Title="GW2Sharp.V1.Services.Enums" Url="html/aec07072-2c4e-90d0-5ffa-e90b6e914975.htm">
+    <HelpTOCNode Title="FileFormat Enumeration" Url="html/8154541a-0f75-9f07-fcaa-5b181aa2caf8.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="1df24c86-ecb1-4958-9408-e50705085e27" Title="GW2Sharp.V2" Url="html/8caffb60-1bdc-cb1b-b4fe-90096d0d4fb8.htm">
+    <HelpTOCNode Id="9b049e41-8938-4ae2-82dd-f7a95b06b3b7" Title="ApiBase Class" Url="html/6ae7efa8-5c8a-7a3e-ef37-f3da3fb49d8d.htm">
+      <HelpTOCNode Title="ApiBase Constructor " Url="html/ea592759-b4d5-2225-7dd7-647a1559e9de.htm" />
+      <HelpTOCNode Title="ApiBase Methods" Url="html/6622b2cd-d7fe-8b05-b129-2dfbe49ceced.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="ec7f9d9e-4004-4d81-8253-fe8c04fe1f0d" Title="WorldWrapper Class" Url="html/9216d257-5ab0-e577-7992-02b76f910016.htm">
-      <HelpTOCNode Title="WorldWrapper Constructor " Url="html/39448a24-9af7-eba1-439b-d5d706d5c02b.htm" />
-      <HelpTOCNode Id="d2ffa349-913d-4f38-a736-a93d8f1cbee2" Title="WorldWrapper Methods" Url="html/c51485aa-e4cb-ea29-a6d5-d2f991333791.htm">
-        <HelpTOCNode Title="GetAllWorlds Method " Url="html/1f5e3ae6-e7da-26c1-c718-75eee734351a.htm" />
-        <HelpTOCNode Id="1a9dea73-c3db-4cd7-98aa-b33740e343f1" Title="GetWorldById Method " Url="html/17abcb41-7646-4501-5bb7-201fc982eeec.htm">
-          <HelpTOCNode Title="GetWorldById Method (Int32)" Url="html/60fd04eb-99be-fe2f-0b2e-6323b86acad8.htm" />
-          <HelpTOCNode Title="GetWorldById Method (Int32[])" Url="html/e48396af-aac4-0eda-2843-3c710dc2b396.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="ba888b8f-484d-4f67-900e-74bb02d84f61" Title="GW2Sharp.V2.Unauthenticated.Miscellaneous.Currencies" Url="html/73de60ae-1213-29eb-d3a2-5661e9c4db58.htm">
+    <HelpTOCNode Id="d3c82f1e-871d-4c49-adef-136652b9fc07" Title="Currency Class" Url="html/d73058b7-3e41-5475-36b8-091d622e4063.htm">
+      <HelpTOCNode Title="Currency Constructor " Url="html/f3f9a37e-f6ce-fcaf-fe9a-a50085e467e1.htm" />
+      <HelpTOCNode Id="980136ed-0488-4c84-abea-b0d2c77764b2" Title="Currency Properties" Url="html/d75406d1-3b80-5d3b-58a8-4ff3206ded1c.htm">
+        <HelpTOCNode Title="Description Property " Url="html/3683f3d9-6d79-03bc-6acc-2ffa1a95d213.htm" />
+        <HelpTOCNode Title="Icon Property " Url="html/638e1c51-7e80-8cd6-30ee-8dfefd1298fa.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/91ccfc33-bb54-3d37-c283-8f3e6b8ffb39.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/96506044-b653-1089-40f6-22a2bb18a700.htm" />
+        <HelpTOCNode Title="Order Property " Url="html/0edda1f1-2a33-a2a3-c640-ec0080cf001f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Currency Methods" Url="html/d671ea8e-cceb-d4f9-9f91-ad0ee6e48640.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="5eb5ec6f-4a39-4017-9618-e8c1035918e7" Title="CurrencyWrapper Class" Url="html/d950f47b-1f94-8ad4-4158-7b4375c0f50c.htm">
+      <HelpTOCNode Title="CurrencyWrapper Constructor " Url="html/44a94c33-1a9a-b084-32c9-11487f671cfe.htm" />
+      <HelpTOCNode Id="656ee184-9838-4943-8a87-7bfa21816e07" Title="CurrencyWrapper Methods" Url="html/25a0d6a9-de96-7ddd-e5da-daddf69bf07e.htm">
+        <HelpTOCNode Title="GetCurrency Method " Url="html/f5396730-28e1-e3d6-c0c7-c5c2fc339ed1.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="e10c5585-c4ca-428f-a9da-041402a3954f" Title="GW2Sharp.V2.Unauthenticated.Miscellaneous.Currencies.Enums" Url="html/59f1ce80-b9a3-5318-df07-712df9151196.htm">
+    <HelpTOCNode Title="CurrencyArt Enumeration" Url="html/4a1c5bd4-57a4-0166-7847-f700ac664280.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="8edef049-6c35-4f47-af73-df958727e77d" Title="GW2Sharp.V2.Unauthenticated.Miscellaneous.Worlds" Url="html/ee3970d4-295e-a99d-2c2e-fb0ad2e75540.htm">
+    <HelpTOCNode Id="d343b07a-2e25-45fd-8d24-ba68d4cc57cd" Title="World Class" Url="html/32000b6b-2c4f-64e2-f130-b76596c54e55.htm">
+      <HelpTOCNode Title="World Constructor " Url="html/6a6f4bc6-aafd-261a-44a1-53c64edc8d98.htm" />
+      <HelpTOCNode Id="d13f72af-9dee-41d1-bd5c-02ea4f4c15a4" Title="World Properties" Url="html/7520280f-6345-3335-9fea-90a5f88fbd43.htm">
+        <HelpTOCNode Title="Id Property " Url="html/c11a0aee-6376-8f4d-a621-7e8931e2b626.htm" />
+        <HelpTOCNode Title="Language Property " Url="html/df5414b4-c6ba-9961-5f21-bb9def1b05f1.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/221a3949-c279-e022-8ef3-aa8a0c4dda96.htm" />
+        <HelpTOCNode Title="Population Property " Url="html/beef3f66-9438-61b8-bca3-16abf927a09b.htm" />
+        <HelpTOCNode Title="Region Property " Url="html/92713866-128a-d371-c9f7-e0c4f1b1a53b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="World Methods" Url="html/a9e0ea9e-4654-412d-953d-1d76fa048991.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ac1cb76b-9153-491e-b9fc-c9759b55ab38" Title="WorldWrapper Class" Url="html/3d259d6f-f040-c1a0-2f49-d36966b29af3.htm">
+      <HelpTOCNode Title="WorldWrapper Constructor " Url="html/13a80be7-c63f-8243-f177-e853467d4d25.htm" />
+      <HelpTOCNode Id="5bae2093-3cff-4061-8102-906798334d69" Title="WorldWrapper Methods" Url="html/66d6c4ec-e154-72ce-2f6a-2728da9e3f8a.htm">
+        <HelpTOCNode Title="GetAllWorlds Method " Url="html/ffcafa31-9138-315d-2498-0f8d9a2975ac.htm" />
+        <HelpTOCNode Id="3325af5f-a7e8-4db1-8bc2-2ade1083af02" Title="GetWorldById Method " Url="html/a22ce32b-68c3-7990-16a7-387960554cbb.htm">
+          <HelpTOCNode Title="GetWorldById Method (Int32)" Url="html/db071b91-03cf-e3e3-3913-9fa42f17f528.htm" />
+          <HelpTOCNode Title="GetWorldById Method (Int32[])" Url="html/da90244c-c7f1-3ed2-bd2e-3aa6cc6b8404.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Title="GetWorldByIds Method " Url="html/92f36382-4eed-9367-2e7b-e013f44f1795.htm" />
+        <HelpTOCNode Title="GetWorldByIds Method " Url="html/9163cd7e-98c3-4c11-3d16-abac8b9d55f3.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="ad6a39bf-6dc5-49f7-8a53-8d1661501623" Title="GW2Sharp.v2.unauthenticated.miscellaneous.worlds.enums" Url="html/c72aa17e-6a09-7a73-3688-79cd6341662d.htm">
-    <HelpTOCNode Title="Language Enumeration" Url="html/6300c96a-36de-0448-fbb5-a711e3f2723d.htm" />
-    <HelpTOCNode Title="Population Enumeration" Url="html/02cfb275-1167-557d-da1c-4314f6220b30.htm" />
-    <HelpTOCNode Title="Region Enumeration" Url="html/247e5bee-d95a-f0d3-bc13-6d817b734402.htm" />
+  <HelpTOCNode Id="e54dcf68-1a80-4f8d-8609-81e5c2182943" Title="GW2Sharp.V2.Unauthenticated.Miscellaneous.Worlds.Enums" Url="html/75688c61-a927-fc8d-e16c-a80a568e36d9.htm">
+    <HelpTOCNode Title="Language Enumeration" Url="html/53dd7dbd-4ff0-498c-6945-839605965d33.htm" />
+    <HelpTOCNode Title="Population Enumeration" Url="html/e2c39be4-8282-8552-18fc-5ff5dc999e97.htm" />
+    <HelpTOCNode Title="Region Enumeration" Url="html/420782a8-63ce-e038-7d57-86c5eab26ef8.htm" />
   </HelpTOCNode>
 </HelpTOC>
