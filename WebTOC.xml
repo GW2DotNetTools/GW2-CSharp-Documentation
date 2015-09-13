@@ -1,115 +1,115 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="daf614af-5644-4e14-8280-adff14fe68b0" Title="GW2Sharp" Url="html/N_GW2Sharp.htm">
-    <HelpTOCNode Id="50bc6988-b3f6-4e49-a7bf-590b2adc787b" Title="GW2Api Class" Url="html/T_GW2Sharp_GW2Api.htm">
-      <HelpTOCNode Id="ea58c011-0798-49d5-afab-0a9a810fd1c7" Title="GW2Api Properties" Url="html/Properties_T_GW2Sharp_GW2Api.htm">
-        <HelpTOCNode Title="Colors Property " Url="html/P_GW2Sharp_GW2Api_Colors.htm" />
-        <HelpTOCNode Title="Currencies Property " Url="html/P_GW2Sharp_GW2Api_Currencies.htm" />
-        <HelpTOCNode Title="GetBuildId Property " Url="html/P_GW2Sharp_GW2Api_GetBuildId.htm" />
-        <HelpTOCNode Title="Worlds Property " Url="html/P_GW2Sharp_GW2Api_Worlds.htm" />
+  <HelpTOCNode Id="45e1d311-0c8a-4afe-8c94-fde970288aba" Title="GW2CSharp" Url="html/N_GW2CSharp.htm">
+    <HelpTOCNode Id="7fbcdb2e-af88-4a67-b78e-6ce5e4156232" Title="GW2Api Class" Url="html/T_GW2CSharp_GW2Api.htm">
+      <HelpTOCNode Id="ef6f4e45-7412-4cfc-a621-f41f8b9c91e3" Title="GW2Api Properties" Url="html/Properties_T_GW2CSharp_GW2Api.htm">
+        <HelpTOCNode Title="Colors Property " Url="html/P_GW2CSharp_GW2Api_Colors.htm" />
+        <HelpTOCNode Title="Currencies Property " Url="html/P_GW2CSharp_GW2Api_Currencies.htm" />
+        <HelpTOCNode Title="GetBuildId Property " Url="html/P_GW2CSharp_GW2Api_GetBuildId.htm" />
+        <HelpTOCNode Title="Worlds Property " Url="html/P_GW2CSharp_GW2Api_Worlds.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Title="RequestedLanguage Enumeration" Url="html/T_GW2Sharp_RequestedLanguage.htm" />
+    <HelpTOCNode Title="RequestedLanguage Enumeration" Url="html/T_GW2CSharp_RequestedLanguage.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="1f512bd0-f8e5-45b0-b625-70b841f4520e" Title="GW2Sharp.V1.Services" Url="html/N_GW2Sharp_V1_Services.htm">
-    <HelpTOCNode Id="66d41be9-ffe9-4948-b12e-59254d68abc2" Title="RenderService Class" Url="html/T_GW2Sharp_V1_Services_RenderService.htm">
-      <HelpTOCNode Id="90fd9c93-4650-4d79-8959-cb7c3d3bf283" Title="RenderService Methods" Url="html/Methods_T_GW2Sharp_V1_Services_RenderService.htm">
-        <HelpTOCNode Title="GetImage Method " Url="html/M_GW2Sharp_V1_Services_RenderService_GetImage.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-  </HelpTOCNode>
-  <HelpTOCNode Id="2df4b080-0f4f-4166-b8b7-f088874a0c2e" Title="GW2Sharp.V1.Services.Enums" Url="html/N_GW2Sharp_V1_Services_Enums.htm">
-    <HelpTOCNode Title="FileFormat Enumeration" Url="html/T_GW2Sharp_V1_Services_Enums_FileFormat.htm" />
-  </HelpTOCNode>
-  <HelpTOCNode Id="5cf89c9b-960d-4ece-aa8e-77369489c41d" Title="GW2Sharp.V2" Url="html/N_GW2Sharp_V2.htm">
-    <HelpTOCNode Id="daf9c75c-017d-4076-a2ae-f8898a5c2336" Title="ApiBase Class" Url="html/T_GW2Sharp_V2_ApiBase.htm">
-      <HelpTOCNode Title="ApiBase Constructor " Url="html/M_GW2Sharp_V2_ApiBase__ctor.htm" />
-      <HelpTOCNode Title="ApiBase Methods" Url="html/Methods_T_GW2Sharp_V2_ApiBase.htm" />
-    </HelpTOCNode>
-  </HelpTOCNode>
-  <HelpTOCNode Id="e83ed872-76aa-458e-a862-ce1efb036a3b" Title="GW2Sharp.V2.Unauthenticated.Miscellaneous.Colors" Url="html/N_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors.htm">
-    <HelpTOCNode Id="ba6bf217-a190-493c-bce6-ce93238ce194" Title="Color Class" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color.htm">
-      <HelpTOCNode Title="Color Constructor " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color__ctor.htm" />
-      <HelpTOCNode Id="eed5a646-6ea8-4af2-809d-6f0fd4779a76" Title="Color Properties" Url="html/Properties_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color.htm">
-        <HelpTOCNode Title="BaseRGB Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color_BaseRGB.htm" />
-        <HelpTOCNode Title="Cloth Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Cloth.htm" />
-        <HelpTOCNode Title="Id Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Id.htm" />
-        <HelpTOCNode Title="Leather Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Leather.htm" />
-        <HelpTOCNode Title="Metal Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Metal.htm" />
-        <HelpTOCNode Title="Name Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Name.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="Color Methods" Url="html/Methods_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_Color.htm" />
-    </HelpTOCNode>
-    <HelpTOCNode Id="51dc50f2-7d48-424c-a302-9d6ebe5f1860" Title="ColorWrapper Class" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper.htm">
-      <HelpTOCNode Title="ColorWrapper Constructor " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper__ctor.htm" />
-      <HelpTOCNode Id="d498a8ad-68ea-414b-a30d-99f8c1045d6d" Title="ColorWrapper Methods" Url="html/Methods_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper.htm">
-        <HelpTOCNode Title="GetAllColors Method " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper_GetAllColors.htm" />
-        <HelpTOCNode Title="GetColorById Method " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper_GetColorById.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="476513f2-bf6b-4a16-b191-90e8f5942a27" Title="DyeMaterial Class" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial.htm">
-      <HelpTOCNode Title="DyeMaterial Constructor " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial__ctor.htm" />
-      <HelpTOCNode Id="7027a9fe-a539-4d66-8303-9e6366a7c114" Title="DyeMaterial Properties" Url="html/Properties_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial.htm">
-        <HelpTOCNode Title="Brightness Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Brightness.htm" />
-        <HelpTOCNode Title="Contrast Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Contrast.htm" />
-        <HelpTOCNode Title="Hue Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Hue.htm" />
-        <HelpTOCNode Title="Lightness Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Lightness.htm" />
-        <HelpTOCNode Title="RGB Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_RGB.htm" />
-        <HelpTOCNode Title="Saturation Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Saturation.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="DyeMaterial Methods" Url="html/Methods_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial.htm" />
-    </HelpTOCNode>
-  </HelpTOCNode>
-  <HelpTOCNode Id="ae830319-3d2e-45bb-8f43-837098fd2363" Title="GW2Sharp.V2.Unauthenticated.Miscellaneous.Currencies" Url="html/N_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies.htm">
-    <HelpTOCNode Id="bd5f962b-ba76-44e0-aaca-a436e15020d0" Title="Currency Class" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency.htm">
-      <HelpTOCNode Title="Currency Constructor " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency__ctor.htm" />
-      <HelpTOCNode Id="c6f440e0-9853-4280-b7be-857ec38a16b8" Title="Currency Properties" Url="html/Properties_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency.htm">
-        <HelpTOCNode Title="Description Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Description.htm" />
-        <HelpTOCNode Title="Icon Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Icon.htm" />
-        <HelpTOCNode Title="Id Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Id.htm" />
-        <HelpTOCNode Title="Name Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Name.htm" />
-        <HelpTOCNode Title="Order Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Order.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="Currency Methods" Url="html/Methods_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency.htm" />
-    </HelpTOCNode>
-    <HelpTOCNode Id="3e2dcb73-eb04-40f7-aa46-2d59d085d3c5" Title="CurrencyWrapper Class" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper.htm">
-      <HelpTOCNode Title="CurrencyWrapper Constructor " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper__ctor.htm" />
-      <HelpTOCNode Id="965f5c77-9d38-4644-83a9-31e0963dc0da" Title="CurrencyWrapper Methods" Url="html/Methods_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper.htm">
-        <HelpTOCNode Title="GetCurrency Method " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper_GetCurrency.htm" />
+  <HelpTOCNode Id="b27b0a0b-4117-49c4-9adb-d7536846da1a" Title="GW2CSharp.V1.Services" Url="html/N_GW2CSharp_V1_Services.htm">
+    <HelpTOCNode Id="d21f62aa-c5de-42fd-9052-7caa734b6181" Title="RenderService Class" Url="html/T_GW2CSharp_V1_Services_RenderService.htm">
+      <HelpTOCNode Id="75246948-7998-47ae-88c0-2a75f8983a90" Title="RenderService Methods" Url="html/Methods_T_GW2CSharp_V1_Services_RenderService.htm">
+        <HelpTOCNode Title="GetImage Method " Url="html/M_GW2CSharp_V1_Services_RenderService_GetImage.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="899da529-cd39-4186-9dbe-412dbf56aaf3" Title="GW2Sharp.V2.Unauthenticated.Miscellaneous.Currencies.Enums" Url="html/N_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums.htm">
-    <HelpTOCNode Title="CurrencyArt Enumeration" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpTOCNode Id="a933d1ee-b496-4a80-bd4e-9df80af3e1ec" Title="GW2CSharp.V1.Services.Enums" Url="html/N_GW2CSharp_V1_Services_Enums.htm">
+    <HelpTOCNode Title="FileFormat Enumeration" Url="html/T_GW2CSharp_V1_Services_Enums_FileFormat.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="527ae749-1d15-4044-a8e2-87fbb2a2d83b" Title="GW2Sharp.V2.Unauthenticated.Miscellaneous.Worlds" Url="html/N_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds.htm">
-    <HelpTOCNode Id="ce78bc02-0af6-4c74-8b51-cc450267f564" Title="World Class" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_World.htm">
-      <HelpTOCNode Title="World Constructor " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_World__ctor.htm" />
-      <HelpTOCNode Id="9fd5afe8-c063-4094-97dd-7b1dbecab592" Title="World Properties" Url="html/Properties_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_World.htm">
-        <HelpTOCNode Title="Id Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Id.htm" />
-        <HelpTOCNode Title="Language Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Language.htm" />
-        <HelpTOCNode Title="Name Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Name.htm" />
-        <HelpTOCNode Title="Population Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Population.htm" />
-        <HelpTOCNode Title="Region Property " Url="html/P_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Region.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="World Methods" Url="html/Methods_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_World.htm" />
+  <HelpTOCNode Id="e491b22a-07c9-4fa1-9daa-bc8a70ce0673" Title="GW2CSharp.V2" Url="html/N_GW2CSharp_V2.htm">
+    <HelpTOCNode Id="b9359bd1-883d-44b7-beb7-b643d71cf2cb" Title="ApiBase Class" Url="html/T_GW2CSharp_V2_ApiBase.htm">
+      <HelpTOCNode Title="ApiBase Constructor " Url="html/M_GW2CSharp_V2_ApiBase__ctor.htm" />
+      <HelpTOCNode Title="ApiBase Methods" Url="html/Methods_T_GW2CSharp_V2_ApiBase.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6eef510d-bf9b-498b-93dd-cccc0f005b77" Title="WorldWrapper Class" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper.htm">
-      <HelpTOCNode Title="WorldWrapper Constructor " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper__ctor.htm" />
-      <HelpTOCNode Id="80787425-6b7d-41e5-8701-698d401129b1" Title="WorldWrapper Methods" Url="html/Methods_T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper.htm">
-        <HelpTOCNode Title="GetAllWorlds Method " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetAllWorlds.htm" />
-        <HelpTOCNode Id="ca14d4a1-0e03-4ed8-83d7-cee0c8ddae61" Title="GetWorldById Method " Url="html/Overload_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById.htm">
-          <HelpTOCNode Title="GetWorldById Method (Int32, RequestedLanguage)" Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById_1.htm" />
-          <HelpTOCNode Title="GetWorldById Method (RequestedLanguage, Int32[])" Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="0cc96d90-50b8-41fc-9e3d-182d2034d8d1" Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Colors" Url="html/N_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors.htm">
+    <HelpTOCNode Id="41f6cc8c-7656-4de1-8e83-e041f47c2ea7" Title="Color Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color.htm">
+      <HelpTOCNode Title="Color Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color__ctor.htm" />
+      <HelpTOCNode Id="90f39c24-b6ac-422b-8b99-4535d5a0b465" Title="Color Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color.htm">
+        <HelpTOCNode Title="BaseRGB Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_BaseRGB.htm" />
+        <HelpTOCNode Title="Cloth Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Cloth.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Id.htm" />
+        <HelpTOCNode Title="Leather Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Leather.htm" />
+        <HelpTOCNode Title="Metal Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Metal.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Name.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Color Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c234af09-eb08-4992-a1e2-d23e338c4809" Title="ColorWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper.htm">
+      <HelpTOCNode Title="ColorWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper__ctor.htm" />
+      <HelpTOCNode Id="0cf640cf-3d1b-42c9-b975-b4110c6fed6b" Title="ColorWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper.htm">
+        <HelpTOCNode Title="GetAllColors Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper_GetAllColors.htm" />
+        <HelpTOCNode Title="GetColorById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper_GetColorById.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4fe6b3df-b76e-4333-8d32-c684b5e19a5f" Title="DyeMaterial Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial.htm">
+      <HelpTOCNode Title="DyeMaterial Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial__ctor.htm" />
+      <HelpTOCNode Id="7467280f-24d7-49ec-84a0-90b8dec3b36e" Title="DyeMaterial Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial.htm">
+        <HelpTOCNode Title="Brightness Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Brightness.htm" />
+        <HelpTOCNode Title="Contrast Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Contrast.htm" />
+        <HelpTOCNode Title="Hue Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Hue.htm" />
+        <HelpTOCNode Title="Lightness Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Lightness.htm" />
+        <HelpTOCNode Title="RGB Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_RGB.htm" />
+        <HelpTOCNode Title="Saturation Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Saturation.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DyeMaterial Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="2012ddb2-f2f1-4c2d-bb0f-2b1d33ed3401" Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Currencies" Url="html/N_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies.htm">
+    <HelpTOCNode Id="00dcf224-7730-415d-941c-b89a06eda36d" Title="Currency Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency.htm">
+      <HelpTOCNode Title="Currency Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency__ctor.htm" />
+      <HelpTOCNode Id="78d51349-96d6-4c97-a7cb-5668ec84f5ff" Title="Currency Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency.htm">
+        <HelpTOCNode Title="Description Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Description.htm" />
+        <HelpTOCNode Title="Icon Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Icon.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Id.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Name.htm" />
+        <HelpTOCNode Title="Order Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Order.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Currency Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2d369a1b-552b-420f-8ffd-04647d28f3b0" Title="CurrencyWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper.htm">
+      <HelpTOCNode Title="CurrencyWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper__ctor.htm" />
+      <HelpTOCNode Id="10d091ee-a336-4a7d-a16f-407c3425e7c4" Title="CurrencyWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper.htm">
+        <HelpTOCNode Title="GetCurrency Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper_GetCurrency.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="00406bd7-69c3-4cb8-a4e2-af3e824595aa" Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Currencies.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums.htm">
+    <HelpTOCNode Title="CurrencyArt Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="33d06b63-9c83-413b-b0d5-0d995c2e855a" Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Worlds" Url="html/N_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds.htm">
+    <HelpTOCNode Id="09c9d605-3ca2-463e-9152-17ec70b3e508" Title="World Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World.htm">
+      <HelpTOCNode Title="World Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World__ctor.htm" />
+      <HelpTOCNode Id="12de0ba2-c9bf-40ff-a981-071f6c3480ca" Title="World Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World.htm">
+        <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Id.htm" />
+        <HelpTOCNode Title="Language Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Language.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Name.htm" />
+        <HelpTOCNode Title="Population Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Population.htm" />
+        <HelpTOCNode Title="Region Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Region.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="World Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="752c3226-a51f-4530-afe7-86d1a9aaca42" Title="WorldWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper.htm">
+      <HelpTOCNode Title="WorldWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper__ctor.htm" />
+      <HelpTOCNode Id="25ad0f88-de72-46b4-8bae-5583f8f8f9b1" Title="WorldWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper.htm">
+        <HelpTOCNode Title="GetAllWorlds Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetAllWorlds.htm" />
+        <HelpTOCNode Id="9e3e8d25-b81b-4016-a430-36427a6861ce" Title="GetWorldById Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById.htm">
+          <HelpTOCNode Title="GetWorldById Method (Int32, RequestedLanguage)" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById_1.htm" />
+          <HelpTOCNode Title="GetWorldById Method (RequestedLanguage, Int32[])" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Title="GetWorldByIds Method " Url="html/M_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldByIds.htm" />
+        <HelpTOCNode Title="GetWorldByIds Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldByIds.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="935f05c4-43e7-4df6-96cc-48f87a62d507" Title="GW2Sharp.V2.Unauthenticated.Miscellaneous.Worlds.Enums" Url="html/N_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums.htm">
-    <HelpTOCNode Title="Language Enumeration" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Language.htm" />
-    <HelpTOCNode Title="Population Enumeration" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Population.htm" />
-    <HelpTOCNode Title="Region Enumeration" Url="html/T_GW2Sharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Region.htm" />
+  <HelpTOCNode Id="1038da0a-b97a-4cd3-907d-94c4ba86c766" Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Worlds.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums.htm">
+    <HelpTOCNode Title="Language Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Language.htm" />
+    <HelpTOCNode Title="Population Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Population.htm" />
+    <HelpTOCNode Title="Region Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Region.htm" />
   </HelpTOCNode>
 </HelpTOC>
