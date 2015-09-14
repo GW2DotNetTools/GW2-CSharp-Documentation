@@ -8,13 +8,13 @@
   </HelpKINode>
   <HelpKINode Title="ApiBase.ApiBase constructor" Url="html/M_GW2CSharp_ApiBase__ctor.htm" />
   <HelpKINode Title="ApiBase.DownloadJsonString method" Url="html/M_GW2CSharp_ApiBase_DownloadJsonString.htm" />
-  <HelpKINode Title="AscalonianTear enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
-  <HelpKINode Title="BadgeOfHonor enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
-  <HelpKINode Title="BanditCrest enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="AscalonianTear enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="BadgeOfHonor enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="BanditCrest enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="BaseRGB property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_BaseRGB.htm" />
   <HelpKINode Title="Brightness property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Brightness.htm" />
   <HelpKINode Title="Cloth property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Cloth.htm" />
-  <HelpKINode Title="Coin enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="Coin enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Color class">
     <HelpKINode Title="Color Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color.htm" />
     <HelpKINode Title="about Color class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color.htm" />
@@ -55,7 +55,7 @@
   <HelpKINode Title="Currency.Id property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Id.htm" />
   <HelpKINode Title="Currency.Name property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Name.htm" />
   <HelpKINode Title="Currency.Order property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Order.htm" />
-  <HelpKINode Title="CurrencyArt enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="CurrencyType enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="CurrencyWrapper class">
     <HelpKINode Title="CurrencyWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper.htm" />
     <HelpKINode Title="about CurrencyWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper.htm" />
@@ -65,7 +65,7 @@
   <HelpKINode Title="CurrencyWrapper.CurrencyWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper__ctor.htm" />
   <HelpKINode Title="CurrencyWrapper.GetCurrency method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper_GetCurrency.htm" />
   <HelpKINode Title="de enumeration member" Url="html/T_GW2CSharp_RequestedLanguage.htm" />
-  <HelpKINode Title="DeadlyBloom enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="DeadlyBloom enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Description property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Description.htm" />
   <HelpKINode Title="DownloadJsonString method" Url="html/M_GW2CSharp_ApiBase_DownloadJsonString.htm" />
   <HelpKINode Title="DyeMaterial class">
@@ -87,16 +87,17 @@
   <HelpKINode Title="es enumeration member" Url="html/T_GW2CSharp_RequestedLanguage.htm" />
   <HelpKINode Title="Europe enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Region.htm" />
   <HelpKINode Title="FileFormat enumeration" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
-  <HelpKINode Title="FlameLegionCharrCarving enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="FlameLegionCharrCarving enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="fr enumeration member" Url="html/T_GW2CSharp_RequestedLanguage.htm" />
-  <HelpKINode Title="FractalRelic enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="FractalRelic enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="French enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Language.htm" />
   <HelpKINode Title="Full enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Population.htm" />
-  <HelpKINode Title="Gem enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
-  <HelpKINode Title="Geode enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="Gem enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="Geode enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="German enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Language.htm" />
   <HelpKINode Title="GetAllColors method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper_GetAllColors.htm" />
   <HelpKINode Title="GetAllQuaggans method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans_QuagganWrapper_GetAllQuaggans.htm" />
+  <HelpKINode Title="GetAllRessourceFiles method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper_GetAllRessourceFiles.htm" />
   <HelpKINode Title="GetAllWorlds method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetAllWorlds.htm" />
   <HelpKINode Title="GetBuildId property" Url="html/P_GW2CSharp_V2_V2Endpoint_GetBuildId.htm" />
   <HelpKINode Title="GetColorById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_ColorWrapper_GetColorById.htm" />
@@ -105,11 +106,14 @@
     <HelpKINode Title="Currency.GetImage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_GetImage.htm" />
     <HelpKINode Title="Quaggan.GetImage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans_Quaggan_GetImage.htm" />
     <HelpKINode Title="RenderService.GetImage Method " Url="html/Overload_GW2CSharp_Services_RenderService_GetImage.htm" />
+    <HelpKINode Title="RessourceFile.GetImage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile_GetImage.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetMultipleRessourceFiles method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper_GetMultipleRessourceFiles.htm" />
   <HelpKINode Title="GetQuaggan method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans_QuagganWrapper_GetQuaggan.htm" />
+  <HelpKINode Title="GetRessourceFile method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper_GetRessourceFile.htm" />
   <HelpKINode Title="GetWorldById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById.htm" />
   <HelpKINode Title="GetWorldByIds method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldByIds.htm" />
-  <HelpKINode Title="GuildCommendation enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="GuildCommendation enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="GW2Api class">
     <HelpKINode Title="GW2Api Class" Url="html/T_GW2CSharp_GW2Api.htm" />
     <HelpKINode Title="about GW2Api class" Url="html/T_GW2CSharp_GW2Api.htm" />
@@ -136,7 +140,10 @@
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Currencies.Currency class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Currencies.CurrencyWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_CurrencyWrapper.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Currencies.Enums namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums.htm" />
-  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Currencies.Enums.CurrencyArt enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Currencies.Enums.CurrencyType enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Files namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Files.RessourceFile class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Files.RessourceFileWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Quaggans namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Quaggans.Quaggan class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans_Quaggan.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Miscellaneous.Quaggans.QuagganWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans_QuagganWrapper.htm" />
@@ -150,23 +157,27 @@
   <HelpKINode Title="GW2CSharp.V2.V2Endpoint class" Url="html/T_GW2CSharp_V2_V2Endpoint.htm" />
   <HelpKINode Title="High enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Population.htm" />
   <HelpKINode Title="Hue property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Hue.htm" />
-  <HelpKINode Title="Icon property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Icon.htm" />
+  <HelpKINode Title="Icon property">
+    <HelpKINode Title="Currency.Icon Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Icon.htm" />
+    <HelpKINode Title="RessourceFile.Icon Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile_Icon.htm" />
+  </HelpKINode>
   <HelpKINode Title="Id property">
     <HelpKINode Title="Color.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Id.htm" />
     <HelpKINode Title="Currency.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Currency_Id.htm" />
     <HelpKINode Title="Quaggan.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans_Quaggan_Id.htm" />
+    <HelpKINode Title="RessourceFile.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile_Id.htm" />
     <HelpKINode Title="World.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Id.htm" />
   </HelpKINode>
   <HelpKINode Title="jpg enumeration member" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
-  <HelpKINode Title="Karma enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
-  <HelpKINode Title="KnowledgeCrystal enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="Karma enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="KnowledgeCrystal enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Language enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Language.htm" />
   <HelpKINode Title="Language property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Language.htm" />
-  <HelpKINode Title="Laurel enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="Laurel enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Leather property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Leather.htm" />
   <HelpKINode Title="Lightness property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Lightness.htm" />
   <HelpKINode Title="Low enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Population.htm" />
-  <HelpKINode Title="ManifestoOfTheMoletariate enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="ManifestoOfTheMoletariate enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Medium enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Population.htm" />
   <HelpKINode Title="Metal property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_Color_Metal.htm" />
   <HelpKINode Title="Name property">
@@ -180,7 +191,7 @@
   <HelpKINode Title="png enumeration member" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
   <HelpKINode Title="Population enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Population.htm" />
   <HelpKINode Title="Population property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_World_Population.htm" />
-  <HelpKINode Title="PristineFractalRelic enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="PristineFractalRelic enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Quaggan class">
     <HelpKINode Title="Quaggan Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans_Quaggan.htm" />
     <HelpKINode Title="about Quaggan class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans_Quaggan.htm" />
@@ -211,14 +222,36 @@
   </HelpKINode>
   <HelpKINode Title="RenderService.GetImage method" Url="html/Overload_GW2CSharp_Services_RenderService_GetImage.htm" />
   <HelpKINode Title="RequestedLanguage enumeration" Url="html/T_GW2CSharp_RequestedLanguage.htm" />
+  <HelpKINode Title="RessourceFile class">
+    <HelpKINode Title="RessourceFile Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile.htm" />
+    <HelpKINode Title="about RessourceFile class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RessourceFile.GetImage method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile_GetImage.htm" />
+  <HelpKINode Title="RessourceFile.Icon property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile_Icon.htm" />
+  <HelpKINode Title="RessourceFile.Id property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile_Id.htm" />
+  <HelpKINode Title="RessourceFile.RessourceFile constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFile__ctor.htm" />
+  <HelpKINode Title="RessourceFiles property" Url="html/P_GW2CSharp_V2_V2Endpoint_RessourceFiles.htm" />
+  <HelpKINode Title="RessourceFileWrapper class">
+    <HelpKINode Title="RessourceFileWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper.htm" />
+    <HelpKINode Title="about RessourceFileWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RessourceFileWrapper.GetAllRessourceFiles method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper_GetAllRessourceFiles.htm" />
+  <HelpKINode Title="RessourceFileWrapper.GetMultipleRessourceFiles method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper_GetMultipleRessourceFiles.htm" />
+  <HelpKINode Title="RessourceFileWrapper.GetRessourceFile method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper_GetRessourceFile.htm" />
+  <HelpKINode Title="RessourceFileWrapper.RessourceFileWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper__ctor.htm" />
   <HelpKINode Title="RGB property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_RGB.htm" />
   <HelpKINode Title="Saturation property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Colors_DyeMaterial_Saturation.htm" />
-  <HelpKINode Title="SealOfBeetletun enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
-  <HelpKINode Title="ShardOfZhaitan enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="SealOfBeetletun enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="ShardOfZhaitan enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Spanish enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Language.htm" />
-  <HelpKINode Title="SpiritShard enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
-  <HelpKINode Title="SymbolOfKoda enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
-  <HelpKINode Title="TransmutationCharge enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="SpiritShard enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="SymbolOfKoda enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="TransmutationCharge enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Url property" Url="html/P_GW2CSharp_V2_Unauthenticated_Miscellaneous_Quaggans_Quaggan_Url.htm" />
   <HelpKINode Title="V1 property" Url="html/P_GW2CSharp_GW2Api_V1.htm" />
   <HelpKINode Title="V1Endpoint class">
@@ -240,6 +273,7 @@
   <HelpKINode Title="V2Endpoint.Currencies property" Url="html/P_GW2CSharp_V2_V2Endpoint_Currencies.htm" />
   <HelpKINode Title="V2Endpoint.GetBuildId property" Url="html/P_GW2CSharp_V2_V2Endpoint_GetBuildId.htm" />
   <HelpKINode Title="V2Endpoint.Quaggans property" Url="html/P_GW2CSharp_V2_V2Endpoint_Quaggans.htm" />
+  <HelpKINode Title="V2Endpoint.RessourceFiles property" Url="html/P_GW2CSharp_V2_V2Endpoint_RessourceFiles.htm" />
   <HelpKINode Title="V2Endpoint.V2Endpoint constructor" Url="html/M_GW2CSharp_V2_V2Endpoint__ctor.htm" />
   <HelpKINode Title="V2Endpoint.Worlds property" Url="html/P_GW2CSharp_V2_V2Endpoint_Worlds.htm" />
   <HelpKINode Title="VeryHigh enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_Enums_Population.htm" />
@@ -267,5 +301,5 @@
   <HelpKINode Title="WorldWrapper.GetWorldById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById.htm" />
   <HelpKINode Title="WorldWrapper.GetWorldByIds method" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldByIds.htm" />
   <HelpKINode Title="WorldWrapper.WorldWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper__ctor.htm" />
-  <HelpKINode Title="WvWTournamentClaimTicket enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyArt.htm" />
+  <HelpKINode Title="WvWTournamentClaimTicket enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Miscellaneous_Currencies_Enums_CurrencyType.htm" />
 </HelpKI>
