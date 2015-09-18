@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.7.25.0" projectFile="C:\Users\Dreanor\Desktop\test.shfbproj" started="17.09.2015 20:01:11">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.7.25.0" projectFile="C:\Users\Dreanor\Desktop\test.shfbproj" started="18.09.2015 18:03:47">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -33,12 +33,12 @@ Generating shared content files (en-US, English (United States))...
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00,0030
+    Last step completed in 00:00:00,0040
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - GenerateRefInfo.proj]
-Build started 17.09.2015 20:01:12.
+Build started 18.09.2015 18:03:47.
 Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -47,7 +47,7 @@ GenerateRefInfo:
   Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright &#184; 2006-2015, Eric Woodruff, All Rights Reserved.
   Loaded 1 assemblies for reflection and 1 dependency assemblies.
-  Wrote information on 18 namespaces, 34 types, and 169 members
+  Wrote information on 20 namespaces, 48 types, and 283 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
   XslTransform (v2015.7.25.0)
   Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
@@ -63,7 +63,7 @@ Time Elapsed 00:00:00.61
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - TransformManifest.proj]
-Build started 17.09.2015 20:01:12.
+Build started 18.09.2015 18:03:48.
 Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.7.25.0)
@@ -78,7 +78,7 @@ TransformManifest:
     Unique name M_GW2CSharp_Entities_Money__ctor_1 generated for M:GW2CSharp.Entities.Money.#ctor(System.Int32,System.Int32,System.Int32)
     Unique name M_GW2CSharp_Services_RenderService_GetImage_1 generated for M:GW2CSharp.Services.RenderService.GetImage(System.String,System.String,GW2CSharp.Services.Enums.FileFormat)
     Unique name M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Files_RessourceFileWrapper_GetMultipleRessourceFiles_1 generated for M:GW2CSharp.V2.Unauthenticated.Miscellaneous.Files.RessourceFileWrapper.GetMultipleRessourceFiles(System.String[])
-    Unique name M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById_1 generated for M:GW2CSharp.V2.Unauthenticated.Miscellaneous.Worlds.WorldWrapper.GetWorldById(System.Int32,GW2CSharp.RequestedLanguage)
+    Unique name M_GW2CSharp_V2_Unauthenticated_Miscellaneous_Worlds_WorldWrapper_GetWorldById_1 generated for M:GW2CSharp.V2.Unauthenticated.Miscellaneous.Worlds.WorldWrapper.GetWorldById(System.Int32,GW2CSharp.Enums.RequestedLanguage)
   XslTransform (v2015.7.25.0)
   Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright &#184; 2006-2015, Eric Woodruff, All Rights Reserved.
@@ -87,12 +87,12 @@ Done Building Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\T
 
 Build succeeded.
 
-Time Elapsed 00:00:00.42
-    Last step completed in 00:00:00,5033
+Time Elapsed 00:00:00.41
+    Last step completed in 00:00:00,4982
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00,0070
+    Last step completed in 00:00:00,0100
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -101,12 +101,12 @@ No additional content to copy
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00,0010
+    Last step completed in 00:00:00,0000
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 17.09.2015 20:01:13.
+Build started 18.09.2015 18:03:48.
 Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.7.25.0)
@@ -117,14 +117,14 @@ Done Building Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\G
 
 Build succeeded.
 
-Time Elapsed 00:00:00.11
+Time Elapsed 00:00:00.09
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00,2031
+    Last step completed in 00:00:00,1811
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00,0810
+    Last step completed in 00:00:00,0760
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -134,7 +134,7 @@ D:\Development\c#\GW2-CSharp-Documentation\Working\sandcastle.config
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - BuildReferenceTopics.proj]
-Build started 17.09.2015 20:01:13.
+Build started 18.09.2015 18:03:49.
 Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.7.25.0)
@@ -142,19 +142,19 @@ BuildReferenceTopics:
   Portions Copyright &#184; 2006-2015, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-  Processed 212 topic(s)
+  Processed 252 topic(s)
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 4 of 15.
   CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 3 of 30.
 Done Building Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\BuildReferenceTopics.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:05.51
-    Last step completed in 00:00:05,6498
+Time Elapsed 00:00:05.94
+    Last step completed in 00:00:06,0800
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00,0020
+    Last step completed in 00:00:00,0040
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -166,11 +166,11 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing website files in D:\Development\c#\GW2-CSharp-Documentation\Working\Output\Website
-Processed 212 HTML files
+Processed 252 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to D:\Development\c#\GW2-CSharp-Documentation\Working\WebKI.xml
 Saving website table of contents to D:\Development\c#\GW2-CSharp-Documentation\Working\WebTOC.xml
-    Last step completed in 00:00:00,3112
+    Last step completed in 00:00:00,4682
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -249,7 +249,7 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; D:\Development\c#\GW2-CSharp-Documentation\Working\Output\Website\icons\TocOpen.gif
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; D:\Development\c#\GW2-CSharp-Documentation\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; D:\Development\c#\GW2-CSharp-Documentation\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00,0240
+    Last step completed in 00:00:00,0310
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -260,21 +260,21 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:00,7774
+</plugIn>    Last step completed in 00:00:01,0515
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
-Copied 391 files for the website content
-    Last step completed in 00:00:01,7299
+Copied 440 files for the website content
+    Last step completed in 00:00:01,4417
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00,0820
+    Last step completed in 00:00:00,1031
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 17.09.2015 20:01:22.  Total time: 00:00:10,3952
+Build completed successfully at 18.09.2015 18:03:58.  Total time: 00:00:10,9945
 
 </buildStep>
 </shfbBuild>
