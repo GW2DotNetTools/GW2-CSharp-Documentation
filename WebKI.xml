@@ -52,6 +52,11 @@
     <HelpKINode Title="Race Enumeration" Url="html/T_GW2CSharp_Enums_Race.htm" />
     <HelpKINode Title="Restriction Enumeration" Url="html/T_GW2CSharp_Enums_Restriction.htm" />
   </HelpKINode>
+  <HelpKINode Title="ChatLink property">
+    <HelpKINode Title="Objective.ChatLink Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Objective_ChatLink.htm" />
+    <HelpKINode Title="Poi.ChatLink Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_ChatLink.htm" />
+    <HelpKINode Title="Sector.ChatLink Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_ChatLink.htm" />
+  </HelpKINode>
   <HelpKINode Title="Chef enumeration member" Url="html/T_GW2CSharp_Enums_Discipline.htm" />
   <HelpKINode Title="Cloth property" Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_Color_Cloth.htm" />
   <HelpKINode Title="Clothing enumeration member" Url="html/T_GW2CSharp_Enums_Weight.htm" />
@@ -530,6 +535,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Objective.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Objective.htm" />
   </HelpKINode>
+  <HelpKINode Title="Objective.ChatLink property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Objective_ChatLink.htm" />
   <HelpKINode Title="Objective.Coordinate property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Objective_Coordinate.htm" />
   <HelpKINode Title="Objective.Id property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Objective_Id.htm" />
   <HelpKINode Title="Objective.Level property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Objective_Level.htm" />
@@ -563,6 +569,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Poi.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Poi.htm" />
   </HelpKINode>
+  <HelpKINode Title="Poi.ChatLink property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_ChatLink.htm" />
   <HelpKINode Title="Poi.Coordinate property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_Coordinate.htm" />
   <HelpKINode Title="Poi.Id property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_Id.htm" />
   <HelpKINode Title="Poi.Name property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_Name.htm" />
@@ -698,6 +705,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Sector.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Sector.htm" />
   </HelpKINode>
+  <HelpKINode Title="Sector.ChatLink property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_ChatLink.htm" />
   <HelpKINode Title="Sector.Coordinate property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_Coordinate.htm" />
   <HelpKINode Title="Sector.Id property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_Id.htm" />
   <HelpKINode Title="Sector.Level property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_Level.htm" />

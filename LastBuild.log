@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.7.25.0" projectFile="C:\Users\Dreanor\Desktop\test.shfbproj" started="24.09.2015 22:17:22">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.7.25.0" projectFile="C:\Users\Dreanor\Desktop\test.shfbproj" started="25.09.2015 21:01:58">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -29,16 +29,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00,0020
+</plugIn>    Last step completed in 00:00:00,0140
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00,0050
+    Last step completed in 00:00:00,0090
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - GenerateRefInfo.proj]
-Build started 24.09.2015 22:17:22.
+Build started 25.09.2015 21:01:59.
 Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -47,7 +47,7 @@ GenerateRefInfo:
   Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright &#184; 2006-2015, Eric Woodruff, All Rights Reserved.
   Loaded 1 assemblies for reflection and 1 dependency assemblies.
-  Wrote information on 22 namespaces, 61 types, and 343 members
+  Wrote information on 22 namespaces, 61 types, and 346 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
   XslTransform (v2015.7.25.0)
   Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
@@ -57,13 +57,13 @@ Done Building Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\G
 
 Build succeeded.
 
-Time Elapsed 00:00:00.65
-    Last step completed in 00:00:00,7344
+Time Elapsed 00:00:00.91
+    Last step completed in 00:00:01,1366
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - TransformManifest.proj]
-Build started 24.09.2015 22:17:23.
+Build started 25.09.2015 21:02:00.
 Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.7.25.0)
@@ -87,17 +87,17 @@ Done Building Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\T
 
 Build succeeded.
 
-Time Elapsed 00:00:00.43
-    Last step completed in 00:00:00,5123
+Time Elapsed 00:00:00.68
+    Last step completed in 00:00:00,8654
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00,0120
+    Last step completed in 00:00:00,0200
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00,0000
+    Last step completed in 00:00:00,0020
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
@@ -106,7 +106,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 24.09.2015 22:17:23.
+Build started 25.09.2015 21:02:01.
 Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.7.25.0)
@@ -117,24 +117,24 @@ Done Building Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\G
 
 Build succeeded.
 
-Time Elapsed 00:00:00.10
+Time Elapsed 00:00:00.35
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00,1801
+    Last step completed in 00:00:00,5363
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00,0840
+    Last step completed in 00:00:00,0920
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 D:\Development\c#\GW2-CSharp-Documentation\Working\sandcastle.config
-    Last step completed in 00:00:00,0010
+    Last step completed in 00:00:00,0040
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe - BuildReferenceTopics.proj]
-Build started 24.09.2015 22:17:24.
+Build started 25.09.2015 21:02:02.
 Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.7.25.0)
@@ -142,19 +142,19 @@ BuildReferenceTopics:
   Portions Copyright &#184; 2006-2015, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-  Processed 347 topic(s)
+  Processed 350 topic(s)
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 4 of 15.
-  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 3 of 30.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
 Done Building Project &quot;D:\Development\c#\GW2-CSharp-Documentation\Working\BuildReferenceTopics.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:05.88
-    Last step completed in 00:00:06,0260
+Time Elapsed 00:00:09.28
+    Last step completed in 00:00:09,5148
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00,0030
+    Last step completed in 00:00:00,0040
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -166,11 +166,11 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing website files in D:\Development\c#\GW2-CSharp-Documentation\Working\Output\Website
-Processed 347 HTML files
+Processed 350 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to D:\Development\c#\GW2-CSharp-Documentation\Working\WebKI.xml
 Saving website table of contents to D:\Development\c#\GW2-CSharp-Documentation\Working\WebTOC.xml
-    Last step completed in 00:00:00,3592
+    Last step completed in 00:00:00,7234
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -249,7 +249,7 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; D:\Development\c#\GW2-CSharp-Documentation\Working\Output\Website\icons\TocOpen.gif
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; D:\Development\c#\GW2-CSharp-Documentation\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; D:\Development\c#\GW2-CSharp-Documentation\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00,0270
+    Last step completed in 00:00:00,0300
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -260,22 +260,22 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:01,2356
+</plugIn>    Last step completed in 00:00:01,2436
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 500 files
-Copied 560 files for the website content
-    Last step completed in 00:00:03,0255
+Copied 563 files for the website content
+    Last step completed in 00:00:03,0715
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00,0970
+    Last step completed in 00:00:00,1031
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 24.09.2015 22:17:34.  Total time: 00:00:12,6623
+Build completed successfully at 25.09.2015 21:02:16.  Total time: 00:00:17,9760
 
 </buildStep>
 </shfbBuild>
