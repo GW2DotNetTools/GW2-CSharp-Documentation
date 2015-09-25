@@ -120,7 +120,12 @@
   <HelpKINode Title="Continent.MaxZoom property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_MaxZoom.htm" />
   <HelpKINode Title="Continent.MinZoom property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_MinZoom.htm" />
   <HelpKINode Title="Continent.Name property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Name.htm" />
-  <HelpKINode Title="ContinentRectangle property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_ContinentRectangle.htm" />
+  <HelpKINode Title="ContinentId property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentId.htm" />
+  <HelpKINode Title="ContinentName property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentName.htm" />
+  <HelpKINode Title="ContinentRectangle property">
+    <HelpKINode Title="Map.ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentRectangle.htm" />
+    <HelpKINode Title="Map.ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_ContinentRectangle.htm" />
+  </HelpKINode>
   <HelpKINode Title="Continents property" Url="html/P_GW2CSharp_V2_V2Endpoint_Continents.htm" />
   <HelpKINode Title="ContinentWrapper class">
     <HelpKINode Title="ContinentWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper.htm" />
@@ -140,25 +145,25 @@
     <HelpKINode Title="SkillChallenge.Coordinate Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_SkillChallenge_Coordinate.htm" />
   </HelpKINode>
   <HelpKINode Title="Coordinate(Of T) class">
-    <HelpKINode Title="Coordinate(T) Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
-    <HelpKINode Title="about Coordinate(Of T) class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
-    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
+    <HelpKINode Title="Coordinate(T) Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
+    <HelpKINode Title="about Coordinate(Of T) class" Url="html/T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Coordinate_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="Coordinate(Of T).Coordinate constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1__ctor.htm" />
-  <HelpKINode Title="Coordinate(Of T).X property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1_X.htm" />
-  <HelpKINode Title="Coordinate(Of T).Y property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1_Y.htm" />
+  <HelpKINode Title="Coordinate(Of T).Coordinate constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Coordinate_1__ctor.htm" />
+  <HelpKINode Title="Coordinate(Of T).X property" Url="html/P_GW2CSharp_V2_Unauthenticated_Coordinate_1_X.htm" />
+  <HelpKINode Title="Coordinate(Of T).Y property" Url="html/P_GW2CSharp_V2_Unauthenticated_Coordinate_1_Y.htm" />
   <HelpKINode Title="Coordinate&lt;T&gt; class">
-    <HelpKINode Title="Coordinate(T) Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
-    <HelpKINode Title="about Coordinate&lt;T&gt; class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
-    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
+    <HelpKINode Title="Coordinate(T) Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
+    <HelpKINode Title="about Coordinate&lt;T&gt; class" Url="html/T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Coordinate_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
   </HelpKINode>
-  <HelpKINode Title="Coordinate&lt;T&gt;.Coordinate constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1__ctor.htm" />
-  <HelpKINode Title="Coordinate&lt;T&gt;.X property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1_X.htm" />
-  <HelpKINode Title="Coordinate&lt;T&gt;.Y property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1_Y.htm" />
+  <HelpKINode Title="Coordinate&lt;T&gt;.Coordinate constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Coordinate_1__ctor.htm" />
+  <HelpKINode Title="Coordinate&lt;T&gt;.X property" Url="html/P_GW2CSharp_V2_Unauthenticated_Coordinate_1_X.htm" />
+  <HelpKINode Title="Coordinate&lt;T&gt;.Y property" Url="html/P_GW2CSharp_V2_Unauthenticated_Coordinate_1_Y.htm" />
   <HelpKINode Title="Copper property" Url="html/P_GW2CSharp_Entities_Money_Copper.htm" />
   <HelpKINode Title="Currencies property" Url="html/P_GW2CSharp_V2_V2Endpoint_Currencies.htm" />
   <HelpKINode Title="Currency class">
@@ -190,7 +195,10 @@
   <HelpKINode Title="DamageType property" Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail_DamageType.htm" />
   <HelpKINode Title="De enumeration member" Url="html/T_GW2CSharp_Enums_RequestedLanguage.htm" />
   <HelpKINode Title="DeadlyBloom enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
-  <HelpKINode Title="DefaultFloor property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
+  <HelpKINode Title="DefaultFloor property">
+    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
+    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_DefaultFloor.htm" />
+  </HelpKINode>
   <HelpKINode Title="Description property">
     <HelpKINode Title="Currency.Description Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Currencies_Currency_Description.htm" />
     <HelpKINode Title="Skin.Description Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin_Description.htm" />
@@ -251,7 +259,10 @@
   <HelpKINode Title="Floor.Dimension property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Floor_Dimension.htm" />
   <HelpKINode Title="Floor.Floor constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Floor__ctor.htm" />
   <HelpKINode Title="Floor.Regions property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Floor_Regions.htm" />
-  <HelpKINode Title="Floors property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Floors.htm" />
+  <HelpKINode Title="Floors property">
+    <HelpKINode Title="Continent.Floors Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Floors.htm" />
+    <HelpKINode Title="Map.Floors Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Floors.htm" />
+  </HelpKINode>
   <HelpKINode Title="Focus enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
   <HelpKINode Title="Forfeits property" Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic_Forfeits.htm" />
   <HelpKINode Title="Fr enumeration member" Url="html/T_GW2CSharp_Enums_RequestedLanguage.htm" />
@@ -275,7 +286,10 @@
   <HelpKINode Title="Gender enumeration" Url="html/T_GW2CSharp_Enums_Gender.htm" />
   <HelpKINode Title="Geode enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="German enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Language.htm" />
-  <HelpKINode Title="GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetAll.htm" />
+  <HelpKINode Title="GetAll method">
+    <HelpKINode Title="ContinentWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetAll.htm" />
+    <HelpKINode Title="MapWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetAll.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetAllColors method" Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetAllColors.htm" />
   <HelpKINode Title="GetAllCurrencies method" Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_GetAllCurrencies.htm" />
   <HelpKINode Title="GetAllQuaggans method" Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_GetAllQuaggans.htm" />
@@ -283,7 +297,10 @@
   <HelpKINode Title="GetAllSkins method" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper_GetAllSkins.htm" />
   <HelpKINode Title="GetAllWorlds method" Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetAllWorlds.htm" />
   <HelpKINode Title="GetBuildId property" Url="html/P_GW2CSharp_V2_V2Endpoint_GetBuildId.htm" />
-  <HelpKINode Title="GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetById.htm" />
+  <HelpKINode Title="GetById method">
+    <HelpKINode Title="ContinentWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetById.htm" />
+    <HelpKINode Title="MapWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetById.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetCoin method" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper_GetCoin.htm" />
   <HelpKINode Title="GetColorById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetColorById.htm" />
   <HelpKINode Title="GetColorByPage method" Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetColorByPage.htm" />
@@ -355,6 +372,7 @@
   <HelpKINode Title="GW2CSharp.V2.Authenticated.TokenInfo.Permission class" Url="html/T_GW2CSharp_V2_Authenticated_TokenInfo_Permission.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.TokenInfo.Tokeninfo class" Url="html/T_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.TokenInfo.TokeninfoWrapper class" Url="html/T_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated namespace" Url="html/N_GW2CSharp_V2_Unauthenticated.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Colors namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Colors.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Colors.Color class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_Color.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Colors.ColorWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper.htm" />
@@ -366,18 +384,17 @@
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Continents.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Continent class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Continent.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.ContinentWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper.htm" />
-  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Coordinate(Of T) class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
-  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Coordinate&lt;T&gt; class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Enums namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Continents_Enums.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Enums.PoiType enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Enums_PoiType.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Floor class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Floor.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Objective class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Objective.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Poi class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Poi.htm" />
-  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Rectangle class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Rectangle.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Region class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Region.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Sector class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Sector.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.SkillChallenge class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_SkillChallenge.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Coordinate(Of T) class" Url="html/T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Coordinate&lt;T&gt; class" Url="html/T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Currencies namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Currencies.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Currencies.Currency class" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Currency.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Currencies.CurrencyWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper.htm" />
@@ -393,9 +410,13 @@
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Items.Skins.Skin class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Items.Skins.SkinDetail class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Items.Skins.SkinWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Maps namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Maps.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Maps.Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Maps.MapWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Quaggans namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Quaggans.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Quaggans.Quaggan class" Url="html/T_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Quaggans.QuagganWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Rectangle class" Url="html/T_GW2CSharp_V2_Unauthenticated_Rectangle.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Worlds namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Worlds.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Worlds.Enums namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Worlds_Enums.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Worlds.Enums.Language enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Language.htm" />
@@ -427,6 +448,7 @@
     <HelpKINode Title="Color.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_Color_Id.htm" />
     <HelpKINode Title="Continent.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Id.htm" />
     <HelpKINode Title="Currency.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Currencies_Currency_Id.htm" />
+    <HelpKINode Title="Map.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Id.htm" />
     <HelpKINode Title="Objective.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Objective_Id.htm" />
     <HelpKINode Title="Poi.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_Id.htm" />
     <HelpKINode Title="Quaggan.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan_Id.htm" />
@@ -465,26 +487,76 @@
   <HelpKINode Title="Male enumeration member" Url="html/T_GW2CSharp_Enums_Gender.htm" />
   <HelpKINode Title="ManifestoOfTheMoletariate enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Map class">
+    <HelpKINode Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
     <HelpKINode Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
     <HelpKINode Title="about Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
+    <HelpKINode Title="about Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_Map__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Map__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
   </HelpKINode>
-  <HelpKINode Title="Map.ContinentRectangle property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_ContinentRectangle.htm" />
-  <HelpKINode Title="Map.DefaultFloor property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
-  <HelpKINode Title="Map.Map constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Map__ctor.htm" />
-  <HelpKINode Title="Map.MapRectangle property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MapRectangle.htm" />
-  <HelpKINode Title="Map.MaxLevel property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MaxLevel.htm" />
-  <HelpKINode Title="Map.MinLevel property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MinLevel.htm" />
-  <HelpKINode Title="Map.Name property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Name.htm" />
+  <HelpKINode Title="Map.ContinentId property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentId.htm" />
+  <HelpKINode Title="Map.ContinentName property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentName.htm" />
+  <HelpKINode Title="Map.ContinentRectangle property">
+    <HelpKINode Title="Map.ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentRectangle.htm" />
+    <HelpKINode Title="Map.ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_ContinentRectangle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Map.DefaultFloor property">
+    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_DefaultFloor.htm" />
+    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Map.Floors property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Floors.htm" />
+  <HelpKINode Title="Map.Id property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Id.htm" />
+  <HelpKINode Title="Map.Map constructor">
+    <HelpKINode Title="Map Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Map__ctor.htm" />
+    <HelpKINode Title="Map Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_Map__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Map.MapRectangle property">
+    <HelpKINode Title="Map.MapRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MapRectangle.htm" />
+    <HelpKINode Title="Map.MapRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MapRectangle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Map.MaxLevel property">
+    <HelpKINode Title="Map.MaxLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MaxLevel.htm" />
+    <HelpKINode Title="Map.MaxLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MaxLevel.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Map.MinLevel property">
+    <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MinLevel.htm" />
+    <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MinLevel.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Map.Name property">
+    <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Name.htm" />
+    <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Name.htm" />
+  </HelpKINode>
   <HelpKINode Title="Map.Objectives property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Objectives.htm" />
   <HelpKINode Title="Map.PointsOfInterest property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_PointsOfInterest.htm" />
+  <HelpKINode Title="Map.RegionId property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_RegionId.htm" />
+  <HelpKINode Title="Map.RegionName property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_RegionName.htm" />
   <HelpKINode Title="Map.Sectors property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Sectors.htm" />
   <HelpKINode Title="Map.SkillChallenges property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_SkillChallenges.htm" />
-  <HelpKINode Title="MapRectangle property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MapRectangle.htm" />
-  <HelpKINode Title="Maps property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Region_Maps.htm" />
-  <HelpKINode Title="MaxLevel property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MaxLevel.htm" />
+  <HelpKINode Title="MapRectangle property">
+    <HelpKINode Title="Map.MapRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MapRectangle.htm" />
+    <HelpKINode Title="Map.MapRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MapRectangle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Maps property">
+    <HelpKINode Title="Region.Maps Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Region_Maps.htm" />
+    <HelpKINode Title="V2Endpoint.Maps Property " Url="html/P_GW2CSharp_V2_V2Endpoint_Maps.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MapWrapper class">
+    <HelpKINode Title="MapWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper.htm" />
+    <HelpKINode Title="about MapWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MapWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetAll.htm" />
+  <HelpKINode Title="MapWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetById.htm" />
+  <HelpKINode Title="MapWrapper.MapWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper__ctor.htm" />
+  <HelpKINode Title="MaxLevel property">
+    <HelpKINode Title="Map.MaxLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MaxLevel.htm" />
+    <HelpKINode Title="Map.MaxLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MaxLevel.htm" />
+  </HelpKINode>
   <HelpKINode Title="MaxZoom property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_MaxZoom.htm" />
   <HelpKINode Title="Medium enumeration member">
     <HelpKINode Title="Population Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Population.htm" />
@@ -495,7 +567,10 @@
     <HelpKINode Title="Restriction Enumeration" Url="html/T_GW2CSharp_Enums_Restriction.htm" />
   </HelpKINode>
   <HelpKINode Title="Metal property" Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_Color_Metal.htm" />
-  <HelpKINode Title="MinLevel property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MinLevel.htm" />
+  <HelpKINode Title="MinLevel property">
+    <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MinLevel.htm" />
+    <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MinLevel.htm" />
+  </HelpKINode>
   <HelpKINode Title="MinZoom property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_MinZoom.htm" />
   <HelpKINode Title="Money class">
     <HelpKINode Title="Money Class" Url="html/T_GW2CSharp_Entities_Money.htm" />
@@ -514,6 +589,7 @@
     <HelpKINode Title="Continent.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Name.htm" />
     <HelpKINode Title="Currency.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Currencies_Currency_Name.htm" />
     <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Name.htm" />
+    <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Name.htm" />
     <HelpKINode Title="Poi.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_Name.htm" />
     <HelpKINode Title="Region.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Region_Name.htm" />
     <HelpKINode Title="Sector.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_Name.htm" />
@@ -636,15 +712,15 @@
   <HelpKINode Title="Rank property" Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic_Rank.htm" />
   <HelpKINode Title="Ranked enumeration member" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Stats_Enums_Ladder.htm" />
   <HelpKINode Title="Rectangle class">
-    <HelpKINode Title="Rectangle Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Rectangle.htm" />
-    <HelpKINode Title="about Rectangle class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Rectangle.htm" />
-    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Rectangle__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Rectangle.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Rectangle.htm" />
+    <HelpKINode Title="Rectangle Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Rectangle.htm" />
+    <HelpKINode Title="about Rectangle class" Url="html/T_GW2CSharp_V2_Unauthenticated_Rectangle.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Rectangle__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Rectangle.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Rectangle.htm" />
   </HelpKINode>
-  <HelpKINode Title="Rectangle.Rectangle constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Rectangle__ctor.htm" />
-  <HelpKINode Title="Rectangle.X property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Rectangle_X.htm" />
-  <HelpKINode Title="Rectangle.Y property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Rectangle_Y.htm" />
+  <HelpKINode Title="Rectangle.Rectangle constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Rectangle__ctor.htm" />
+  <HelpKINode Title="Rectangle.X property" Url="html/P_GW2CSharp_V2_Unauthenticated_Rectangle_X.htm" />
+  <HelpKINode Title="Rectangle.Y property" Url="html/P_GW2CSharp_V2_Unauthenticated_Rectangle_Y.htm" />
   <HelpKINode Title="Region class">
     <HelpKINode Title="Region Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Region.htm" />
     <HelpKINode Title="about Region class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Region.htm" />
@@ -658,6 +734,8 @@
   <HelpKINode Title="Region.Maps property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Region_Maps.htm" />
   <HelpKINode Title="Region.Name property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Region_Name.htm" />
   <HelpKINode Title="Region.Region constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Region__ctor.htm" />
+  <HelpKINode Title="RegionId property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_RegionId.htm" />
+  <HelpKINode Title="RegionName property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_RegionName.htm" />
   <HelpKINode Title="Regions property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Floor_Regions.htm" />
   <HelpKINode Title="RenderService class">
     <HelpKINode Title="RenderService Class" Url="html/T_GW2CSharp_Services_RenderService.htm" />
@@ -873,6 +951,7 @@
   <HelpKINode Title="V2Endpoint.Currencies property" Url="html/P_GW2CSharp_V2_V2Endpoint_Currencies.htm" />
   <HelpKINode Title="V2Endpoint.Exchanges property" Url="html/P_GW2CSharp_V2_V2Endpoint_Exchanges.htm" />
   <HelpKINode Title="V2Endpoint.GetBuildId property" Url="html/P_GW2CSharp_V2_V2Endpoint_GetBuildId.htm" />
+  <HelpKINode Title="V2Endpoint.Maps property" Url="html/P_GW2CSharp_V2_V2Endpoint_Maps.htm" />
   <HelpKINode Title="V2Endpoint.PvpStatistics property" Url="html/P_GW2CSharp_V2_V2Endpoint_PvpStatistics.htm" />
   <HelpKINode Title="V2Endpoint.Quaggans property" Url="html/P_GW2CSharp_V2_V2Endpoint_Quaggans.htm" />
   <HelpKINode Title="V2Endpoint.RessourceFiles property" Url="html/P_GW2CSharp_V2_V2Endpoint_RessourceFiles.htm" />
@@ -924,11 +1003,11 @@
   <HelpKINode Title="Wvw enumeration member" Url="html/T_GW2CSharp_Enums_GameMode.htm" />
   <HelpKINode Title="WvWTournamentClaimTicket enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="X property">
-    <HelpKINode Title="Coordinate(T).X Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1_X.htm" />
-    <HelpKINode Title="Rectangle.X Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Rectangle_X.htm" />
+    <HelpKINode Title="Coordinate(T).X Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Coordinate_1_X.htm" />
+    <HelpKINode Title="Rectangle.X Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Rectangle_X.htm" />
   </HelpKINode>
   <HelpKINode Title="Y property">
-    <HelpKINode Title="Coordinate(T).Y Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Coordinate_1_Y.htm" />
-    <HelpKINode Title="Rectangle.Y Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Rectangle_Y.htm" />
+    <HelpKINode Title="Coordinate(T).Y Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Coordinate_1_Y.htm" />
+    <HelpKINode Title="Rectangle.Y Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Rectangle_Y.htm" />
   </HelpKINode>
 </HelpKI>
