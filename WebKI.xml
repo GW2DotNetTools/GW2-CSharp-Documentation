@@ -1,10 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
+  <HelpKINode Title="Access property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Access.htm" />
   <HelpKINode Title="Accessory1 enumeration member" Url="html/T_GW2CSharp_Enums_Armor.htm" />
   <HelpKINode Title="Accessory2 enumeration member" Url="html/T_GW2CSharp_Enums_Armor.htm" />
-  <HelpKINode Title="Account property" Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Account.htm" />
+  <HelpKINode Title="Account class">
+    <HelpKINode Title="Account Class" Url="html/T_GW2CSharp_V2_Authenticated_Account_Account.htm" />
+    <HelpKINode Title="about Account class" Url="html/T_GW2CSharp_V2_Authenticated_Account_Account.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Authenticated_Account_Account__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Account_Account.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Account_Account.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Account property">
+    <HelpKINode Title="Permission.Account Property " Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Account.htm" />
+    <HelpKINode Title="V2Endpoint.Account Property " Url="html/P_GW2CSharp_V2_V2Endpoint_Account.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Account.Access property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Access.htm" />
+  <HelpKINode Title="Account.Account constructor" Url="html/M_GW2CSharp_V2_Authenticated_Account_Account__ctor.htm" />
+  <HelpKINode Title="Account.Created property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Created.htm" />
+  <HelpKINode Title="Account.FractalLevel property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_FractalLevel.htm" />
+  <HelpKINode Title="Account.Guilds property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Guilds.htm" />
+  <HelpKINode Title="Account.Id property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Id.htm" />
+  <HelpKINode Title="Account.Name property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Name.htm" />
+  <HelpKINode Title="Account.World property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_World.htm" />
   <HelpKINode Title="AccountBindOnUse enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemFlag.htm" />
   <HelpKINode Title="AccountBound enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemFlag.htm" />
+  <HelpKINode Title="AccountType enumeration" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountType.htm" />
+  <HelpKINode Title="AccountWrapper class">
+    <HelpKINode Title="AccountWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm" />
+    <HelpKINode Title="about AccountWrapper class" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Authenticated_Account_AccountWrapper__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AccountWrapper.AccountWrapper constructor" Url="html/M_GW2CSharp_V2_Authenticated_Account_AccountWrapper__ctor.htm" />
+  <HelpKINode Title="AccountWrapper.Get method" Url="html/M_GW2CSharp_V2_Authenticated_Account_AccountWrapper_Get.htm" />
   <HelpKINode Title="Achievement class">
     <HelpKINode Title="Achievement Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm" />
     <HelpKINode Title="about Achievement class" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm" />
@@ -88,6 +116,10 @@
   <HelpKINode Title="Boots enumeration member" Url="html/T_GW2CSharp_Enums_Armor.htm" />
   <HelpKINode Title="Brightness property" Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial_Brightness.htm" />
   <HelpKINode Title="Builds property" Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Builds.htm" />
+  <HelpKINode Title="Buys property">
+    <HelpKINode Title="Listing.Buys Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Listing_Buys.htm" />
+    <HelpKINode Title="Price.Buys Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Buys.htm" />
+  </HelpKINode>
   <HelpKINode Title="Byes property" Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic_Byes.htm" />
   <HelpKINode Title="CategoryDisplay enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Enums_AchievementCategories.htm" />
   <HelpKINode Title="Characters property" Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Characters.htm" />
@@ -212,6 +244,7 @@
   <HelpKINode Title="Coordinate&lt;T&gt;.Y property" Url="html/P_GW2CSharp_V2_Unauthenticated_Coordinate_1_Y.htm" />
   <HelpKINode Title="Copper property" Url="html/P_GW2CSharp_Entities_Money_Copper.htm" />
   <HelpKINode Title="CraftingMaterial enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
+  <HelpKINode Title="Created property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Created.htm" />
   <HelpKINode Title="Currencies property" Url="html/P_GW2CSharp_V2_V2Endpoint_Currencies.htm" />
   <HelpKINode Title="Currency class">
     <HelpKINode Title="Currency Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Currency.htm" />
@@ -243,8 +276,8 @@
   <HelpKINode Title="De enumeration member" Url="html/T_GW2CSharp_Enums_RequestedLanguage.htm" />
   <HelpKINode Title="DeadlyBloom enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="DefaultFloor property">
-    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_DefaultFloor.htm" />
     <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
+    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_DefaultFloor.htm" />
   </HelpKINode>
   <HelpKINode Title="Description property">
     <HelpKINode Title="Achievement.Description Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_Description.htm" />
@@ -324,6 +357,7 @@
   <HelpKINode Title="Focus enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
   <HelpKINode Title="Forfeits property" Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic_Forfeits.htm" />
   <HelpKINode Title="Fr enumeration member" Url="html/T_GW2CSharp_Enums_RequestedLanguage.htm" />
+  <HelpKINode Title="FractalLevel property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_FractalLevel.htm" />
   <HelpKINode Title="FractalRelic enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="French enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Language.htm" />
   <HelpKINode Title="Full enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Population.htm" />
@@ -347,6 +381,7 @@
   <HelpKINode Title="Geode enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="German enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Language.htm" />
   <HelpKINode Title="Get method">
+    <HelpKINode Title="AccountWrapper.Get Method " Url="html/M_GW2CSharp_V2_Authenticated_Account_AccountWrapper_Get.htm" />
     <HelpKINode Title="AchievementWrapper.Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_Get.htm" />
     <HelpKINode Title="CurrencyWrapper.Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_Get.htm" />
     <HelpKINode Title="MinisWrapper.Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_Get.htm" />
@@ -361,8 +396,10 @@
     <HelpKINode Title="ContinentWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetAll.htm" />
     <HelpKINode Title="CurrencyWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_GetAll.htm" />
     <HelpKINode Title="ItemWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetAll.htm" />
+    <HelpKINode Title="ListingWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetAll.htm" />
     <HelpKINode Title="MapWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetAll.htm" />
     <HelpKINode Title="MinisWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_GetAll.htm" />
+    <HelpKINode Title="PriceWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetAll.htm" />
     <HelpKINode Title="QuagganWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_GetAll.htm" />
     <HelpKINode Title="RessourceFileWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_GetAll.htm" />
     <HelpKINode Title="SkinWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper_GetAll.htm" />
@@ -373,7 +410,9 @@
     <HelpKINode Title="ColorWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetById.htm" />
     <HelpKINode Title="ContinentWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetById.htm" />
     <HelpKINode Title="ItemWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetById.htm" />
+    <HelpKINode Title="ListingWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetById.htm" />
     <HelpKINode Title="MapWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetById.htm" />
+    <HelpKINode Title="PriceWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetById.htm" />
     <HelpKINode Title="SkinWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper_GetById.htm" />
     <HelpKINode Title="WorldWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetById.htm" />
   </HelpKINode>
@@ -396,6 +435,8 @@
   </HelpKINode>
   <HelpKINode Title="GetMultiple method">
     <HelpKINode Title="AchievementWrapper.GetMultiple Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetMultiple.htm" />
+    <HelpKINode Title="ListingWrapper.GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetMultiple.htm" />
+    <HelpKINode Title="PriceWrapper.GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetMultiple.htm" />
     <HelpKINode Title="RessourceFileWrapper.GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_GetMultiple.htm" />
   </HelpKINode>
   <HelpKINode Title="GetRawCoin method" Url="html/M_GW2CSharp_Entities_Money_GetRawCoin.htm" />
@@ -408,6 +449,8 @@
     <HelpKINode Title="Restriction Enumeration" Url="html/T_GW2CSharp_Enums_Restriction.htm" />
   </HelpKINode>
   <HelpKINode Title="GuildCommendation enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="Guilds property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Guilds.htm" />
+  <HelpKINode Title="GuildWars2 enumeration member" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountType.htm" />
   <HelpKINode Title="GW2Api class">
     <HelpKINode Title="GW2Api Class" Url="html/T_GW2CSharp_GW2Api.htm" />
     <HelpKINode Title="about GW2Api class" Url="html/T_GW2CSharp_GW2Api.htm" />
@@ -441,6 +484,10 @@
   <HelpKINode Title="GW2CSharp.V1 namespace" Url="html/N_GW2CSharp_V1.htm" />
   <HelpKINode Title="GW2CSharp.V1.V1Endpoint class" Url="html/T_GW2CSharp_V1_V1Endpoint.htm" />
   <HelpKINode Title="GW2CSharp.V2 namespace" Url="html/N_GW2CSharp_V2.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Authenticated.Account namespace" Url="html/N_GW2CSharp_V2_Authenticated_Account.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Authenticated.Account.Account class" Url="html/T_GW2CSharp_V2_Authenticated_Account_Account.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Authenticated.Account.AccountType enumeration" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountType.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Authenticated.Account.AccountWrapper class" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.Pvp.Games namespace" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Games.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.Pvp.Games.Enums namespace" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Games_Enums.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.Pvp.Games.Enums.Team enumeration" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Games_Enums_Team.htm" />
@@ -467,10 +514,17 @@
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Colors.Color class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_Color.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Colors.ColorWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Colors.DyeMaterial class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Commerce.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.Exchange namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Commerce_Exchange.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.Exchange.Coin class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.Exchange.ExchangeWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.Exchange.Gem class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.Listing class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.ListingWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.Price class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.PriceWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.TpItem class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Commerce.TpItemListing class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents namespace" Url="html/N_GW2CSharp_V2_Unauthenticated_Continents.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.Continent class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Continent.htm" />
   <HelpKINode Title="GW2CSharp.V2.Unauthenticated.Continents.ContinentWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper.htm" />
@@ -526,6 +580,7 @@
   <HelpKINode Title="GW2CSharp.V2.V2Endpoint class" Url="html/T_GW2CSharp_V2_V2Endpoint.htm" />
   <HelpKINode Title="Hammer enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
   <HelpKINode Title="Harpoon enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
+  <HelpKINode Title="HeartOfThorns enumeration member" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountType.htm" />
   <HelpKINode Title="Heavy enumeration member" Url="html/T_GW2CSharp_Enums_Weight.htm" />
   <HelpKINode Title="Helm enumeration member" Url="html/T_GW2CSharp_Enums_Armor.htm" />
   <HelpKINode Title="HelmAquatic enumeration member" Url="html/T_GW2CSharp_Enums_Armor.htm" />
@@ -548,6 +603,7 @@
     <HelpKINode Title="Skin.Icon Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin_Icon.htm" />
   </HelpKINode>
   <HelpKINode Title="Id property">
+    <HelpKINode Title="Account.Id Property " Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Id.htm" />
     <HelpKINode Title="Achievement.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_Id.htm" />
     <HelpKINode Title="Color.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_Color_Id.htm" />
     <HelpKINode Title="Continent.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Id.htm" />
@@ -573,6 +629,10 @@
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Item__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_Item.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Items_Item.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item property">
+    <HelpKINode Title="Listing.Item Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Listing_Item.htm" />
+    <HelpKINode Title="Price.Item Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Item.htm" />
   </HelpKINode>
   <HelpKINode Title="Item.ChatLink property" Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Item_ChatLink.htm" />
   <HelpKINode Title="Item.Description property" Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Item_Description.htm" />
@@ -627,6 +687,31 @@
   <HelpKINode Title="Light enumeration member" Url="html/T_GW2CSharp_Enums_Weight.htm" />
   <HelpKINode Title="Lightness property" Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial_Lightness.htm" />
   <HelpKINode Title="Lightning enumeration member" Url="html/T_GW2CSharp_Enums_DamageType.htm" />
+  <HelpKINode Title="Listing class">
+    <HelpKINode Title="Listing Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm" />
+    <HelpKINode Title="about Listing class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Listing__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Listing.Buys property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Listing_Buys.htm" />
+  <HelpKINode Title="Listing.Item property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Listing_Item.htm" />
+  <HelpKINode Title="Listing.Listing constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Listing__ctor.htm" />
+  <HelpKINode Title="Listing.Sells property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Listing_Sells.htm" />
+  <HelpKINode Title="Listings property">
+    <HelpKINode Title="TpItemListing.Listings Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing_Listings.htm" />
+    <HelpKINode Title="V2Endpoint.Listings Property " Url="html/P_GW2CSharp_V2_V2Endpoint_Listings.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ListingWrapper class">
+    <HelpKINode Title="ListingWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper.htm" />
+    <HelpKINode Title="about ListingWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ListingWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetAll.htm" />
+  <HelpKINode Title="ListingWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetById.htm" />
+  <HelpKINode Title="ListingWrapper.GetMultiple method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetMultiple.htm" />
+  <HelpKINode Title="ListingWrapper.ListingWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper__ctor.htm" />
   <HelpKINode Title="LongBow enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
   <HelpKINode Title="Losses property" Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic_Losses.htm" />
   <HelpKINode Title="Low enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Population.htm" />
@@ -636,8 +721,8 @@
   <HelpKINode Title="Map class">
     <HelpKINode Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
     <HelpKINode Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
-    <HelpKINode Title="about Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
     <HelpKINode Title="about Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
+    <HelpKINode Title="about Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Map__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_Map__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
@@ -652,8 +737,8 @@
     <HelpKINode Title="Map.ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentRectangle.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.DefaultFloor property">
-    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
     <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_DefaultFloor.htm" />
+    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.Floors property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Floors.htm" />
   <HelpKINode Title="Map.Id property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Id.htm" />
@@ -666,16 +751,16 @@
     <HelpKINode Title="Map.MapRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MapRectangle.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.MaxLevel property">
-    <HelpKINode Title="Map.MaxLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MaxLevel.htm" />
     <HelpKINode Title="Map.MaxLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MaxLevel.htm" />
+    <HelpKINode Title="Map.MaxLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MaxLevel.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.MinLevel property">
     <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MinLevel.htm" />
     <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MinLevel.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.Name property">
-    <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Name.htm" />
     <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Name.htm" />
+    <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Name.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.Objectives property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Objectives.htm" />
   <HelpKINode Title="Map.PointsOfInterest property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_PointsOfInterest.htm" />
@@ -762,6 +847,7 @@
   <HelpKINode Title="MonsterOnly enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemFlag.htm" />
   <HelpKINode Title="MoveToTop enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Enums_AchievementCategories.htm" />
   <HelpKINode Title="Name property">
+    <HelpKINode Title="Account.Name Property " Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Name.htm" />
     <HelpKINode Title="Achievement.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_Name.htm" />
     <HelpKINode Title="Color.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_Color_Name.htm" />
     <HelpKINode Title="Continent.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Name.htm" />
@@ -780,6 +866,7 @@
   <HelpKINode Title="Necromancer enumeration member" Url="html/T_GW2CSharp_Enums_Profession.htm" />
   <HelpKINode Title="NoCost enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_Enums_SkinFlag.htm" />
   <HelpKINode Title="NoMysticForge enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemFlag.htm" />
+  <HelpKINode Title="None enumeration member" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountType.htm" />
   <HelpKINode Title="Norn enumeration member">
     <HelpKINode Title="Race Enumeration" Url="html/T_GW2CSharp_Enums_Race.htm" />
     <HelpKINode Title="Restriction Enumeration" Url="html/T_GW2CSharp_Enums_Restriction.htm" />
@@ -825,6 +912,7 @@
   <HelpKINode Title="Permission.Wallet property" Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Wallet.htm" />
   <HelpKINode Title="Physical enumeration member" Url="html/T_GW2CSharp_Enums_DamageType.htm" />
   <HelpKINode Title="Pistol enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
+  <HelpKINode Title="PlayForFree enumeration member" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountType.htm" />
   <HelpKINode Title="png enumeration member" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
   <HelpKINode Title="Poi class">
     <HelpKINode Title="Poi Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Poi.htm" />
@@ -843,6 +931,29 @@
   <HelpKINode Title="PoiType enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Enums_PoiType.htm" />
   <HelpKINode Title="Population enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Population.htm" />
   <HelpKINode Title="Population property" Url="html/P_GW2CSharp_V2_Unauthenticated_Worlds_World_Population.htm" />
+  <HelpKINode Title="Price class">
+    <HelpKINode Title="Price Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm" />
+    <HelpKINode Title="about Price class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Price__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Price.Buys property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Buys.htm" />
+  <HelpKINode Title="Price.Item property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Item.htm" />
+  <HelpKINode Title="Price.Price constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Price__ctor.htm" />
+  <HelpKINode Title="Price.Sells property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Sells.htm" />
+  <HelpKINode Title="Price.Whitelisted property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Whitelisted.htm" />
+  <HelpKINode Title="Prices property" Url="html/P_GW2CSharp_V2_V2Endpoint_Prices.htm" />
+  <HelpKINode Title="PriceWrapper class">
+    <HelpKINode Title="PriceWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper.htm" />
+    <HelpKINode Title="about PriceWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PriceWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetAll.htm" />
+  <HelpKINode Title="PriceWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetById.htm" />
+  <HelpKINode Title="PriceWrapper.GetMultiple method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetMultiple.htm" />
+  <HelpKINode Title="PriceWrapper.PriceWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper__ctor.htm" />
   <HelpKINode Title="PristineFractalRelic enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Profession enumeration" Url="html/T_GW2CSharp_Enums_Profession.htm" />
   <HelpKINode Title="Profession property" Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame_Profession.htm" />
@@ -921,6 +1032,7 @@
   <HelpKINode Title="QuagganWrapper.Get method" Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_Get.htm" />
   <HelpKINode Title="QuagganWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_GetAll.htm" />
   <HelpKINode Title="QuagganWrapper.QuagganWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper__ctor.htm" />
+  <HelpKINode Title="Quantity property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItem_Quantity.htm" />
   <HelpKINode Title="Race enumeration" Url="html/T_GW2CSharp_Enums_Race.htm" />
   <HelpKINode Title="Ranger enumeration member">
     <HelpKINode Title="Profession Enumeration" Url="html/T_GW2CSharp_Enums_Profession.htm" />
@@ -1029,6 +1141,10 @@
   <HelpKINode Title="Sector.Name property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_Name.htm" />
   <HelpKINode Title="Sector.Sector constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Sector__ctor.htm" />
   <HelpKINode Title="Sectors property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Sectors.htm" />
+  <HelpKINode Title="Sells property">
+    <HelpKINode Title="Listing.Sells Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Listing_Sells.htm" />
+    <HelpKINode Title="Price.Sells Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Sells.htm" />
+  </HelpKINode>
   <HelpKINode Title="ShardOfZhaitan enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Shield enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
   <HelpKINode Title="ShortBow enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
@@ -1144,6 +1260,25 @@
   <HelpKINode Title="Tool enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
   <HelpKINode Title="Torch enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
   <HelpKINode Title="Toy enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
+  <HelpKINode Title="TpItem class">
+    <HelpKINode Title="TpItem Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm" />
+    <HelpKINode Title="about TpItem class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_TpItem__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TpItem.Quantity property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItem_Quantity.htm" />
+  <HelpKINode Title="TpItem.TpItem constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_TpItem__ctor.htm" />
+  <HelpKINode Title="TpItem.UnitPrice property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItem_UnitPrice.htm" />
+  <HelpKINode Title="TpItemListing class">
+    <HelpKINode Title="TpItemListing Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm" />
+    <HelpKINode Title="about TpItemListing class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TpItemListing.Listings property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing_Listings.htm" />
+  <HelpKINode Title="TpItemListing.TpItemListing constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing__ctor.htm" />
   <HelpKINode Title="Tradingpost property" Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Tradingpost.htm" />
   <HelpKINode Title="Trait enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
   <HelpKINode Title="TransmutationCharge enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
@@ -1183,6 +1318,7 @@
     <HelpKINode Title="Weight Enumeration" Url="html/T_GW2CSharp_Enums_Weight.htm" />
   </HelpKINode>
   <HelpKINode Title="Unique enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemFlag.htm" />
+  <HelpKINode Title="UnitPrice property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItem_UnitPrice.htm" />
   <HelpKINode Title="Unlock enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Enums_PoiType.htm" />
   <HelpKINode Title="Unlock property" Url="html/P_GW2CSharp_V2_Unauthenticated_Minis_Mini_Unlock.htm" />
   <HelpKINode Title="Unlocks property" Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Unlocks.htm" />
@@ -1205,6 +1341,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_V2Endpoint.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_V2Endpoint.htm" />
   </HelpKINode>
+  <HelpKINode Title="V2Endpoint.Account property" Url="html/P_GW2CSharp_V2_V2Endpoint_Account.htm" />
   <HelpKINode Title="V2Endpoint.Achievements property" Url="html/P_GW2CSharp_V2_V2Endpoint_Achievements.htm" />
   <HelpKINode Title="V2Endpoint.Colors property" Url="html/P_GW2CSharp_V2_V2Endpoint_Colors.htm" />
   <HelpKINode Title="V2Endpoint.Continents property" Url="html/P_GW2CSharp_V2_V2Endpoint_Continents.htm" />
@@ -1212,8 +1349,10 @@
   <HelpKINode Title="V2Endpoint.Exchanges property" Url="html/P_GW2CSharp_V2_V2Endpoint_Exchanges.htm" />
   <HelpKINode Title="V2Endpoint.GetBuildId property" Url="html/P_GW2CSharp_V2_V2Endpoint_GetBuildId.htm" />
   <HelpKINode Title="V2Endpoint.Items property" Url="html/P_GW2CSharp_V2_V2Endpoint_Items.htm" />
+  <HelpKINode Title="V2Endpoint.Listings property" Url="html/P_GW2CSharp_V2_V2Endpoint_Listings.htm" />
   <HelpKINode Title="V2Endpoint.Maps property" Url="html/P_GW2CSharp_V2_V2Endpoint_Maps.htm" />
   <HelpKINode Title="V2Endpoint.Minis property" Url="html/P_GW2CSharp_V2_V2Endpoint_Minis.htm" />
+  <HelpKINode Title="V2Endpoint.Prices property" Url="html/P_GW2CSharp_V2_V2Endpoint_Prices.htm" />
   <HelpKINode Title="V2Endpoint.PvpGame property" Url="html/P_GW2CSharp_V2_V2Endpoint_PvpGame.htm" />
   <HelpKINode Title="V2Endpoint.PvpStatistics property" Url="html/P_GW2CSharp_V2_V2Endpoint_PvpStatistics.htm" />
   <HelpKINode Title="V2Endpoint.Quaggans property" Url="html/P_GW2CSharp_V2_V2Endpoint_Quaggans.htm" />
@@ -1241,6 +1380,7 @@
   <HelpKINode Title="Weaponsmith enumeration member" Url="html/T_GW2CSharp_Enums_Discipline.htm" />
   <HelpKINode Title="Weight enumeration" Url="html/T_GW2CSharp_Enums_Weight.htm" />
   <HelpKINode Title="Weight property" Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail_Weight.htm" />
+  <HelpKINode Title="Whitelisted property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Whitelisted.htm" />
   <HelpKINode Title="Wins property" Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic_Wins.htm" />
   <HelpKINode Title="World class">
     <HelpKINode Title="World Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_World.htm" />
@@ -1249,6 +1389,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Worlds_World.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Worlds_World.htm" />
   </HelpKINode>
+  <HelpKINode Title="World property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_World.htm" />
   <HelpKINode Title="World.Id property" Url="html/P_GW2CSharp_V2_Unauthenticated_Worlds_World_Id.htm" />
   <HelpKINode Title="World.Language property" Url="html/P_GW2CSharp_V2_Unauthenticated_Worlds_World_Language.htm" />
   <HelpKINode Title="World.Name property" Url="html/P_GW2CSharp_V2_Unauthenticated_Worlds_World_Name.htm" />
