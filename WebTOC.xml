@@ -1,44 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="6bf2b222-738e-47c0-bed5-493cef7e1373" Title="GW2CSharp" Url="html/N_GW2CSharp.htm">
-    <HelpTOCNode Id="5db134e1-b6dc-4aa6-8a8c-333471192fe5" Title="ApiBase Class" Url="html/T_GW2CSharp_ApiBase.htm">
+  <HelpTOCNode Id="0ff7b9dc-239c-403f-aa56-8ec18a792d56" Title="GW2CSharp" Url="html/N_GW2CSharp.htm">
+    <HelpTOCNode Id="3e9b357d-06cc-4f60-8de3-44245dacc1df" Title="ApiBase Class" Url="html/T_GW2CSharp_ApiBase.htm">
       <HelpTOCNode Title="ApiBase Constructor " Url="html/M_GW2CSharp_ApiBase__ctor.htm" />
-      <HelpTOCNode Id="96ed858a-a53a-4119-bb53-2a1d9c8b0a75" Title="ApiBase Methods" Url="html/Methods_T_GW2CSharp_ApiBase.htm">
+      <HelpTOCNode Id="c3a7bc16-ec7a-43f8-96e5-ffabd69d5f27" Title="ApiBase Methods" Url="html/Methods_T_GW2CSharp_ApiBase.htm">
         <HelpTOCNode Title="DeserializeObject(T) Method " Url="html/M_GW2CSharp_ApiBase_DeserializeObject__1.htm" />
         <HelpTOCNode Title="DownloadJsonString Method " Url="html/M_GW2CSharp_ApiBase_DownloadJsonString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="691e6a64-427d-479f-a076-30c415c3b112" Title="ApiException Class" Url="html/T_GW2CSharp_ApiException.htm">
+    <HelpTOCNode Id="acf8530d-c78b-4c34-b779-578f5d1127a3" Title="ApiException Class" Url="html/T_GW2CSharp_ApiException.htm">
       <HelpTOCNode Title="ApiException Constructor " Url="html/M_GW2CSharp_ApiException__ctor.htm" />
       <HelpTOCNode Title="ApiException Properties" Url="html/Properties_T_GW2CSharp_ApiException.htm" />
       <HelpTOCNode Title="ApiException Methods" Url="html/Methods_T_GW2CSharp_ApiException.htm" />
       <HelpTOCNode Title="ApiException Events" Url="html/Events_T_GW2CSharp_ApiException.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6a957c3c-2537-4a23-897a-f3690d7b8f9c" Title="GW2Api Class" Url="html/T_GW2CSharp_GW2Api.htm">
-      <HelpTOCNode Id="dd970661-03df-4590-b4e1-7e0cac874d58" Title="GW2Api Properties" Url="html/Properties_T_GW2CSharp_GW2Api.htm">
+    <HelpTOCNode Id="c5821375-8671-4e39-8369-416c78f73af6" Title="GW2Api Class" Url="html/T_GW2CSharp_GW2Api.htm">
+      <HelpTOCNode Id="f4decb78-d969-4ffd-afaa-9c9bb272ecc8" Title="GW2Api Properties" Url="html/Properties_T_GW2CSharp_GW2Api.htm">
         <HelpTOCNode Title="V1 Property " Url="html/P_GW2CSharp_GW2Api_V1.htm" />
         <HelpTOCNode Title="V2 Property " Url="html/P_GW2CSharp_GW2Api_V2.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
+    <HelpTOCNode Id="875811bf-b06c-4f5e-85b7-86436266856c" Title="Imageable Class" Url="html/T_GW2CSharp_Imageable.htm">
+      <HelpTOCNode Title="Imageable Constructor " Url="html/M_GW2CSharp_Imageable__ctor.htm" />
+      <HelpTOCNode Id="d20b324a-4c29-457a-be9b-73ae3b134a72" Title="Imageable Methods" Url="html/Methods_T_GW2CSharp_Imageable.htm">
+        <HelpTOCNode Title="GetImage Method " Url="html/M_GW2CSharp_Imageable_GetImage.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="1c73466f-85c4-4447-965a-ac9ebe836643" Title="GW2CSharp.Entities" Url="html/N_GW2CSharp_Entities.htm">
-    <HelpTOCNode Id="c171f27c-5823-4584-a31a-6579273fa48f" Title="Money Class" Url="html/T_GW2CSharp_Entities_Money.htm">
-      <HelpTOCNode Id="d1bc060f-b674-43ed-8bf0-a19b9777869e" Title="Money Constructor " Url="html/Overload_GW2CSharp_Entities_Money__ctor.htm">
+  <HelpTOCNode Id="85a4210e-d391-46d8-b050-41056b0d1e5d" Title="GW2CSharp.Entities" Url="html/N_GW2CSharp_Entities.htm">
+    <HelpTOCNode Id="e69d30d1-0bf3-4553-aa04-dedd77fe53ba" Title="Money Class" Url="html/T_GW2CSharp_Entities_Money.htm">
+      <HelpTOCNode Id="ea2e3f91-82b1-4136-b26e-aca3a634ec82" Title="Money Constructor " Url="html/Overload_GW2CSharp_Entities_Money__ctor.htm">
         <HelpTOCNode Title="Money Constructor (Int32)" Url="html/M_GW2CSharp_Entities_Money__ctor.htm" />
         <HelpTOCNode Title="Money Constructor (Int32, Int32, Int32)" Url="html/M_GW2CSharp_Entities_Money__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2dfcd43c-22fd-446e-86f4-0b24b52b7c09" Title="Money Properties" Url="html/Properties_T_GW2CSharp_Entities_Money.htm">
+      <HelpTOCNode Id="156cfa12-c51c-4178-9a15-f566cd45d2bf" Title="Money Properties" Url="html/Properties_T_GW2CSharp_Entities_Money.htm">
         <HelpTOCNode Title="Copper Property " Url="html/P_GW2CSharp_Entities_Money_Copper.htm" />
         <HelpTOCNode Title="Gold Property " Url="html/P_GW2CSharp_Entities_Money_Gold.htm" />
         <HelpTOCNode Title="Silver Property " Url="html/P_GW2CSharp_Entities_Money_Silver.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0d757118-adfa-434a-a625-22e1170009e0" Title="Money Methods" Url="html/Methods_T_GW2CSharp_Entities_Money.htm">
+      <HelpTOCNode Id="4d48244a-9526-48d6-9836-c6e475ba843d" Title="Money Methods" Url="html/Methods_T_GW2CSharp_Entities_Money.htm">
         <HelpTOCNode Title="GetRawCoin Method " Url="html/M_GW2CSharp_Entities_Money_GetRawCoin.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="ad9488ff-79d9-4830-bb3a-7b9779626788" Title="GW2CSharp.Enums" Url="html/N_GW2CSharp_Enums.htm">
+  <HelpTOCNode Id="aa9e15bf-3268-4729-a07c-4e4fec6c34c0" Title="GW2CSharp.Enums" Url="html/N_GW2CSharp_Enums.htm">
     <HelpTOCNode Title="Armor Enumeration" Url="html/T_GW2CSharp_Enums_Armor.htm" />
     <HelpTOCNode Title="DamageType Enumeration" Url="html/T_GW2CSharp_Enums_DamageType.htm" />
     <HelpTOCNode Title="Discipline Enumeration" Url="html/T_GW2CSharp_Enums_Discipline.htm" />
@@ -52,29 +58,29 @@
     <HelpTOCNode Title="Weapon Enumeration" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
     <HelpTOCNode Title="Weight Enumeration" Url="html/T_GW2CSharp_Enums_Weight.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="c9247bb4-b8b4-4362-9fcf-ce50d5160861" Title="GW2CSharp.Services" Url="html/N_GW2CSharp_Services.htm">
-    <HelpTOCNode Id="0425ce85-6609-441c-9607-518673436a28" Title="RenderService Class" Url="html/T_GW2CSharp_Services_RenderService.htm">
-      <HelpTOCNode Id="bef38f36-db77-4133-8c2e-720bd2e0c9e2" Title="RenderService Methods" Url="html/Methods_T_GW2CSharp_Services_RenderService.htm">
-        <HelpTOCNode Id="531e038d-3697-4903-8caa-73acc9539b7e" Title="GetImage Method " Url="html/Overload_GW2CSharp_Services_RenderService_GetImage.htm">
+  <HelpTOCNode Id="c1ad0910-d1d5-4973-aa22-fbad0cca6eeb" Title="GW2CSharp.Services" Url="html/N_GW2CSharp_Services.htm">
+    <HelpTOCNode Id="180ee3cb-bd20-4ebb-95e4-1b7be7700256" Title="RenderService Class" Url="html/T_GW2CSharp_Services_RenderService.htm">
+      <HelpTOCNode Id="3da1d848-b032-4eb2-8e60-54dd8c71e879" Title="RenderService Methods" Url="html/Methods_T_GW2CSharp_Services_RenderService.htm">
+        <HelpTOCNode Id="3bcf631b-aab0-4ae0-ad41-8f4bf5c78f86" Title="GetImage Method " Url="html/Overload_GW2CSharp_Services_RenderService_GetImage.htm">
           <HelpTOCNode Title="GetImage Method (String)" Url="html/M_GW2CSharp_Services_RenderService_GetImage.htm" />
           <HelpTOCNode Title="GetImage Method (String, String, FileFormat)" Url="html/M_GW2CSharp_Services_RenderService_GetImage_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="d0e24e96-22ca-4e7a-a20c-0cd3fd57a1bf" Title="GW2CSharp.Services.Enums" Url="html/N_GW2CSharp_Services_Enums.htm">
+  <HelpTOCNode Id="795cb4ca-fba7-4cd3-b35a-15e6ed28f2ea" Title="GW2CSharp.Services.Enums" Url="html/N_GW2CSharp_Services_Enums.htm">
     <HelpTOCNode Title="FileFormat Enumeration" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="94ad4dbf-d43c-45cb-a66d-ea6fa54aa0a8" Title="GW2CSharp.V1" Url="html/N_GW2CSharp_V1.htm">
-    <HelpTOCNode Id="aea21f82-89e7-4ca8-a2e0-1455304c0158" Title="V1Endpoint Class" Url="html/T_GW2CSharp_V1_V1Endpoint.htm">
+  <HelpTOCNode Id="e102d728-871c-4112-ae7f-5815e3c2e7a9" Title="GW2CSharp.V1" Url="html/N_GW2CSharp_V1.htm">
+    <HelpTOCNode Id="aa9a95f2-04d1-4b53-9d66-8fc06c6f8f0a" Title="V1Endpoint Class" Url="html/T_GW2CSharp_V1_V1Endpoint.htm">
       <HelpTOCNode Title="V1Endpoint Constructor " Url="html/M_GW2CSharp_V1_V1Endpoint__ctor.htm" />
       <HelpTOCNode Title="V1Endpoint Methods" Url="html/Methods_T_GW2CSharp_V1_V1Endpoint.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="f3bb1e38-aa38-49d0-977a-8c6ca8e14a52" Title="GW2CSharp.V2" Url="html/N_GW2CSharp_V2.htm">
-    <HelpTOCNode Id="1b111908-f100-41ff-b86f-1407ec19cbec" Title="V2Endpoint Class" Url="html/T_GW2CSharp_V2_V2Endpoint.htm">
+  <HelpTOCNode Id="2ef5d4ec-ddcd-4d58-820f-b09d8c78d17e" Title="GW2CSharp.V2" Url="html/N_GW2CSharp_V2.htm">
+    <HelpTOCNode Id="e218fd58-cbd6-4619-a077-991da36996d5" Title="V2Endpoint Class" Url="html/T_GW2CSharp_V2_V2Endpoint.htm">
       <HelpTOCNode Title="V2Endpoint Constructor " Url="html/M_GW2CSharp_V2_V2Endpoint__ctor.htm" />
-      <HelpTOCNode Id="70dc0d37-06e0-4f8b-a4ff-de20cbfb9ebb" Title="V2Endpoint Properties" Url="html/Properties_T_GW2CSharp_V2_V2Endpoint.htm">
+      <HelpTOCNode Id="07e14b33-c94b-4323-81af-c9d074433fb2" Title="V2Endpoint Properties" Url="html/Properties_T_GW2CSharp_V2_V2Endpoint.htm">
         <HelpTOCNode Title="Account Property " Url="html/P_GW2CSharp_V2_V2Endpoint_Account.htm" />
         <HelpTOCNode Title="Achievements Property " Url="html/P_GW2CSharp_V2_V2Endpoint_Achievements.htm" />
         <HelpTOCNode Title="Colors Property " Url="html/P_GW2CSharp_V2_V2Endpoint_Colors.htm" />
@@ -90,18 +96,21 @@
         <HelpTOCNode Title="PvpGame Property " Url="html/P_GW2CSharp_V2_V2Endpoint_PvpGame.htm" />
         <HelpTOCNode Title="PvpStatistics Property " Url="html/P_GW2CSharp_V2_V2Endpoint_PvpStatistics.htm" />
         <HelpTOCNode Title="Quaggans Property " Url="html/P_GW2CSharp_V2_V2Endpoint_Quaggans.htm" />
+        <HelpTOCNode Title="RecipeWrapper Property " Url="html/P_GW2CSharp_V2_V2Endpoint_RecipeWrapper.htm" />
         <HelpTOCNode Title="RessourceFiles Property " Url="html/P_GW2CSharp_V2_V2Endpoint_RessourceFiles.htm" />
         <HelpTOCNode Title="Skins Property " Url="html/P_GW2CSharp_V2_V2Endpoint_Skins.htm" />
         <HelpTOCNode Title="TokenInfo Property " Url="html/P_GW2CSharp_V2_V2Endpoint_TokenInfo.htm" />
         <HelpTOCNode Title="Worlds Property " Url="html/P_GW2CSharp_V2_V2Endpoint_Worlds.htm" />
+        <HelpTOCNode Title="WvWMatches Property " Url="html/P_GW2CSharp_V2_V2Endpoint_WvWMatches.htm" />
+        <HelpTOCNode Title="WvWObjectives Property " Url="html/P_GW2CSharp_V2_V2Endpoint_WvWObjectives.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="V2Endpoint Methods" Url="html/Methods_T_GW2CSharp_V2_V2Endpoint.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="a80680b0-1b52-4124-a37c-956630d89cbf" Title="GW2CSharp.V2.Authenticated.Account" Url="html/N_GW2CSharp_V2_Authenticated_Account.htm">
-    <HelpTOCNode Id="16185f47-476c-442f-ab0b-3e6bb56f621d" Title="Account Class" Url="html/T_GW2CSharp_V2_Authenticated_Account_Account.htm">
+  <HelpTOCNode Id="946c1250-8ac6-412c-830a-34be959448c2" Title="GW2CSharp.V2.Authenticated.Account" Url="html/N_GW2CSharp_V2_Authenticated_Account.htm">
+    <HelpTOCNode Id="7dcfea78-a288-4af2-96c3-7aecd91cc0d1" Title="Account Class" Url="html/T_GW2CSharp_V2_Authenticated_Account_Account.htm">
       <HelpTOCNode Title="Account Constructor " Url="html/M_GW2CSharp_V2_Authenticated_Account_Account__ctor.htm" />
-      <HelpTOCNode Id="5e0e1ad0-dcc2-4ac1-af3f-ce2275e7420d" Title="Account Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Account_Account.htm">
+      <HelpTOCNode Id="6774982d-9c13-4a91-bb81-f17f63b4c35b" Title="Account Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Account_Account.htm">
         <HelpTOCNode Title="Access Property " Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Access.htm" />
         <HelpTOCNode Title="Created Property " Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Created.htm" />
         <HelpTOCNode Title="FractalLevel Property " Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_FractalLevel.htm" />
@@ -113,17 +122,17 @@
       <HelpTOCNode Title="Account Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Account_Account.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="AccountType Enumeration" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountType.htm" />
-    <HelpTOCNode Id="c7206012-7ff7-46f2-8362-a6a58cf12364" Title="AccountWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm">
+    <HelpTOCNode Id="889afcc2-ceb4-4e5b-a58c-2ccb191cdbb0" Title="AccountWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm">
       <HelpTOCNode Title="AccountWrapper Constructor " Url="html/M_GW2CSharp_V2_Authenticated_Account_AccountWrapper__ctor.htm" />
-      <HelpTOCNode Id="8a7d162b-a534-4413-a1d9-86c308d73aec" Title="AccountWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm">
+      <HelpTOCNode Id="b0f3a1d8-e04e-4717-8754-8c49f3658ab8" Title="AccountWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm">
         <HelpTOCNode Title="Get Method " Url="html/M_GW2CSharp_V2_Authenticated_Account_AccountWrapper_Get.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="acbb6cef-fe68-440e-95fe-2aac2f1a3961" Title="GW2CSharp.V2.Authenticated.Pvp.Games" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Games.htm">
-    <HelpTOCNode Id="44983d56-9ce2-498c-89c0-3e4eb787f5b5" Title="PvpGame Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame.htm">
+  <HelpTOCNode Id="2efe665f-75ba-40fc-884b-6c3cd6578e1d" Title="GW2CSharp.V2.Authenticated.Pvp.Games" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Games.htm">
+    <HelpTOCNode Id="3230d74d-5354-4a55-8232-b26da2c68e0c" Title="PvpGame Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame.htm">
       <HelpTOCNode Title="PvpGame Constructor " Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame__ctor.htm" />
-      <HelpTOCNode Id="4c57f21c-3b7d-4a62-8e47-2a5f83ff2bd1" Title="PvpGame Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame.htm">
+      <HelpTOCNode Id="03194f4c-4c64-4c2d-9944-720d933c929c" Title="PvpGame Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame.htm">
         <HelpTOCNode Title="Ended Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame_Ended.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame_Id.htm" />
         <HelpTOCNode Title="MapId Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame_MapId.htm" />
@@ -135,28 +144,28 @@
       </HelpTOCNode>
       <HelpTOCNode Title="PvpGame Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="eb7e83f6-20e1-43ca-8831-0629ddf7ee11" Title="PvpGameWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper.htm">
+    <HelpTOCNode Id="8751bf0a-5c61-4e5f-8c21-df929feb78d9" Title="PvpGameWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper.htm">
       <HelpTOCNode Title="PvpGameWrapper Constructor " Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper__ctor.htm" />
-      <HelpTOCNode Id="dcbbef08-a1ab-420c-bf6c-59f80f70ee6e" Title="PvpGameWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper.htm">
+      <HelpTOCNode Id="9025e141-ed2d-448b-9e53-0bb3f69f5fed" Title="PvpGameWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper.htm">
         <HelpTOCNode Title="GetRecent Method " Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper_GetRecent.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="031e2cd5-1a37-47f1-a91a-8926fe80aa1e" Title="Score Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Games_Score.htm">
+    <HelpTOCNode Id="86347de2-07a4-4ca7-8678-978a98a6ef70" Title="Score Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Games_Score.htm">
       <HelpTOCNode Title="Score Constructor " Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Games_Score__ctor.htm" />
-      <HelpTOCNode Id="d29bd372-cdcc-453f-84e3-0651dc14fbb0" Title="Score Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Pvp_Games_Score.htm">
+      <HelpTOCNode Id="8b5382d1-9245-4229-8f03-0ba0ccc3f9ea" Title="Score Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Pvp_Games_Score.htm">
         <HelpTOCNode Title="Blue Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Games_Score_Blue.htm" />
         <HelpTOCNode Title="Red Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Games_Score_Red.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Score Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Games_Score.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="6f7c021a-0477-4a75-a589-92ba9477dae5" Title="GW2CSharp.V2.Authenticated.Pvp.Games.Enums" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Games_Enums.htm">
+  <HelpTOCNode Id="031fe956-0f2b-43ee-a854-73fe8412d6aa" Title="GW2CSharp.V2.Authenticated.Pvp.Games.Enums" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Games_Enums.htm">
     <HelpTOCNode Title="Team Enumeration" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Games_Enums_Team.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="8d6fa77c-b573-4a1a-93c0-1a9d31476df9" Title="GW2CSharp.V2.Authenticated.Pvp.Stats" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Stats.htm">
-    <HelpTOCNode Id="926b2e9f-9ef4-4687-a507-543053b19b0c" Title="PvpStatistic Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic.htm">
+  <HelpTOCNode Id="7faabe19-052e-4a65-90e1-dcacf7384d33" Title="GW2CSharp.V2.Authenticated.Pvp.Stats" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Stats.htm">
+    <HelpTOCNode Id="ff856f2e-1641-4e9c-82ec-b9d7a9f6cc21" Title="PvpStatistic Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic.htm">
       <HelpTOCNode Title="PvpStatistic Constructor " Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic__ctor.htm" />
-      <HelpTOCNode Id="5481461d-0c2f-4fa1-b832-7b69e2e115ad" Title="PvpStatistic Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic.htm">
+      <HelpTOCNode Id="f3ac1780-e272-4667-aa8c-40d78734e390" Title="PvpStatistic Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic.htm">
         <HelpTOCNode Title="Ladders Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic_Ladders.htm" />
         <HelpTOCNode Title="Overview Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic_Overview.htm" />
         <HelpTOCNode Title="Professions Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic_Professions.htm" />
@@ -164,15 +173,15 @@
       </HelpTOCNode>
       <HelpTOCNode Title="PvpStatistic Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="640c575c-056f-4ad9-8f87-621e384541d5" Title="PvpStatisticWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper.htm">
+    <HelpTOCNode Id="5b381b89-0b34-4771-ba3d-0d408e0da6bd" Title="PvpStatisticWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper.htm">
       <HelpTOCNode Title="PvpStatisticWrapper Constructor " Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper__ctor.htm" />
-      <HelpTOCNode Id="7b51fb04-5667-44b4-b997-9f79ebfc2961" Title="PvpStatisticWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper.htm">
+      <HelpTOCNode Id="0b0678f5-616a-4dca-83fc-1b20b632a924" Title="PvpStatisticWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper.htm">
         <HelpTOCNode Title="Get Method " Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper_Get.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="67a92bfb-f5aa-41c8-a912-cb8f29acf83d" Title="Statistic Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic.htm">
+    <HelpTOCNode Id="32f4013b-5b07-4879-9d90-9c9424d89c75" Title="Statistic Class" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic.htm">
       <HelpTOCNode Title="Statistic Constructor " Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic__ctor.htm" />
-      <HelpTOCNode Id="025ff7c8-cfe2-4eee-a83f-7c68d68995e6" Title="Statistic Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic.htm">
+      <HelpTOCNode Id="e2cb7f1c-fcab-40d5-9d24-4f46de29ed7d" Title="Statistic Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic.htm">
         <HelpTOCNode Title="Byes Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic_Byes.htm" />
         <HelpTOCNode Title="Desertions Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic_Desertions.htm" />
         <HelpTOCNode Title="Forfeits Property " Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic_Forfeits.htm" />
@@ -182,12 +191,12 @@
       <HelpTOCNode Title="Statistic Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Stats_Statistic.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="da5cc8a6-dc57-4913-be3b-db84770dcaf4" Title="GW2CSharp.V2.Authenticated.Pvp.Stats.Enums" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Stats_Enums.htm">
+  <HelpTOCNode Id="b9f30f40-5e26-4ee5-b030-e356a95ddf5b" Title="GW2CSharp.V2.Authenticated.Pvp.Stats.Enums" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Stats_Enums.htm">
     <HelpTOCNode Title="Ladder Enumeration" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Stats_Enums_Ladder.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="8cd8d366-ca88-456d-ad8f-40d4246395a9" Title="GW2CSharp.V2.Authenticated.TokenInfo" Url="html/N_GW2CSharp_V2_Authenticated_TokenInfo.htm">
-    <HelpTOCNode Id="6a9bf58e-8c54-415c-b309-50c0f8153d78" Title="Permission Class" Url="html/T_GW2CSharp_V2_Authenticated_TokenInfo_Permission.htm">
-      <HelpTOCNode Id="b9fbbd6e-2f69-44d3-8460-30f9c5aee9f8" Title="Permission Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_TokenInfo_Permission.htm">
+  <HelpTOCNode Id="27fdf469-aa80-4a43-8c52-7bcc926c03a8" Title="GW2CSharp.V2.Authenticated.TokenInfo" Url="html/N_GW2CSharp_V2_Authenticated_TokenInfo.htm">
+    <HelpTOCNode Id="04dfa59d-0ec5-4d77-ba7a-0e4676b4a3ef" Title="Permission Class" Url="html/T_GW2CSharp_V2_Authenticated_TokenInfo_Permission.htm">
+      <HelpTOCNode Id="08574d60-3384-43f5-84b7-5d071b913559" Title="Permission Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_TokenInfo_Permission.htm">
         <HelpTOCNode Title="Account Property " Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Account.htm" />
         <HelpTOCNode Title="Builds Property " Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Builds.htm" />
         <HelpTOCNode Title="Characters Property " Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Characters.htm" />
@@ -199,44 +208,44 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Permission Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_TokenInfo_Permission.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a667eba1-0d42-4ea5-bf45-4e461b725f88" Title="Tokeninfo Class" Url="html/T_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo.htm">
+    <HelpTOCNode Id="a86f6a3b-424b-4739-9a39-10f4c5e52680" Title="Tokeninfo Class" Url="html/T_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo.htm">
       <HelpTOCNode Title="Tokeninfo Constructor " Url="html/M_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo__ctor.htm" />
-      <HelpTOCNode Id="87ed1931-6d33-45bb-a718-4fc151b68fcb" Title="Tokeninfo Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo.htm">
+      <HelpTOCNode Id="02909697-547e-4f29-b274-47f4db871afc" Title="Tokeninfo Properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo.htm">
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo_Id.htm" />
         <HelpTOCNode Title="Name Property " Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo_Name.htm" />
         <HelpTOCNode Title="Permission Property " Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo_Permission.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Tokeninfo Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="1de9060a-aa4a-4653-afb6-4a087fc84346" Title="TokeninfoWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper.htm">
+    <HelpTOCNode Id="106eae9a-020a-49c2-bdbf-dade64509451" Title="TokeninfoWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper.htm">
       <HelpTOCNode Title="TokeninfoWrapper Constructor " Url="html/M_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper__ctor.htm" />
-      <HelpTOCNode Id="750084a8-7cf1-4cdc-ae4b-9a952c6322bc" Title="TokeninfoWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper.htm">
+      <HelpTOCNode Id="2d208cc6-7017-49ee-9bfa-cc9043ff5336" Title="TokeninfoWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper.htm">
         <HelpTOCNode Title="Get Method " Url="html/M_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper_Get.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="82fd9936-cf9f-49f7-8326-153a3972a8a4" Title="GW2CSharp.V2.Unauthenticated" Url="html/N_GW2CSharp_V2_Unauthenticated.htm">
-    <HelpTOCNode Id="f498ca5c-ddcc-4bd5-abb8-30660a0df126" Title="Coordinate(T) Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm">
+  <HelpTOCNode Id="61c2a522-8e1a-40c0-b2a3-f7c76a684e23" Title="GW2CSharp.V2.Unauthenticated" Url="html/N_GW2CSharp_V2_Unauthenticated.htm">
+    <HelpTOCNode Id="84f654c1-458c-47e1-8ace-6902af2b75e1" Title="Coordinate(T) Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm">
       <HelpTOCNode Title="Coordinate(T) Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Coordinate_1__ctor.htm" />
-      <HelpTOCNode Id="2edb5ff4-d94d-45b2-87f1-ff85fd6bd747" Title="Coordinate(T) Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm">
+      <HelpTOCNode Id="d7501c78-6246-43ae-a047-153b972f2cd2" Title="Coordinate(T) Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm">
         <HelpTOCNode Title="X Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Coordinate_1_X.htm" />
         <HelpTOCNode Title="Y Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Coordinate_1_Y.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Coordinate(T) Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Coordinate_1.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="7b162f3e-db17-4a48-a01b-6bb335ec8433" Title="Rectangle Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Rectangle.htm">
+    <HelpTOCNode Id="290bdfd0-4e34-4f63-8506-6b16f2cd4020" Title="Rectangle Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Rectangle.htm">
       <HelpTOCNode Title="Rectangle Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Rectangle__ctor.htm" />
-      <HelpTOCNode Id="bfe87b49-7e99-48fe-8ff2-b3a37b50171f" Title="Rectangle Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Rectangle.htm">
+      <HelpTOCNode Id="85d8dd48-c9bc-490f-8a0e-117c2d29cc3b" Title="Rectangle Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Rectangle.htm">
         <HelpTOCNode Title="X Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Rectangle_X.htm" />
         <HelpTOCNode Title="Y Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Rectangle_Y.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Rectangle Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Rectangle.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="21d1d350-ab9b-4470-a9f6-0662987177f5" Title="GW2CSharp.V2.Unauthenticated.Achievement" Url="html/N_GW2CSharp_V2_Unauthenticated_Achievement.htm">
-    <HelpTOCNode Id="ecec4bed-479d-48d0-9c7f-af0583fcd8d5" Title="Achievement Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm">
+  <HelpTOCNode Id="14f67aea-ed2e-4e6e-9c8b-0549e56bca66" Title="GW2CSharp.V2.Unauthenticated.Achievement" Url="html/N_GW2CSharp_V2_Unauthenticated_Achievement.htm">
+    <HelpTOCNode Id="2fb54405-784f-4602-a02a-ccec3c2e45a9" Title="Achievement Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm">
       <HelpTOCNode Title="Achievement Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_Achievement__ctor.htm" />
-      <HelpTOCNode Id="9e2c7c94-bc85-41c4-acdb-71b99b2bd94d" Title="Achievement Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm">
+      <HelpTOCNode Id="241d0b1c-41b6-4b60-9c9c-3c2b95cf4be5" Title="Achievement Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm">
         <HelpTOCNode Title="AchievementCategories Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_AchievementCategories.htm" />
         <HelpTOCNode Title="Description Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_Description.htm" />
         <HelpTOCNode Title="Icon Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_Icon.htm" />
@@ -245,26 +254,24 @@
         <HelpTOCNode Title="Requirement Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_Requirement.htm" />
         <HelpTOCNode Title="Type Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_Type.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="1a42bfbe-a1ec-48c4-8cc4-6a28a3b1bbe6" Title="Achievement Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm">
-        <HelpTOCNode Title="GetImage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_GetImage.htm" />
-      </HelpTOCNode>
+      <HelpTOCNode Title="Achievement Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="ff71c5ef-13e9-4779-95f0-312a4bca7957" Title="AchievementWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper.htm">
+    <HelpTOCNode Id="0de4a0ce-708e-4093-9a0c-e99d8455dc8e" Title="AchievementWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper.htm">
       <HelpTOCNode Title="AchievementWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper__ctor.htm" />
-      <HelpTOCNode Id="4aac581f-a0da-45ab-9bc1-15f0ab196ae2" Title="AchievementWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper.htm">
+      <HelpTOCNode Id="17e8e78c-d446-43d8-9a55-d6b915575104" Title="AchievementWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper.htm">
         <HelpTOCNode Title="Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_Get.htm" />
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetAll.htm" />
         <HelpTOCNode Title="GetMultiple Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetMultiple.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="eed5591d-f385-4976-a04b-988bf98305d4" Title="GW2CSharp.V2.Unauthenticated.Achievement.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Achievement_Enums.htm">
+  <HelpTOCNode Id="2ea749da-7451-4adb-acc4-8f49a8395a9a" Title="GW2CSharp.V2.Unauthenticated.Achievement.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Achievement_Enums.htm">
     <HelpTOCNode Title="AchievementCategories Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Enums_AchievementCategories.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="b1f733d6-913a-413d-8d12-ab87fa61b68a" Title="GW2CSharp.V2.Unauthenticated.Colors" Url="html/N_GW2CSharp_V2_Unauthenticated_Colors.htm">
-    <HelpTOCNode Id="858c1e11-c19a-4ddd-86a7-55edbb6faa9b" Title="Color Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_Color.htm">
+  <HelpTOCNode Id="406588e6-d631-48fc-a988-b31a1a23db17" Title="GW2CSharp.V2.Unauthenticated.Colors" Url="html/N_GW2CSharp_V2_Unauthenticated_Colors.htm">
+    <HelpTOCNode Id="b92ebfde-a704-47de-8e0e-17448e76e48d" Title="Color Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_Color.htm">
       <HelpTOCNode Title="Color Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_Color__ctor.htm" />
-      <HelpTOCNode Id="3b680dff-b2da-45a9-8f8a-3519753c7e1a" Title="Color Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Colors_Color.htm">
+      <HelpTOCNode Id="2fb94bfa-808a-436f-a393-18d432760cf7" Title="Color Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Colors_Color.htm">
         <HelpTOCNode Title="BaseRGB Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_Color_BaseRGB.htm" />
         <HelpTOCNode Title="Cloth Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_Color_Cloth.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_Color_Id.htm" />
@@ -274,17 +281,17 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Color Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Colors_Color.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="f2c0398b-c33a-4d9f-b138-a61cebe42b3e" Title="ColorWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper.htm">
+    <HelpTOCNode Id="51fd5862-86fb-4a8f-ae7a-437930b72ad4" Title="ColorWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper.htm">
       <HelpTOCNode Title="ColorWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper__ctor.htm" />
-      <HelpTOCNode Id="2001a563-64a3-42eb-83cc-2e86fdd0e9b7" Title="ColorWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper.htm">
+      <HelpTOCNode Id="eca51c6c-4821-4bdd-a882-8db6b176aace" Title="ColorWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper.htm">
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetAll.htm" />
         <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetById.htm" />
         <HelpTOCNode Title="GetByPage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetByPage.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5f5dbe68-3509-43b7-bdf3-6185b62d6b68" Title="DyeMaterial Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial.htm">
+    <HelpTOCNode Id="e3c30f3f-8886-4057-8ce1-d11684ca52ae" Title="DyeMaterial Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial.htm">
       <HelpTOCNode Title="DyeMaterial Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial__ctor.htm" />
-      <HelpTOCNode Id="24ea721b-4564-4b95-8045-86d29b03c80f" Title="DyeMaterial Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial.htm">
+      <HelpTOCNode Id="5a75996a-5491-45ae-8a03-e29ad806eca1" Title="DyeMaterial Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial.htm">
         <HelpTOCNode Title="Brightness Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial_Brightness.htm" />
         <HelpTOCNode Title="Contrast Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial_Contrast.htm" />
         <HelpTOCNode Title="Hue Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial_Hue.htm" />
@@ -295,30 +302,30 @@
       <HelpTOCNode Title="DyeMaterial Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="56318418-3ce3-449c-9f03-f1c650d3a83e" Title="GW2CSharp.V2.Unauthenticated.Commerce" Url="html/N_GW2CSharp_V2_Unauthenticated_Commerce.htm">
-    <HelpTOCNode Id="b64d241f-f9d3-4d07-af71-cea079b629b1" Title="Listing Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm">
+  <HelpTOCNode Id="c66d5cff-bc9d-4b17-b006-8c38f21e92f1" Title="GW2CSharp.V2.Unauthenticated.Commerce" Url="html/N_GW2CSharp_V2_Unauthenticated_Commerce.htm">
+    <HelpTOCNode Id="6d6b9f34-2c5b-4e8a-a521-577a45959600" Title="Listing Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm">
       <HelpTOCNode Title="Listing Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Listing__ctor.htm" />
-      <HelpTOCNode Id="2f61afab-d7f5-44a7-adf7-c6cff5a200fe" Title="Listing Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm">
+      <HelpTOCNode Id="3c0c12ab-87b7-4648-8b87-f55cb7c86425" Title="Listing Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm">
         <HelpTOCNode Title="Buys Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Listing_Buys.htm" />
         <HelpTOCNode Title="Item Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Listing_Item.htm" />
         <HelpTOCNode Title="Sells Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Listing_Sells.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Listing Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_Listing.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="13174809-faa6-4350-8a63-af32bf89af91" Title="ListingWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper.htm">
+    <HelpTOCNode Id="f5fdb334-a04f-43f0-be72-bee619a66716" Title="ListingWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper.htm">
       <HelpTOCNode Title="ListingWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper__ctor.htm" />
-      <HelpTOCNode Id="5e66b78c-0e47-4ac7-8fae-b0b7f6779951" Title="ListingWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper.htm">
+      <HelpTOCNode Id="70286a09-b6cc-4e28-8baa-9523fb241a2a" Title="ListingWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper.htm">
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetAll.htm" />
         <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetById.htm" />
-        <HelpTOCNode Id="3b99698d-fd20-48a6-87f6-5e4b5298af9f" Title="GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetMultiple.htm">
+        <HelpTOCNode Id="c82074a6-cb55-48c6-8cc8-4d74433d72a5" Title="GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetMultiple.htm">
           <HelpTOCNode Title="GetMultiple Method (IEnumerable(Int32))" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetMultiple.htm" />
           <HelpTOCNode Title="GetMultiple Method (Int32[])" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetMultiple_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a231645d-6166-4ad4-8247-489212417b90" Title="Price Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm">
+    <HelpTOCNode Id="2929e97e-f95f-4546-b4bf-1fa83caccada" Title="Price Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm">
       <HelpTOCNode Title="Price Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Price__ctor.htm" />
-      <HelpTOCNode Id="9eac53ac-50a8-45d4-badc-527d2f8b83a3" Title="Price Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm">
+      <HelpTOCNode Id="0759a4aa-00fd-4ce4-965a-82e72bfadea5" Title="Price Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm">
         <HelpTOCNode Title="Buys Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Buys.htm" />
         <HelpTOCNode Title="Item Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Item.htm" />
         <HelpTOCNode Title="Sells Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Sells.htm" />
@@ -326,53 +333,53 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Price Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="96194b18-0859-4ba0-9591-8e8ab18324b8" Title="PriceWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper.htm">
+    <HelpTOCNode Id="f76c50b3-f6ae-4b0e-b885-21c66cf5dda2" Title="PriceWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper.htm">
       <HelpTOCNode Title="PriceWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper__ctor.htm" />
-      <HelpTOCNode Id="173013f5-5748-465b-97ce-66749017e8ee" Title="PriceWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper.htm">
+      <HelpTOCNode Id="026595bd-d295-4c0d-b74f-dc8720ec5c1f" Title="PriceWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper.htm">
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetAll.htm" />
         <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetById.htm" />
-        <HelpTOCNode Id="accb00a1-decd-4ac7-a9bd-87180be41d90" Title="GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetMultiple.htm">
+        <HelpTOCNode Id="b446114b-9fa3-47a3-8455-810c494bc0ac" Title="GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetMultiple.htm">
           <HelpTOCNode Title="GetMultiple Method (IEnumerable(Int32))" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetMultiple.htm" />
           <HelpTOCNode Title="GetMultiple Method (Int32[])" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetMultiple_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="3ed3484b-b8d7-479f-8cc0-f092a4f66676" Title="TpItem Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm">
+    <HelpTOCNode Id="2b76f166-9e72-4580-8f81-1cf615a9abe7" Title="TpItem Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm">
       <HelpTOCNode Title="TpItem Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_TpItem__ctor.htm" />
-      <HelpTOCNode Id="9a81d526-8ad8-442f-8ac6-a62867f55b0e" Title="TpItem Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm">
+      <HelpTOCNode Id="f5d2aa7d-4337-4ccb-b066-34ca81df2221" Title="TpItem Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm">
         <HelpTOCNode Title="Quantity Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItem_Quantity.htm" />
         <HelpTOCNode Title="UnitPrice Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItem_UnitPrice.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="TpItem Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItem.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d34a56db-c217-47fd-8af2-a9058e6dcef7" Title="TpItemListing Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm">
+    <HelpTOCNode Id="e9a7d050-e50e-4ada-99f8-68cafe11f997" Title="TpItemListing Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm">
       <HelpTOCNode Title="TpItemListing Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing__ctor.htm" />
-      <HelpTOCNode Id="1c1bd6d1-7eea-4434-8d35-2f2adf2cac34" Title="TpItemListing Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm">
+      <HelpTOCNode Id="6d1da538-5bef-474b-b884-53effb512dfa" Title="TpItemListing Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm">
         <HelpTOCNode Title="Listings Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing_Listings.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="TpItemListing Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="1a50ef11-f5a4-466e-894f-7aa5ec21f663" Title="GW2CSharp.V2.Unauthenticated.Commerce.Exchange" Url="html/N_GW2CSharp_V2_Unauthenticated_Commerce_Exchange.htm">
-    <HelpTOCNode Id="7e316d60-3dc4-4e38-be79-4825537ecc1b" Title="Coin Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin.htm">
+  <HelpTOCNode Id="7bf3eb27-2016-441c-a640-0946078fde2f" Title="GW2CSharp.V2.Unauthenticated.Commerce.Exchange" Url="html/N_GW2CSharp_V2_Unauthenticated_Commerce_Exchange.htm">
+    <HelpTOCNode Id="44bbd8ff-5c85-43a5-95f2-091dd0b9090a" Title="Coin Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin.htm">
       <HelpTOCNode Title="Coin Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin__ctor.htm" />
-      <HelpTOCNode Id="0e3e756e-73a1-4ea5-9850-ee473293527f" Title="Coin Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin.htm">
+      <HelpTOCNode Id="1f623a51-a60c-49b2-9cf7-99ec92ef73c9" Title="Coin Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin.htm">
         <HelpTOCNode Title="AmountOfGems Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin_AmountOfGems.htm" />
         <HelpTOCNode Title="CoinsPerGemCalculated Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin_CoinsPerGemCalculated.htm" />
         <HelpTOCNode Title="CoinsPerGemRaw Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin_CoinsPerGemRaw.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Coin Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Coin.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="75086b28-1782-4c56-a7bc-bfada291d8a3" Title="ExchangeWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper.htm">
+    <HelpTOCNode Id="92c65f35-8e85-4d26-b18a-6469329638d1" Title="ExchangeWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper.htm">
       <HelpTOCNode Title="ExchangeWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper__ctor.htm" />
-      <HelpTOCNode Id="d3916c18-8414-49c4-b10b-d694d8ad06b9" Title="ExchangeWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper.htm">
+      <HelpTOCNode Id="9395831e-f07d-4d25-be9a-299b4e2819b0" Title="ExchangeWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper.htm">
         <HelpTOCNode Title="GetCoin Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper_GetCoin.htm" />
         <HelpTOCNode Title="GetGem Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper_GetGem.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f71e62d3-0903-4857-95c4-05ea1027b93e" Title="Gem Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem.htm">
+    <HelpTOCNode Id="ce0a08b2-b43f-4770-bd81-2c51244a1541" Title="Gem Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem.htm">
       <HelpTOCNode Title="Gem Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem__ctor.htm" />
-      <HelpTOCNode Id="7b990ef1-9053-4749-b834-6563aa54c73d" Title="Gem Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem.htm">
+      <HelpTOCNode Id="f287a598-9aba-49c7-a143-29c8834ef082" Title="Gem Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem.htm">
         <HelpTOCNode Title="AmountOfCoinsCalculated Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem_AmountOfCoinsCalculated.htm" />
         <HelpTOCNode Title="AmountOfCoinsRaw Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem_AmountOfCoinsRaw.htm" />
         <HelpTOCNode Title="CoinsPerGemCalculated Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem_CoinsPerGemCalculated.htm" />
@@ -381,10 +388,10 @@
       <HelpTOCNode Title="Gem Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="d90b1617-893c-4ca3-8ea3-8c6c7d24f5a4" Title="GW2CSharp.V2.Unauthenticated.Continents" Url="html/N_GW2CSharp_V2_Unauthenticated_Continents.htm">
-    <HelpTOCNode Id="26ff6a52-fa22-46fb-89c2-05a2f0f3fa51" Title="Continent Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Continent.htm">
+  <HelpTOCNode Id="6bf07aed-87e4-4c8c-8d29-cc09ee99cbca" Title="GW2CSharp.V2.Unauthenticated.Continents" Url="html/N_GW2CSharp_V2_Unauthenticated_Continents.htm">
+    <HelpTOCNode Id="1508a216-d3cc-4302-8d25-836470ce29f4" Title="Continent Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Continent.htm">
       <HelpTOCNode Title="Continent Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Continent__ctor.htm" />
-      <HelpTOCNode Id="c5121292-597f-433e-8711-16615d38c1fd" Title="Continent Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Continent.htm">
+      <HelpTOCNode Id="187eed73-c3c8-48ab-b701-673ab4c9b6e5" Title="Continent Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Continent.htm">
         <HelpTOCNode Title="Dimension Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Dimension.htm" />
         <HelpTOCNode Title="Floors Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Floors.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_Id.htm" />
@@ -394,24 +401,24 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Continent Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Continent.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a1f05f7a-d36d-4881-bb1a-5383828f76c7" Title="ContinentWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper.htm">
+    <HelpTOCNode Id="adaf24cc-73c2-4c1c-b9dc-62475f8f8fa2" Title="ContinentWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper.htm">
       <HelpTOCNode Title="ContinentWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper__ctor.htm" />
-      <HelpTOCNode Id="c8dc09ed-9647-4187-995d-1d70460bc6b2" Title="ContinentWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper.htm">
+      <HelpTOCNode Id="73a0d4f3-1301-4a24-9c38-c658579594f3" Title="ContinentWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper.htm">
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetAll.htm" />
         <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetById.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a69c3bea-925d-4256-ba06-6217c39899de" Title="Floor Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Floor.htm">
+    <HelpTOCNode Id="398ab11e-754c-4d6d-ae4a-d6e5c53214bd" Title="Floor Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Floor.htm">
       <HelpTOCNode Title="Floor Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Floor__ctor.htm" />
-      <HelpTOCNode Id="588cc51e-097a-463b-80b3-12af61cf9f02" Title="Floor Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Floor.htm">
+      <HelpTOCNode Id="3e37359c-639c-401d-b450-538a39d5633c" Title="Floor Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Floor.htm">
         <HelpTOCNode Title="Dimension Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Floor_Dimension.htm" />
         <HelpTOCNode Title="Regions Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Floor_Regions.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Floor Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Floor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="cbb9c88f-9fb2-4fa4-96dc-0371da475b67" Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm">
+    <HelpTOCNode Id="f00e479b-f6ad-4676-9610-db272d36dd37" Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm">
       <HelpTOCNode Title="Map Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Map__ctor.htm" />
-      <HelpTOCNode Id="37d83dfe-c27d-4424-9342-3f82dbaeea80" Title="Map Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm">
+      <HelpTOCNode Id="ddd79f38-a41d-480d-b134-8666aaf5cc3b" Title="Map Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm">
         <HelpTOCNode Title="ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_ContinentRectangle.htm" />
         <HelpTOCNode Title="DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
         <HelpTOCNode Title="MapRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MapRectangle.htm" />
@@ -425,9 +432,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Map Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="03268c9f-5a39-4c08-ad74-9716d5b1d3f2" Title="Objective Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Objective.htm">
+    <HelpTOCNode Id="cf5db2c2-cf7e-4f31-ad18-64fdee89f716" Title="Objective Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Objective.htm">
       <HelpTOCNode Title="Objective Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Objective__ctor.htm" />
-      <HelpTOCNode Id="750f8a3d-12e3-4a4e-895e-f6797ea8625d" Title="Objective Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Objective.htm">
+      <HelpTOCNode Id="be189531-586d-472a-abf9-f31ac81fca53" Title="Objective Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Objective.htm">
         <HelpTOCNode Title="ChatLink Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Objective_ChatLink.htm" />
         <HelpTOCNode Title="Coordinate Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Objective_Coordinate.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Objective_Id.htm" />
@@ -436,9 +443,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Objective Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Objective.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="4ddb050a-454f-4d4c-99d2-b84ea77b59ec" Title="Poi Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Poi.htm">
+    <HelpTOCNode Id="3f7bfe09-d202-40ba-b4be-bcdb11dcd394" Title="Poi Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Poi.htm">
       <HelpTOCNode Title="Poi Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Poi__ctor.htm" />
-      <HelpTOCNode Id="caa34304-4dbe-4d28-a189-04b32f26ba21" Title="Poi Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Poi.htm">
+      <HelpTOCNode Id="5fc22438-6a0d-4394-8f52-175f8bb51fda" Title="Poi Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Poi.htm">
         <HelpTOCNode Title="ChatLink Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_ChatLink.htm" />
         <HelpTOCNode Title="Coordinate Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_Coordinate.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Poi_Id.htm" />
@@ -447,18 +454,18 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Poi Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Poi.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="99d6ab41-629b-4f30-9b61-e13508e17462" Title="Region Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Region.htm">
+    <HelpTOCNode Id="dd3f2a61-8210-40a2-95f4-aa8fc0ab1e2d" Title="Region Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Region.htm">
       <HelpTOCNode Title="Region Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Region__ctor.htm" />
-      <HelpTOCNode Id="67dfccf6-d2f8-45dc-9522-75f8d00f8c6f" Title="Region Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Region.htm">
+      <HelpTOCNode Id="ef855c70-fa2b-4442-822a-3ce6e024fcfb" Title="Region Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Region.htm">
         <HelpTOCNode Title="Coordinate Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Region_Coordinate.htm" />
         <HelpTOCNode Title="Maps Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Region_Maps.htm" />
         <HelpTOCNode Title="Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Region_Name.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Region Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Region.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d0507d89-20b4-4acf-9337-e2e11d8cc8a8" Title="Sector Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Sector.htm">
+    <HelpTOCNode Id="4ccbab38-4362-4c13-a632-1db013969c42" Title="Sector Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Sector.htm">
       <HelpTOCNode Title="Sector Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Sector__ctor.htm" />
-      <HelpTOCNode Id="9df77647-d3a8-4a55-a065-c940943588bb" Title="Sector Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Sector.htm">
+      <HelpTOCNode Id="c962e8a9-358c-436c-8480-de371d71b8a7" Title="Sector Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Sector.htm">
         <HelpTOCNode Title="ChatLink Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_ChatLink.htm" />
         <HelpTOCNode Title="Coordinate Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_Coordinate.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_Id.htm" />
@@ -467,69 +474,65 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Sector Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Sector.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="34707ea8-5941-47bd-982b-9d1677fd745e" Title="SkillChallenge Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_SkillChallenge.htm">
+    <HelpTOCNode Id="caa12498-8fb0-4f85-b319-61cbd1dbb00e" Title="SkillChallenge Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_SkillChallenge.htm">
       <HelpTOCNode Title="SkillChallenge Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_SkillChallenge__ctor.htm" />
-      <HelpTOCNode Id="ee6ef551-756d-4237-9688-e792f526e915" Title="SkillChallenge Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_SkillChallenge.htm">
+      <HelpTOCNode Id="2edc72c4-3440-447a-8cc7-8ed9b758aa7c" Title="SkillChallenge Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_SkillChallenge.htm">
         <HelpTOCNode Title="Coordinate Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_SkillChallenge_Coordinate.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="SkillChallenge Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_SkillChallenge.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="58503e0f-c3e6-4a9d-b3f3-ba71fa288861" Title="GW2CSharp.V2.Unauthenticated.Continents.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Continents_Enums.htm">
+  <HelpTOCNode Id="7cd63c32-6d86-4303-9e11-7221c8b35133" Title="GW2CSharp.V2.Unauthenticated.Continents.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Continents_Enums.htm">
     <HelpTOCNode Title="PoiType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Enums_PoiType.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="63c7e783-3a52-4fdb-9dc6-24d6458ec1fa" Title="GW2CSharp.V2.Unauthenticated.Currencies" Url="html/N_GW2CSharp_V2_Unauthenticated_Currencies.htm">
-    <HelpTOCNode Id="2fb98b0b-3e58-472e-aef3-8f6a71399866" Title="Currency Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Currency.htm">
+  <HelpTOCNode Id="ce7790d4-f453-4d70-bc3c-0c39d506cce1" Title="GW2CSharp.V2.Unauthenticated.Currencies" Url="html/N_GW2CSharp_V2_Unauthenticated_Currencies.htm">
+    <HelpTOCNode Id="6019e07f-23c4-486d-bb92-da2ab4fd0498" Title="Currency Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Currency.htm">
       <HelpTOCNode Title="Currency Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_Currency__ctor.htm" />
-      <HelpTOCNode Id="d790ad4a-1e04-4782-b214-2a547f3aee9f" Title="Currency Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Currencies_Currency.htm">
+      <HelpTOCNode Id="a81514ba-3287-4927-a3dd-f8ad940f43c0" Title="Currency Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Currencies_Currency.htm">
         <HelpTOCNode Title="Description Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Currencies_Currency_Description.htm" />
         <HelpTOCNode Title="Icon Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Currencies_Currency_Icon.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Currencies_Currency_Id.htm" />
         <HelpTOCNode Title="Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Currencies_Currency_Name.htm" />
         <HelpTOCNode Title="Order Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Currencies_Currency_Order.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5ed2fbdd-5de7-4f35-831e-9d2595121e37" Title="Currency Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Currencies_Currency.htm">
-        <HelpTOCNode Title="GetImage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_Currency_GetImage.htm" />
-      </HelpTOCNode>
+      <HelpTOCNode Title="Currency Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Currencies_Currency.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="5c8fba36-9a0c-4102-83c1-91cd733d45ad" Title="CurrencyWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper.htm">
+    <HelpTOCNode Id="c817baf4-7962-4ea7-a1d3-4f41faa79750" Title="CurrencyWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper.htm">
       <HelpTOCNode Title="CurrencyWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper__ctor.htm" />
-      <HelpTOCNode Id="1477c95b-068f-426d-945f-64fdb54c634a" Title="CurrencyWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper.htm">
+      <HelpTOCNode Id="4b9eed1f-d901-4c7d-9917-939ffa3adf7d" Title="CurrencyWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper.htm">
         <HelpTOCNode Title="Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_Get.htm" />
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_GetAll.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="a146e177-7d3f-4724-be41-16633f42a14a" Title="GW2CSharp.V2.Unauthenticated.Currencies.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Currencies_Enums.htm">
+  <HelpTOCNode Id="9a1acc3b-e8f6-495c-81f7-66efbb5c8410" Title="GW2CSharp.V2.Unauthenticated.Currencies.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Currencies_Enums.htm">
     <HelpTOCNode Title="CurrencyType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="78435cc1-1092-4014-b5f6-afb25ef656ca" Title="GW2CSharp.V2.Unauthenticated.Files" Url="html/N_GW2CSharp_V2_Unauthenticated_Files.htm">
-    <HelpTOCNode Id="f153a8aa-2488-4683-98df-6d3e21d71064" Title="RessourceFile Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Files_RessourceFile.htm">
+  <HelpTOCNode Id="9b52f5c6-b5b1-4d81-a57a-1326b3c6db3d" Title="GW2CSharp.V2.Unauthenticated.Files" Url="html/N_GW2CSharp_V2_Unauthenticated_Files.htm">
+    <HelpTOCNode Id="a031026a-b7fd-4e71-98ff-77748215516d" Title="RessourceFile Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Files_RessourceFile.htm">
       <HelpTOCNode Title="RessourceFile Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFile__ctor.htm" />
-      <HelpTOCNode Id="9b93990b-b660-4c28-a5d3-2ce6e170b3f3" Title="RessourceFile Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Files_RessourceFile.htm">
+      <HelpTOCNode Id="c53e3c68-9e08-4101-82f0-cb90f9a0ba3d" Title="RessourceFile Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Files_RessourceFile.htm">
         <HelpTOCNode Title="Icon Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Files_RessourceFile_Icon.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Files_RessourceFile_Id.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c873f64b-fdae-4916-b501-f21a5afa4652" Title="RessourceFile Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Files_RessourceFile.htm">
-        <HelpTOCNode Title="GetImage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFile_GetImage.htm" />
-      </HelpTOCNode>
+      <HelpTOCNode Title="RessourceFile Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Files_RessourceFile.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6a7d4ea0-0dea-4099-b420-a7ec070cc891" Title="RessourceFileWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper.htm">
+    <HelpTOCNode Id="db7c925c-c9ab-4deb-8a5e-2139dd6beb63" Title="RessourceFileWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper.htm">
       <HelpTOCNode Title="RessourceFileWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper__ctor.htm" />
-      <HelpTOCNode Id="18fc247b-14eb-4dd4-b5e7-8725ec804854" Title="RessourceFileWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper.htm">
+      <HelpTOCNode Id="5016539a-a74c-47e9-b26e-ee6a56893d0d" Title="RessourceFileWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper.htm">
         <HelpTOCNode Title="Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_Get.htm" />
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_GetAll.htm" />
-        <HelpTOCNode Id="6fe7aa8e-56dd-46c2-8ae1-8ba5c9209ad9" Title="GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_GetMultiple.htm">
+        <HelpTOCNode Id="f36169a1-7fab-4673-91d3-7e1ad93b9402" Title="GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_GetMultiple.htm">
           <HelpTOCNode Title="GetMultiple Method (IEnumerable(String))" Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_GetMultiple.htm" />
           <HelpTOCNode Title="GetMultiple Method (String[])" Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_GetMultiple_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="ae3f282b-f120-444f-8a32-b2e7cb501de2" Title="GW2CSharp.V2.Unauthenticated.Items" Url="html/N_GW2CSharp_V2_Unauthenticated_Items.htm">
-    <HelpTOCNode Id="3ba0561c-54eb-4431-a04f-7d950199953e" Title="Item Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Item.htm">
+  <HelpTOCNode Id="77cc8ab8-bfde-48b8-af4b-c79e0389b154" Title="GW2CSharp.V2.Unauthenticated.Items" Url="html/N_GW2CSharp_V2_Unauthenticated_Items.htm">
+    <HelpTOCNode Id="582e9d14-7237-4c32-b777-0876cf0ebff7" Title="Item Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Item.htm">
       <HelpTOCNode Title="Item Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Item__ctor.htm" />
-      <HelpTOCNode Id="0e1c41f9-cc21-4cd3-833d-f43df07554d7" Title="Item Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Items_Item.htm">
+      <HelpTOCNode Id="0c58e727-1eb7-46ce-84c1-d51693c13b28" Title="Item Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Items_Item.htm">
         <HelpTOCNode Title="ChatLink Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Item_ChatLink.htm" />
         <HelpTOCNode Title="Description Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Item_Description.htm" />
         <HelpTOCNode Title="Details Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Item_Details.htm" />
@@ -545,26 +548,24 @@
         <HelpTOCNode Title="Type Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Item_Type.htm" />
         <HelpTOCNode Title="VendorValue Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Item_VendorValue.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3872f606-dc85-4a37-be15-6de2c6ac015d" Title="Item Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_Item.htm">
-        <HelpTOCNode Title="GetImage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Item_GetImage.htm" />
-      </HelpTOCNode>
+      <HelpTOCNode Title="Item Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_Item.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="ad6a2d60-42d0-4a60-8515-bda543f332a2" Title="ItemWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper.htm">
+    <HelpTOCNode Id="3609dc7c-37b1-4961-b3d5-d36fe8b199fb" Title="ItemWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper.htm">
       <HelpTOCNode Title="ItemWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper__ctor.htm" />
-      <HelpTOCNode Id="113eae66-3631-4014-8b20-4be513c91ffa" Title="ItemWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper.htm">
+      <HelpTOCNode Id="ad6de51f-1323-4eae-ad99-a3efc2b6914a" Title="ItemWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper.htm">
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetAll.htm" />
         <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetById.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="9ffaafa9-c8e1-4dcb-8c81-e52f5b4dece1" Title="GW2CSharp.V2.Unauthenticated.Items.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Items_Enums.htm">
+  <HelpTOCNode Id="964ea21d-f464-43c1-a360-924581dcfbf0" Title="GW2CSharp.V2.Unauthenticated.Items.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Items_Enums.htm">
     <HelpTOCNode Title="ItemFlag Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemFlag.htm" />
     <HelpTOCNode Title="ItemType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="94c4c70d-4363-4010-bafc-a56ded61f3c1" Title="GW2CSharp.V2.Unauthenticated.Items.Skins" Url="html/N_GW2CSharp_V2_Unauthenticated_Items_Skins.htm">
-    <HelpTOCNode Id="9b0f4901-da54-448d-ad77-bfa54bc4f73b" Title="Skin Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin.htm">
+  <HelpTOCNode Id="97580a55-ca75-4121-963e-2a39dc2ba4b4" Title="GW2CSharp.V2.Unauthenticated.Items.Skins" Url="html/N_GW2CSharp_V2_Unauthenticated_Items_Skins.htm">
+    <HelpTOCNode Id="f1f9f2b8-67c3-4bc1-9067-cb095d9cbbdd" Title="Skin Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin.htm">
       <HelpTOCNode Title="Skin Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin__ctor.htm" />
-      <HelpTOCNode Id="4bfbb034-8c77-44cf-a0ae-7c24488d87ee" Title="Skin Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin.htm">
+      <HelpTOCNode Id="c82e55d3-3414-48a2-b955-8f8109d5dc5b" Title="Skin Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin.htm">
         <HelpTOCNode Title="Description Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin_Description.htm" />
         <HelpTOCNode Title="Details Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin_Details.htm" />
         <HelpTOCNode Title="Flags Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin_Flags.htm" />
@@ -574,13 +575,11 @@
         <HelpTOCNode Title="Restrictions Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin_Restrictions.htm" />
         <HelpTOCNode Title="Type Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin_Type.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4fa80363-0d83-4464-8995-cca14e55d81e" Title="Skin Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin.htm">
-        <HelpTOCNode Title="GetIcon Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin_GetIcon.htm" />
-      </HelpTOCNode>
+      <HelpTOCNode Title="Skin Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="b9806730-70f4-4c92-8c98-cb2a3d46dc39" Title="SkinDetail Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail.htm">
+    <HelpTOCNode Id="ce3aad53-8c84-45d1-8f34-16964d76c143" Title="SkinDetail Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail.htm">
       <HelpTOCNode Title="SkinDetail Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail__ctor.htm" />
-      <HelpTOCNode Id="5f6b374a-0aa4-4175-9259-84543854a1cb" Title="SkinDetail Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail.htm">
+      <HelpTOCNode Id="817e5c39-552a-4ebc-897e-8e57fe32b93e" Title="SkinDetail Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail.htm">
         <HelpTOCNode Title="Armor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail_Armor.htm" />
         <HelpTOCNode Title="DamageType Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail_DamageType.htm" />
         <HelpTOCNode Title="Weapon Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail_Weapon.htm" />
@@ -588,22 +587,22 @@
       </HelpTOCNode>
       <HelpTOCNode Title="SkinDetail Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinDetail.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="8643ead5-100d-40d5-87a3-baf75a48d0be" Title="SkinWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper.htm">
+    <HelpTOCNode Id="15b0a2e9-1f4f-4d98-b0f6-31de8a4e43de" Title="SkinWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper.htm">
       <HelpTOCNode Title="SkinWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper__ctor.htm" />
-      <HelpTOCNode Id="e222dfda-a5f3-490d-afa1-05a0216d580b" Title="SkinWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper.htm">
+      <HelpTOCNode Id="3c4d3269-4504-4cee-881d-4e16dcebf244" Title="SkinWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper.htm">
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper_GetAll.htm" />
         <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper_GetById.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="015533fe-4893-4818-9cfa-67d6b0cb0dd3" Title="GW2CSharp.V2.Unauthenticated.Items.Skins.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Items_Skins_Enums.htm">
+  <HelpTOCNode Id="644873a4-52ae-4b43-b333-130e8e518f59" Title="GW2CSharp.V2.Unauthenticated.Items.Skins.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Items_Skins_Enums.htm">
     <HelpTOCNode Title="SkinFlag Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_Enums_SkinFlag.htm" />
     <HelpTOCNode Title="SkinType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_Enums_SkinType.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="e573e240-0b79-478c-a1f0-051d32d77921" Title="GW2CSharp.V2.Unauthenticated.Maps" Url="html/N_GW2CSharp_V2_Unauthenticated_Maps.htm">
-    <HelpTOCNode Id="54c273aa-5042-4076-8e2f-c185622212fa" Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm">
+  <HelpTOCNode Id="228e504e-ec85-4176-b810-5925314f0308" Title="GW2CSharp.V2.Unauthenticated.Maps" Url="html/N_GW2CSharp_V2_Unauthenticated_Maps.htm">
+    <HelpTOCNode Id="2ee7330a-5fbb-457d-b247-d0c62743ef14" Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm">
       <HelpTOCNode Title="Map Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_Map__ctor.htm" />
-      <HelpTOCNode Id="f207f484-4583-41ba-8e20-f4780c86a00c" Title="Map Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm">
+      <HelpTOCNode Id="c427c768-1765-45ae-8d2d-3ce4c2560308" Title="Map Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm">
         <HelpTOCNode Title="ContinentId Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentId.htm" />
         <HelpTOCNode Title="ContinentName Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentName.htm" />
         <HelpTOCNode Title="ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentRectangle.htm" />
@@ -619,18 +618,18 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Map Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="86f667b4-b8f5-4e15-b0e4-abe8e72696c0" Title="MapWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper.htm">
+    <HelpTOCNode Id="0459c113-c8f9-41bc-a872-f25135cd24b3" Title="MapWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper.htm">
       <HelpTOCNode Title="MapWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper__ctor.htm" />
-      <HelpTOCNode Id="6f88a699-2061-450a-af3c-5ce4b96ecfeb" Title="MapWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper.htm">
+      <HelpTOCNode Id="a0d18e20-768d-4df3-976a-31edf3805e9e" Title="MapWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper.htm">
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetAll.htm" />
         <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetById.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="a5cd9513-81dc-4913-83a3-a3ec33e4a422" Title="GW2CSharp.V2.Unauthenticated.Minis" Url="html/N_GW2CSharp_V2_Unauthenticated_Minis.htm">
-    <HelpTOCNode Id="3b51cc68-0193-42d7-b32c-aa888a4c4992" Title="Mini Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Minis_Mini.htm">
+  <HelpTOCNode Id="9b963e81-bd57-4952-8288-2f721c233cc7" Title="GW2CSharp.V2.Unauthenticated.Minis" Url="html/N_GW2CSharp_V2_Unauthenticated_Minis.htm">
+    <HelpTOCNode Id="2afef251-123d-4450-a8dc-ba0ddd7e72dc" Title="Mini Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Minis_Mini.htm">
       <HelpTOCNode Title="Mini Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_Mini__ctor.htm" />
-      <HelpTOCNode Id="9f373d61-0fe7-40cc-84e7-9f4b45387797" Title="Mini Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Minis_Mini.htm">
+      <HelpTOCNode Id="1dc408d5-67ab-439b-b939-08ea3f1e3af9" Title="Mini Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Minis_Mini.htm">
         <HelpTOCNode Title="Icon Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Minis_Mini_Icon.htm" />
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Minis_Mini_Id.htm" />
         <HelpTOCNode Title="ItemId Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Minis_Mini_ItemId.htm" />
@@ -638,41 +637,76 @@
         <HelpTOCNode Title="Order Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Minis_Mini_Order.htm" />
         <HelpTOCNode Title="Unlock Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Minis_Mini_Unlock.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="82dce611-c07d-4c2c-aef7-fcb697a79c41" Title="Mini Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Minis_Mini.htm">
-        <HelpTOCNode Title="GetImage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_Mini_GetImage.htm" />
-      </HelpTOCNode>
+      <HelpTOCNode Title="Mini Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Minis_Mini.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="cdb2be4e-3da8-4be0-a1ce-0b2532dffe16" Title="MinisWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper.htm">
+    <HelpTOCNode Id="13378448-6615-4973-af42-9d9fb3815649" Title="MinisWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper.htm">
       <HelpTOCNode Title="MinisWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper__ctor.htm" />
-      <HelpTOCNode Id="4fb59f09-c8d2-4614-9778-5e736b459bf8" Title="MinisWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper.htm">
+      <HelpTOCNode Id="66321869-a194-4b98-962b-6bc5a933383b" Title="MinisWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper.htm">
         <HelpTOCNode Title="Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_Get.htm" />
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_GetAll.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="e17bba0f-a97a-47ca-bbff-24b80423af3e" Title="GW2CSharp.V2.Unauthenticated.Quaggans" Url="html/N_GW2CSharp_V2_Unauthenticated_Quaggans.htm">
-    <HelpTOCNode Id="32696a0d-4a8e-4dc2-8c76-31901397dd6f" Title="Quaggan Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan.htm">
+  <HelpTOCNode Id="65b7ca21-c0f7-4224-aa9d-7c4205725e28" Title="GW2CSharp.V2.Unauthenticated.Quaggans" Url="html/N_GW2CSharp_V2_Unauthenticated_Quaggans.htm">
+    <HelpTOCNode Id="75843a4a-529a-44d3-91f2-257e541507b0" Title="Quaggan Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan.htm">
       <HelpTOCNode Title="Quaggan Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan__ctor.htm" />
-      <HelpTOCNode Id="a3e21d78-18fa-45ac-aa9c-f9224f633a62" Title="Quaggan Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan.htm">
+      <HelpTOCNode Id="90050a0c-da23-4c78-bdab-d28dab6248c8" Title="Quaggan Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan.htm">
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan_Id.htm" />
         <HelpTOCNode Title="Url Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan_Url.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="eecff603-18cf-4996-8c80-bdefbca6da31" Title="Quaggan Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan.htm">
-        <HelpTOCNode Title="GetImage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan_GetImage.htm" />
-      </HelpTOCNode>
+      <HelpTOCNode Title="Quaggan Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="76f14249-e9b3-4ffd-b500-c1f54759ae10" Title="QuagganWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper.htm">
+    <HelpTOCNode Id="51e955a9-cc02-4fdc-ac2d-e37584664d68" Title="QuagganWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper.htm">
       <HelpTOCNode Title="QuagganWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper__ctor.htm" />
-      <HelpTOCNode Id="51a02fd0-494b-47f8-90bb-34eae076096c" Title="QuagganWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper.htm">
+      <HelpTOCNode Id="dac7c18d-038b-4b9c-8936-b15ba439bcd9" Title="QuagganWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper.htm">
         <HelpTOCNode Title="Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_Get.htm" />
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_GetAll.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="c23a45a2-e673-4198-9334-da66a2e57da2" Title="GW2CSharp.V2.Unauthenticated.Worlds" Url="html/N_GW2CSharp_V2_Unauthenticated_Worlds.htm">
-    <HelpTOCNode Id="c93931a3-cb46-4f4d-ac6e-19b454967ef8" Title="World Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_World.htm">
+  <HelpTOCNode Id="3b4812d3-7d3d-4efe-8013-ed88b93eb364" Title="GW2CSharp.V2.Unauthenticated.Recipes" Url="html/N_GW2CSharp_V2_Unauthenticated_Recipes.htm">
+    <HelpTOCNode Id="ff6958ae-0fb9-48ea-9515-c106e13e49aa" Title="Ingredient Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Recipes_Ingredient.htm">
+      <HelpTOCNode Title="Ingredient Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Recipes_Ingredient__ctor.htm" />
+      <HelpTOCNode Id="0a7709d0-5fe3-4fa7-a4fa-d535493c8e2b" Title="Ingredient Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Recipes_Ingredient.htm">
+        <HelpTOCNode Title="Count Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Ingredient_Count.htm" />
+        <HelpTOCNode Title="ItemId Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Ingredient_ItemId.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Ingredient Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Recipes_Ingredient.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a916aec1-5408-4795-a987-702b959d7e3e" Title="Recipe Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Recipes_Recipe.htm">
+      <HelpTOCNode Title="Recipe Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Recipes_Recipe__ctor.htm" />
+      <HelpTOCNode Id="bec33274-7c7c-448c-8867-12ca991d2e73" Title="Recipe Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Recipes_Recipe.htm">
+        <HelpTOCNode Title="ChatLink Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_ChatLink.htm" />
+        <HelpTOCNode Title="Disciplines Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_Disciplines.htm" />
+        <HelpTOCNode Title="Flags Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_Flags.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_Id.htm" />
+        <HelpTOCNode Title="Ingredients Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_Ingredients.htm" />
+        <HelpTOCNode Title="MinRating Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_MinRating.htm" />
+        <HelpTOCNode Title="OutputItemCount Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_OutputItemCount.htm" />
+        <HelpTOCNode Title="OutputItemId Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_OutputItemId.htm" />
+        <HelpTOCNode Title="TimeToCraftMS Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_TimeToCraftMS.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_Type.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Recipe Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Recipes_Recipe.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a40ba6d0-5efe-4922-9e57-6c65d1cf3c85" Title="RecipesWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Recipes_RecipesWrapper.htm">
+      <HelpTOCNode Title="RecipesWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Recipes_RecipesWrapper__ctor.htm" />
+      <HelpTOCNode Id="c91b197f-8e59-41b9-84fd-72b76611aee3" Title="RecipesWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Recipes_RecipesWrapper.htm">
+        <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Recipes_RecipesWrapper_GetAll.htm" />
+        <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Recipes_RecipesWrapper_GetById.htm" />
+        <HelpTOCNode Title="SearchByIngredient Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Recipes_RecipesWrapper_SearchByIngredient.htm" />
+        <HelpTOCNode Title="SearchByResultingItem Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Recipes_RecipesWrapper_SearchByResultingItem.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="fad8568d-d6a7-4496-8080-d297383550b2" Title="GW2CSharp.V2.Unauthenticated.Recipes.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Recipes_Enums.htm">
+    <HelpTOCNode Title="Flags Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Recipes_Enums_Flags.htm" />
+    <HelpTOCNode Title="RecipeType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Recipes_Enums_RecipeType.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="f5d8891e-2f5e-4c84-89f9-1eabf4d87a8f" Title="GW2CSharp.V2.Unauthenticated.Worlds" Url="html/N_GW2CSharp_V2_Unauthenticated_Worlds.htm">
+    <HelpTOCNode Id="e23c6dd9-1acd-4979-9ed0-1adbf020bc52" Title="World Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_World.htm">
       <HelpTOCNode Title="World Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_World__ctor.htm" />
-      <HelpTOCNode Id="c166837c-0a1f-4a63-8e3a-c56fb99bd9c8" Title="World Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Worlds_World.htm">
+      <HelpTOCNode Id="eca0bb15-52ed-4b7d-abbb-192cc6adad6a" Title="World Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Worlds_World.htm">
         <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Worlds_World_Id.htm" />
         <HelpTOCNode Title="Language Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Worlds_World_Language.htm" />
         <HelpTOCNode Title="Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Worlds_World_Name.htm" />
@@ -681,12 +715,12 @@
       </HelpTOCNode>
       <HelpTOCNode Title="World Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Worlds_World.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="97066ac8-0913-458a-878a-451da1951dbe" Title="WorldWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper.htm">
+    <HelpTOCNode Id="ad400f56-a3b2-4e6c-84e4-6de997eafda3" Title="WorldWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper.htm">
       <HelpTOCNode Title="WorldWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper__ctor.htm" />
-      <HelpTOCNode Id="20f694b2-e32f-460b-b6b0-d3458f5aafbb" Title="WorldWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper.htm">
+      <HelpTOCNode Id="80d176ba-72d9-4fba-96ff-14776e78faf0" Title="WorldWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper.htm">
         <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetAll.htm" />
         <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetById.htm" />
-        <HelpTOCNode Id="47972e48-f2a5-4efb-9fbc-d6a81606adb9" Title="GetByIds Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByIds.htm">
+        <HelpTOCNode Id="e3ca3e3f-8d09-408d-b942-c87b2fdc0d90" Title="GetByIds Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByIds.htm">
           <HelpTOCNode Title="GetByIds Method (IEnumerable(Int32), RequestedLanguage)" Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByIds_1.htm" />
           <HelpTOCNode Title="GetByIds Method (RequestedLanguage, Int32[])" Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByIds.htm" />
         </HelpTOCNode>
@@ -694,9 +728,136 @@
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="97798fce-f806-40e3-ad32-32d47ce1ce85" Title="GW2CSharp.V2.Unauthenticated.Worlds.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Worlds_Enums.htm">
+  <HelpTOCNode Id="c94e846a-f8a4-4377-a985-cdd97f636049" Title="GW2CSharp.V2.Unauthenticated.Worlds.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_Worlds_Enums.htm">
     <HelpTOCNode Title="Language Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Language.htm" />
     <HelpTOCNode Title="Population Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Population.htm" />
     <HelpTOCNode Title="Region Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Region.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="0f910d99-fc90-4b7b-811f-a84adb93c639" Title="GW2CSharp.V2.Unauthenticated.WvW" Url="html/N_GW2CSharp_V2_Unauthenticated_WvW.htm">
+    <HelpTOCNode Id="62945b15-b929-4dec-b455-a3bad03bff77" Title="Bonus Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Bonus.htm">
+      <HelpTOCNode Title="Bonus Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Bonus__ctor.htm" />
+      <HelpTOCNode Id="1d7efac1-430a-401c-9383-0ed3b1063383" Title="Bonus Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Bonus.htm">
+        <HelpTOCNode Title="Owner Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Bonus_Owner.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Bonus_Type.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Bonus Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Bonus.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c169a077-782c-448b-b79a-65ddd4cb5943" Title="Deaths Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Deaths.htm">
+      <HelpTOCNode Title="Deaths Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Deaths__ctor.htm" />
+      <HelpTOCNode Id="413eaed6-4845-47cc-8b74-d486370f8fc8" Title="Deaths Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Deaths.htm">
+        <HelpTOCNode Title="Blue Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Deaths_Blue.htm" />
+        <HelpTOCNode Title="Green Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Deaths_Green.htm" />
+        <HelpTOCNode Title="Red Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Deaths_Red.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Deaths Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Deaths.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2799a940-57b2-41e5-95cf-2b204e2d7d64" Title="Kills Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Kills.htm">
+      <HelpTOCNode Title="Kills Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Kills__ctor.htm" />
+      <HelpTOCNode Id="5b982e61-f177-4ebd-a0f8-2c7d875a282e" Title="Kills Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Kills.htm">
+        <HelpTOCNode Title="Blue Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Kills_Blue.htm" />
+        <HelpTOCNode Title="Green Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Kills_Green.htm" />
+        <HelpTOCNode Title="Red Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Kills_Red.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Kills Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Kills.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="ed37b597-6326-4a06-a499-4914a77cdb4e" Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Map.htm">
+      <HelpTOCNode Title="Map Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Map__ctor.htm" />
+      <HelpTOCNode Id="5e9cb274-1bda-4e1d-ac07-6385e559c137" Title="Map Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Map.htm">
+        <HelpTOCNode Title="Bonuses Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Bonuses.htm" />
+        <HelpTOCNode Title="Deaths Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Deaths.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Id.htm" />
+        <HelpTOCNode Title="Kills Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Kills.htm" />
+        <HelpTOCNode Title="Objectives Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Objectives.htm" />
+        <HelpTOCNode Title="Scores Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Scores.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Type.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Map Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Map.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="90b963f4-5908-49ac-a46b-51c3ad3344da" Title="Matches Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Matches.htm">
+      <HelpTOCNode Title="Matches Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Matches__ctor.htm" />
+      <HelpTOCNode Id="84f0bff8-fec1-435a-8017-c6635a402636" Title="Matches Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Matches.htm">
+        <HelpTOCNode Title="Deaths Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Matches_Deaths.htm" />
+        <HelpTOCNode Title="EndTime Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Matches_EndTime.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Matches_Id.htm" />
+        <HelpTOCNode Title="Kills Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Matches_Kills.htm" />
+        <HelpTOCNode Title="Maps Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Matches_Maps.htm" />
+        <HelpTOCNode Title="Scores Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Matches_Scores.htm" />
+        <HelpTOCNode Title="StartTime Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Matches_StartTime.htm" />
+        <HelpTOCNode Title="Worlds Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Matches_Worlds.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Matches Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Matches.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="1ccbd3b7-ad8e-4be7-9d45-74e7c394d28c" Title="MatchesWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper.htm">
+      <HelpTOCNode Title="MatchesWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper__ctor.htm" />
+      <HelpTOCNode Id="46438c90-0837-423e-9547-bbeffdcdf52f" Title="MatchesWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper.htm">
+        <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetAll.htm" />
+        <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetById.htm" />
+        <HelpTOCNode Title="GetByWorldId Method " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetByWorldId.htm" />
+        <HelpTOCNode Id="fdc08c65-5a7d-48d3-b646-cec1a8d5b6b3" Title="GetMultipleById Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetMultipleById.htm">
+          <HelpTOCNode Title="GetMultipleById Method (String[])" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetMultipleById_1.htm" />
+          <HelpTOCNode Title="GetMultipleById Method (List(String), RequestedLanguage)" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetMultipleById.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1d8ca13a-6e29-4e48-bb45-61266cb4872a" Title="MatchObjective Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective.htm">
+      <HelpTOCNode Title="MatchObjective Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective__ctor.htm" />
+      <HelpTOCNode Id="2deeeef6-cb61-4d6a-a92a-5fa013fa40bc" Title="MatchObjective Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective.htm">
+        <HelpTOCNode Title="ClaimedAt Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective_ClaimedAt.htm" />
+        <HelpTOCNode Title="ClaimedBy Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective_ClaimedBy.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective_Id.htm" />
+        <HelpTOCNode Title="LastFlipped Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective_LastFlipped.htm" />
+        <HelpTOCNode Title="Owner Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective_Owner.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective_Type.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="MatchObjective Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_MatchObjective.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="2c372d8c-3d43-4d10-9880-aaf41fc12141" Title="Objectives Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Objectives.htm">
+      <HelpTOCNode Title="Objectives Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Objectives__ctor.htm" />
+      <HelpTOCNode Id="3685ffe7-99db-4fe7-a349-ab71e65a3173" Title="Objectives Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Objectives.htm">
+        <HelpTOCNode Title="Coord Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_Coord.htm" />
+        <HelpTOCNode Title="Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_Id.htm" />
+        <HelpTOCNode Title="LabelCoord Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_LabelCoord.htm" />
+        <HelpTOCNode Title="MapId Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_MapId.htm" />
+        <HelpTOCNode Title="MapType Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_MapType.htm" />
+        <HelpTOCNode Title="Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_Name.htm" />
+        <HelpTOCNode Title="SectorId Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_SectorId.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_Type.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Objectives Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Objectives.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d9518bdd-82f5-4972-9c0c-299260829106" Title="ObjectivesWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper.htm">
+      <HelpTOCNode Title="ObjectivesWrapper Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper__ctor.htm" />
+      <HelpTOCNode Id="201e9db8-0e53-4117-94c2-883fa85a653a" Title="ObjectivesWrapper Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper.htm">
+        <HelpTOCNode Title="GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetAll.htm" />
+        <HelpTOCNode Title="GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetById.htm" />
+        <HelpTOCNode Id="accf8d80-e7e4-453b-a63f-6e5eaaeba85f" Title="GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetMultiple.htm">
+          <HelpTOCNode Title="GetMultiple Method (String[])" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetMultiple_1.htm" />
+          <HelpTOCNode Title="GetMultiple Method (List(String), RequestedLanguage)" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetMultiple.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="77ac74b3-1f53-4602-9208-eff3664c2072" Title="Scores Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Scores.htm">
+      <HelpTOCNode Title="Scores Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Scores__ctor.htm" />
+      <HelpTOCNode Id="c4abf110-9447-4592-a37d-0f22d96b2d11" Title="Scores Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Scores.htm">
+        <HelpTOCNode Title="Blue Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Scores_Blue.htm" />
+        <HelpTOCNode Title="Green Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Scores_Green.htm" />
+        <HelpTOCNode Title="Red Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Scores_Red.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Scores Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Scores.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="1192a435-dc6b-4048-87de-0c10dc2d618f" Title="Worlds Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Worlds.htm">
+      <HelpTOCNode Title="Worlds Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Worlds__ctor.htm" />
+      <HelpTOCNode Id="c1ba80e9-eb4b-442a-9888-1970e958602c" Title="Worlds Properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Worlds.htm">
+        <HelpTOCNode Title="Blue Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Worlds_Blue.htm" />
+        <HelpTOCNode Title="Green Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Worlds_Green.htm" />
+        <HelpTOCNode Title="Red Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Worlds_Red.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Worlds Methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Worlds.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="6759bbcd-fb26-479b-a74c-a19fcda89277" Title="GW2CSharp.V2.Unauthenticated.WvW.Enums" Url="html/N_GW2CSharp_V2_Unauthenticated_WvW_Enums.htm">
+    <HelpTOCNode Title="MapType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Enums_MapType.htm" />
+    <HelpTOCNode Title="ObjectiveType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Enums_ObjectiveType.htm" />
+    <HelpTOCNode Title="Owner Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Enums_Owner.htm" />
   </HelpTOCNode>
 </HelpTOC>
