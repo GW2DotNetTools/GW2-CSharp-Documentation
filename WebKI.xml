@@ -32,7 +32,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm" />
   </HelpKINode>
   <HelpKINode Title="AccountWrapper.AccountWrapper constructor" Url="html/M_GW2CSharp_V2_Authenticated_Account_AccountWrapper__ctor.htm" />
-  <HelpKINode Title="AccountWrapper.Get method" Url="html/M_GW2CSharp_V2_Authenticated_Account_AccountWrapper_Get.htm" />
+  <HelpKINode Title="AccountWrapper.Get method" Url="html/Overload_GW2CSharp_V2_Authenticated_Account_AccountWrapper_Get.htm" />
   <HelpKINode Title="Achievement class">
     <HelpKINode Title="Achievement Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm" />
     <HelpKINode Title="about Achievement class" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Achievement.htm" />
@@ -58,9 +58,9 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper.htm" />
   </HelpKINode>
   <HelpKINode Title="AchievementWrapper.AchievementWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper__ctor.htm" />
-  <HelpKINode Title="AchievementWrapper.Get method" Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_Get.htm" />
-  <HelpKINode Title="AchievementWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetAll.htm" />
-  <HelpKINode Title="AchievementWrapper.GetMultiple method" Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetMultiple.htm" />
+  <HelpKINode Title="AchievementWrapper.Get method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_Get.htm" />
+  <HelpKINode Title="AchievementWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetAll.htm" />
+  <HelpKINode Title="AchievementWrapper.GetMultiple method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetMultiple.htm" />
   <HelpKINode Title="Activity enumeration member" Url="html/T_GW2CSharp_Enums_GameMode.htm" />
   <HelpKINode Title="AirshipPart enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="AmountOfCoinsCalculated property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_Gem_AmountOfCoinsCalculated.htm" />
@@ -226,9 +226,9 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper.htm" />
   </HelpKINode>
   <HelpKINode Title="ColorWrapper.ColorWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper__ctor.htm" />
-  <HelpKINode Title="ColorWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetAll.htm" />
-  <HelpKINode Title="ColorWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetById.htm" />
-  <HelpKINode Title="ColorWrapper.GetByPage method" Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetByPage.htm" />
+  <HelpKINode Title="ColorWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetAll.htm" />
+  <HelpKINode Title="ColorWrapper.GetById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetById.htm" />
+  <HelpKINode Title="ColorWrapper.GetByPage method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetByPage.htm" />
   <HelpKINode Title="Component enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Recipes_Enums_RecipeType.htm" />
   <HelpKINode Title="Consumable enumeration member">
     <HelpKINode Title="ItemType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
@@ -252,8 +252,8 @@
   <HelpKINode Title="ContinentId property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentId.htm" />
   <HelpKINode Title="ContinentName property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentName.htm" />
   <HelpKINode Title="ContinentRectangle property">
-    <HelpKINode Title="Map.ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentRectangle.htm" />
     <HelpKINode Title="Map.ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_ContinentRectangle.htm" />
+    <HelpKINode Title="Map.ContinentRectangle Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_ContinentRectangle.htm" />
   </HelpKINode>
   <HelpKINode Title="Continents property" Url="html/P_GW2CSharp_V2_V2Endpoint_Continents.htm" />
   <HelpKINode Title="ContinentWrapper class">
@@ -263,8 +263,8 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper.htm" />
   </HelpKINode>
   <HelpKINode Title="ContinentWrapper.ContinentWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper__ctor.htm" />
-  <HelpKINode Title="ContinentWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetAll.htm" />
-  <HelpKINode Title="ContinentWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetById.htm" />
+  <HelpKINode Title="ContinentWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetAll.htm" />
+  <HelpKINode Title="ContinentWrapper.GetById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetById.htm" />
   <HelpKINode Title="Contrast property" Url="html/P_GW2CSharp_V2_Unauthenticated_Colors_DyeMaterial_Contrast.htm" />
   <HelpKINode Title="Coord property" Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_Coord.htm" />
   <HelpKINode Title="Coordinate property">
@@ -297,7 +297,10 @@
   <HelpKINode Title="Copper property" Url="html/P_GW2CSharp_Entities_Money_Copper.htm" />
   <HelpKINode Title="Count property" Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Ingredient_Count.htm" />
   <HelpKINode Title="CraftingMaterial enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
-  <HelpKINode Title="Created property" Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Created.htm" />
+  <HelpKINode Title="Created property">
+    <HelpKINode Title="Account.Created Property " Url="html/P_GW2CSharp_V2_Authenticated_Account_Account_Created.htm" />
+    <HelpKINode Title="Transaction.Created Property " Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Created.htm" />
+  </HelpKINode>
   <HelpKINode Title="Currencies property" Url="html/P_GW2CSharp_V2_V2Endpoint_Currencies.htm" />
   <HelpKINode Title="Currency class">
     <HelpKINode Title="Currency Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Currency.htm" />
@@ -320,8 +323,8 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper.htm" />
   </HelpKINode>
   <HelpKINode Title="CurrencyWrapper.CurrencyWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper__ctor.htm" />
-  <HelpKINode Title="CurrencyWrapper.Get method" Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_Get.htm" />
-  <HelpKINode Title="CurrencyWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_GetAll.htm" />
+  <HelpKINode Title="CurrencyWrapper.Get method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_Get.htm" />
+  <HelpKINode Title="CurrencyWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_GetAll.htm" />
   <HelpKINode Title="Dagger enumeration member">
     <HelpKINode Title="RecipeType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Recipes_Enums_RecipeType.htm" />
     <HelpKINode Title="Weapon Enumeration" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
@@ -346,8 +349,8 @@
   <HelpKINode Title="Deaths.Green property" Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Deaths_Green.htm" />
   <HelpKINode Title="Deaths.Red property" Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Deaths_Red.htm" />
   <HelpKINode Title="DefaultFloor property">
-    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
     <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_DefaultFloor.htm" />
+    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
   </HelpKINode>
   <HelpKINode Title="Description property">
     <HelpKINode Title="Achievement.Description Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Achievement_Achievement_Description.htm" />
@@ -464,61 +467,65 @@
   <HelpKINode Title="Geode enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="German enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_Enums_Language.htm" />
   <HelpKINode Title="Get method">
-    <HelpKINode Title="AccountWrapper.Get Method " Url="html/M_GW2CSharp_V2_Authenticated_Account_AccountWrapper_Get.htm" />
-    <HelpKINode Title="AchievementWrapper.Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_Get.htm" />
-    <HelpKINode Title="CurrencyWrapper.Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_Get.htm" />
-    <HelpKINode Title="MinisWrapper.Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_Get.htm" />
-    <HelpKINode Title="PvpStatisticWrapper.Get Method " Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper_Get.htm" />
+    <HelpKINode Title="AccountWrapper.Get Method " Url="html/Overload_GW2CSharp_V2_Authenticated_Account_AccountWrapper_Get.htm" />
+    <HelpKINode Title="AchievementWrapper.Get Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_Get.htm" />
+    <HelpKINode Title="CurrencyWrapper.Get Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_Get.htm" />
+    <HelpKINode Title="MinisWrapper.Get Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_Get.htm" />
+    <HelpKINode Title="PvpStatisticWrapper.Get Method " Url="html/Overload_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper_Get.htm" />
     <HelpKINode Title="QuagganWrapper.Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_Get.htm" />
     <HelpKINode Title="RessourceFileWrapper.Get Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_Get.htm" />
-    <HelpKINode Title="TokeninfoWrapper.Get Method " Url="html/M_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper_Get.htm" />
+    <HelpKINode Title="TokeninfoWrapper.Get Method " Url="html/Overload_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper_Get.htm" />
   </HelpKINode>
   <HelpKINode Title="GetAll method">
-    <HelpKINode Title="AchievementWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetAll.htm" />
-    <HelpKINode Title="ColorWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetAll.htm" />
-    <HelpKINode Title="ContinentWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetAll.htm" />
-    <HelpKINode Title="CurrencyWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_GetAll.htm" />
-    <HelpKINode Title="ItemWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetAll.htm" />
+    <HelpKINode Title="AchievementWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetAll.htm" />
+    <HelpKINode Title="ColorWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetAll.htm" />
+    <HelpKINode Title="ContinentWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetAll.htm" />
+    <HelpKINode Title="CurrencyWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Currencies_CurrencyWrapper_GetAll.htm" />
+    <HelpKINode Title="ItemWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetAll.htm" />
     <HelpKINode Title="ListingWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetAll.htm" />
-    <HelpKINode Title="MapWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetAll.htm" />
-    <HelpKINode Title="MatchesWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetAll.htm" />
-    <HelpKINode Title="MinisWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_GetAll.htm" />
-    <HelpKINode Title="ObjectivesWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetAll.htm" />
+    <HelpKINode Title="MapWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetAll.htm" />
+    <HelpKINode Title="MatchesWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetAll.htm" />
+    <HelpKINode Title="MinisWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_GetAll.htm" />
+    <HelpKINode Title="ObjectivesWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetAll.htm" />
     <HelpKINode Title="PriceWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetAll.htm" />
     <HelpKINode Title="QuagganWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_GetAll.htm" />
     <HelpKINode Title="RecipesWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Recipes_RecipesWrapper_GetAll.htm" />
     <HelpKINode Title="RessourceFileWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Files_RessourceFileWrapper_GetAll.htm" />
     <HelpKINode Title="SkinWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper_GetAll.htm" />
-    <HelpKINode Title="WorldWrapper.GetAll Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetAll.htm" />
+    <HelpKINode Title="WorldWrapper.GetAll Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetAll.htm" />
   </HelpKINode>
   <HelpKINode Title="GetBuildId property" Url="html/P_GW2CSharp_V2_V2Endpoint_GetBuildId.htm" />
   <HelpKINode Title="GetById method">
-    <HelpKINode Title="ColorWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetById.htm" />
-    <HelpKINode Title="ContinentWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetById.htm" />
-    <HelpKINode Title="ItemWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetById.htm" />
+    <HelpKINode Title="ColorWrapper.GetById Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetById.htm" />
+    <HelpKINode Title="ContinentWrapper.GetById Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Continents_ContinentWrapper_GetById.htm" />
+    <HelpKINode Title="ItemWrapper.GetById Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetById.htm" />
     <HelpKINode Title="ListingWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetById.htm" />
-    <HelpKINode Title="MapWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetById.htm" />
-    <HelpKINode Title="MatchesWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetById.htm" />
-    <HelpKINode Title="ObjectivesWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetById.htm" />
+    <HelpKINode Title="MapWrapper.GetById Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetById.htm" />
+    <HelpKINode Title="MatchesWrapper.GetById Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetById.htm" />
+    <HelpKINode Title="ObjectivesWrapper.GetById Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetById.htm" />
     <HelpKINode Title="PriceWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetById.htm" />
     <HelpKINode Title="RecipesWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Recipes_RecipesWrapper_GetById.htm" />
     <HelpKINode Title="SkinWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper_GetById.htm" />
-    <HelpKINode Title="WorldWrapper.GetById Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetById.htm" />
+    <HelpKINode Title="WorldWrapper.GetById Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetById.htm" />
   </HelpKINode>
   <HelpKINode Title="GetByIds method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByIds.htm" />
   <HelpKINode Title="GetByPage method">
-    <HelpKINode Title="ColorWrapper.GetByPage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetByPage.htm" />
-    <HelpKINode Title="WorldWrapper.GetByPage Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByPage.htm" />
+    <HelpKINode Title="ColorWrapper.GetByPage Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Colors_ColorWrapper_GetByPage.htm" />
+    <HelpKINode Title="WorldWrapper.GetByPage Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByPage.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetByWorldId method" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetByWorldId.htm" />
+  <HelpKINode Title="GetByWorldId method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetByWorldId.htm" />
   <HelpKINode Title="GetCoin method" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper_GetCoin.htm" />
+  <HelpKINode Title="GetCurrentBuys method" Url="html/Overload_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper_GetCurrentBuys.htm" />
+  <HelpKINode Title="GetCurrentSells method" Url="html/Overload_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper_GetCurrentSells.htm" />
   <HelpKINode Title="GetGem method" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Exchange_ExchangeWrapper_GetGem.htm" />
+  <HelpKINode Title="GetHistoryBuys method" Url="html/Overload_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper_GetHistoryBuys.htm" />
+  <HelpKINode Title="GetHistorySells method" Url="html/Overload_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper_GetHistorySells.htm" />
   <HelpKINode Title="GetImage method">
     <HelpKINode Title="Imageable.GetImage Method " Url="html/M_GW2CSharp_Imageable_GetImage.htm" />
     <HelpKINode Title="RenderService.GetImage Method " Url="html/Overload_GW2CSharp_Services_RenderService_GetImage.htm" />
   </HelpKINode>
   <HelpKINode Title="GetMultiple method">
-    <HelpKINode Title="AchievementWrapper.GetMultiple Method " Url="html/M_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetMultiple.htm" />
+    <HelpKINode Title="AchievementWrapper.GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Achievement_AchievementWrapper_GetMultiple.htm" />
     <HelpKINode Title="ListingWrapper.GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_ListingWrapper_GetMultiple.htm" />
     <HelpKINode Title="ObjectivesWrapper.GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetMultiple.htm" />
     <HelpKINode Title="PriceWrapper.GetMultiple Method " Url="html/Overload_GW2CSharp_V2_Unauthenticated_Commerce_PriceWrapper_GetMultiple.htm" />
@@ -526,7 +533,7 @@
   </HelpKINode>
   <HelpKINode Title="GetMultipleById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetMultipleById.htm" />
   <HelpKINode Title="GetRawCoin method" Url="html/M_GW2CSharp_Entities_Money_GetRawCoin.htm" />
-  <HelpKINode Title="GetRecent method" Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper_GetRecent.htm" />
+  <HelpKINode Title="GetRecent method" Url="html/Overload_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper_GetRecent.htm" />
   <HelpKINode Title="Gizmo enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
   <HelpKINode Title="Gloves enumeration member">
     <HelpKINode Title="Armor Enumeration" Url="html/T_GW2CSharp_Enums_Armor.htm" />
@@ -552,10 +559,11 @@
   <HelpKINode Title="GW2Api class">
     <HelpKINode Title="GW2Api Class" Url="html/T_GW2CSharp_GW2Api.htm" />
     <HelpKINode Title="about GW2Api class" Url="html/T_GW2CSharp_GW2Api.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_GW2Api.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_GW2Api.htm" />
   </HelpKINode>
   <HelpKINode Title="GW2Api.V1 property" Url="html/P_GW2CSharp_GW2Api_V1.htm" />
-  <HelpKINode Title="GW2Api.V2 property" Url="html/P_GW2CSharp_GW2Api_V2.htm" />
+  <HelpKINode Title="GW2Api.V2 method" Url="html/Overload_GW2CSharp_GW2Api_V2.htm" />
   <HelpKINode Title="GW2CSharp namespace" Url="html/N_GW2CSharp.htm" />
   <HelpKINode Title="GW2CSharp.ApiBase class" Url="html/T_GW2CSharp_ApiBase.htm" />
   <HelpKINode Title="GW2CSharp.ApiException class" Url="html/T_GW2CSharp_ApiException.htm" />
@@ -587,6 +595,9 @@
   <HelpKINode Title="GW2CSharp.V2.Authenticated.Account.Account class" Url="html/T_GW2CSharp_V2_Authenticated_Account_Account.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.Account.AccountType enumeration" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountType.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.Account.AccountWrapper class" Url="html/T_GW2CSharp_V2_Authenticated_Account_AccountWrapper.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Authenticated.Commerce namespace" Url="html/N_GW2CSharp_V2_Authenticated_Commerce.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Authenticated.Commerce.Transaction class" Url="html/T_GW2CSharp_V2_Authenticated_Commerce_Transaction.htm" />
+  <HelpKINode Title="GW2CSharp.V2.Authenticated.Commerce.TransactionsWrapper class" Url="html/T_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.Pvp.Games namespace" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Games.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.Pvp.Games.Enums namespace" Url="html/N_GW2CSharp_V2_Authenticated_Pvp_Games_Enums.htm" />
   <HelpKINode Title="GW2CSharp.V2.Authenticated.Pvp.Games.Enums.Team enumeration" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Games_Enums_Team.htm" />
@@ -755,6 +766,7 @@
     <HelpKINode Title="Sector.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Sector_Id.htm" />
     <HelpKINode Title="Skin.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Items_Skins_Skin_Id.htm" />
     <HelpKINode Title="Tokeninfo.Id Property " Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Tokeninfo_Id.htm" />
+    <HelpKINode Title="Transaction.Id Property " Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Id.htm" />
     <HelpKINode Title="World.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Worlds_World_Id.htm" />
   </HelpKINode>
   <HelpKINode Title="IgnoreNearlyComplete enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Enums_AchievementCategories.htm" />
@@ -811,18 +823,19 @@
   <HelpKINode Title="ItemId property">
     <HelpKINode Title="Ingredient.ItemId Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Ingredient_ItemId.htm" />
     <HelpKINode Title="Mini.ItemId Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Minis_Mini_ItemId.htm" />
+    <HelpKINode Title="Transaction.ItemId Property " Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_ItemId.htm" />
   </HelpKINode>
   <HelpKINode Title="Items property" Url="html/P_GW2CSharp_V2_V2Endpoint_Items.htm" />
   <HelpKINode Title="ItemType enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
   <HelpKINode Title="ItemWrapper class">
     <HelpKINode Title="ItemWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper.htm" />
     <HelpKINode Title="about ItemWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper.htm" />
-    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper.htm" />
   </HelpKINode>
-  <HelpKINode Title="ItemWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetAll.htm" />
-  <HelpKINode Title="ItemWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetById.htm" />
-  <HelpKINode Title="ItemWrapper.ItemWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper__ctor.htm" />
+  <HelpKINode Title="ItemWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetAll.htm" />
+  <HelpKINode Title="ItemWrapper.GetById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper_GetById.htm" />
+  <HelpKINode Title="ItemWrapper.ItemWrapper constructor" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Items_ItemWrapper__ctor.htm" />
   <HelpKINode Title="Jeweler enumeration member" Url="html/T_GW2CSharp_Enums_Discipline.htm" />
   <HelpKINode Title="jpg enumeration member" Url="html/T_GW2CSharp_Services_Enums_FileFormat.htm" />
   <HelpKINode Title="Junk enumeration member" Url="html/T_GW2CSharp_Enums_Rarity.htm" />
@@ -910,20 +923,20 @@
   <HelpKINode Title="Male enumeration member" Url="html/T_GW2CSharp_Enums_Gender.htm" />
   <HelpKINode Title="ManifestoOfTheMoletariate enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Map class">
-    <HelpKINode Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Map.htm" />
     <HelpKINode Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
+    <HelpKINode Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Map.htm" />
     <HelpKINode Title="Map Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
     <HelpKINode Title="about Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Map.htm" />
-    <HelpKINode Title="about Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
     <HelpKINode Title="about Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
-    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Map__ctor.htm" />
+    <HelpKINode Title="about Map class" Url="html/T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_Map__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Map__ctor.htm" />
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Map__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Map.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_Map.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Maps_Map.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Continents_Map.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Map.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.Bonuses property" Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Bonuses.htm" />
@@ -935,18 +948,18 @@
   </HelpKINode>
   <HelpKINode Title="Map.Deaths property" Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Deaths.htm" />
   <HelpKINode Title="Map.DefaultFloor property">
-    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
     <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_DefaultFloor.htm" />
+    <HelpKINode Title="Map.DefaultFloor Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_DefaultFloor.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.Floors property" Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Floors.htm" />
   <HelpKINode Title="Map.Id property">
-    <HelpKINode Title="Map.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Id.htm" />
     <HelpKINode Title="Map.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Id.htm" />
+    <HelpKINode Title="Map.Id Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Id.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.Kills property" Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Kills.htm" />
   <HelpKINode Title="Map.Map constructor">
-    <HelpKINode Title="Map Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_Map__ctor.htm" />
     <HelpKINode Title="Map Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_Map__ctor.htm" />
+    <HelpKINode Title="Map Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_Map__ctor.htm" />
     <HelpKINode Title="Map Constructor " Url="html/M_GW2CSharp_V2_Unauthenticated_Continents_Map__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.MapRectangle property">
@@ -958,12 +971,12 @@
     <HelpKINode Title="Map.MaxLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MaxLevel.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.MinLevel property">
-    <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MinLevel.htm" />
     <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MinLevel.htm" />
+    <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MinLevel.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.Name property">
-    <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Name.htm" />
     <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_Name.htm" />
+    <HelpKINode Title="Map.Name Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Name.htm" />
   </HelpKINode>
   <HelpKINode Title="Map.Objectives property">
     <HelpKINode Title="Map.Objectives Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Objectives.htm" />
@@ -997,8 +1010,8 @@
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper.htm" />
   </HelpKINode>
-  <HelpKINode Title="MapWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetAll.htm" />
-  <HelpKINode Title="MapWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetById.htm" />
+  <HelpKINode Title="MapWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetAll.htm" />
+  <HelpKINode Title="MapWrapper.GetById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper_GetById.htm" />
   <HelpKINode Title="MapWrapper.MapWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Maps_MapWrapper__ctor.htm" />
   <HelpKINode Title="Masterwork enumeration member" Url="html/T_GW2CSharp_Enums_Rarity.htm" />
   <HelpKINode Title="Matches class">
@@ -1023,9 +1036,9 @@
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper.htm" />
   </HelpKINode>
-  <HelpKINode Title="MatchesWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetAll.htm" />
-  <HelpKINode Title="MatchesWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetById.htm" />
-  <HelpKINode Title="MatchesWrapper.GetByWorldId method" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetByWorldId.htm" />
+  <HelpKINode Title="MatchesWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetAll.htm" />
+  <HelpKINode Title="MatchesWrapper.GetById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetById.htm" />
+  <HelpKINode Title="MatchesWrapper.GetByWorldId method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetByWorldId.htm" />
   <HelpKINode Title="MatchesWrapper.GetMultipleById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper_GetMultipleById.htm" />
   <HelpKINode Title="MatchesWrapper.MatchesWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_MatchesWrapper__ctor.htm" />
   <HelpKINode Title="MatchObjective class">
@@ -1080,12 +1093,12 @@
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper.htm" />
   </HelpKINode>
-  <HelpKINode Title="MinisWrapper.Get method" Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_Get.htm" />
-  <HelpKINode Title="MinisWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_GetAll.htm" />
+  <HelpKINode Title="MinisWrapper.Get method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_Get.htm" />
+  <HelpKINode Title="MinisWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper_GetAll.htm" />
   <HelpKINode Title="MinisWrapper.MinisWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Minis_MinisWrapper__ctor.htm" />
   <HelpKINode Title="MinLevel property">
-    <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MinLevel.htm" />
     <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Maps_Map_MinLevel.htm" />
+    <HelpKINode Title="Map.MinLevel Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_MinLevel.htm" />
   </HelpKINode>
   <HelpKINode Title="MinRating property" Url="html/P_GW2CSharp_V2_Unauthenticated_Recipes_Recipe_MinRating.htm" />
   <HelpKINode Title="MinZoom property" Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Continent_MinZoom.htm" />
@@ -1156,8 +1169,8 @@
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_WvW_Objectives.htm" />
   </HelpKINode>
   <HelpKINode Title="Objectives property">
-    <HelpKINode Title="Map.Objectives Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Objectives.htm" />
     <HelpKINode Title="Map.Objectives Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Continents_Map_Objectives.htm" />
+    <HelpKINode Title="Map.Objectives Property " Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Map_Objectives.htm" />
   </HelpKINode>
   <HelpKINode Title="Objectives.Coord property" Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_Coord.htm" />
   <HelpKINode Title="Objectives.Id property" Url="html/P_GW2CSharp_V2_Unauthenticated_WvW_Objectives_Id.htm" />
@@ -1174,8 +1187,8 @@
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper.htm" />
   </HelpKINode>
-  <HelpKINode Title="ObjectivesWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetAll.htm" />
-  <HelpKINode Title="ObjectivesWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetById.htm" />
+  <HelpKINode Title="ObjectivesWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetAll.htm" />
+  <HelpKINode Title="ObjectivesWrapper.GetById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetById.htm" />
   <HelpKINode Title="ObjectivesWrapper.GetMultiple method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper_GetMultiple.htm" />
   <HelpKINode Title="ObjectivesWrapper.ObjectivesWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_WvW_ObjectivesWrapper__ctor.htm" />
   <HelpKINode Title="ObjectiveType enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_WvW_Enums_ObjectiveType.htm" />
@@ -1238,6 +1251,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Unauthenticated_Commerce_Price.htm" />
   </HelpKINode>
+  <HelpKINode Title="Price property" Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Price.htm" />
   <HelpKINode Title="Price.Buys property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Buys.htm" />
   <HelpKINode Title="Price.Item property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_Price_Item.htm" />
   <HelpKINode Title="Price.Price constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_Price__ctor.htm" />
@@ -1259,6 +1273,7 @@
   <HelpKINode Title="Profession property" Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGame_Profession.htm" />
   <HelpKINode Title="Professions property" Url="html/P_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatistic_Professions.htm" />
   <HelpKINode Title="ProvisionerToken enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
+  <HelpKINode Title="Purchased property" Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Purchased.htm" />
   <HelpKINode Title="Pve enumeration member" Url="html/T_GW2CSharp_Enums_GameMode.htm" />
   <HelpKINode Title="Pvp enumeration member">
     <HelpKINode Title="AchievementCategories Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Achievement_Enums_AchievementCategories.htm" />
@@ -1288,7 +1303,7 @@
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper.htm" />
   </HelpKINode>
-  <HelpKINode Title="PvpGameWrapper.GetRecent method" Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper_GetRecent.htm" />
+  <HelpKINode Title="PvpGameWrapper.GetRecent method" Url="html/Overload_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper_GetRecent.htm" />
   <HelpKINode Title="PvpGameWrapper.PvpGameWrapper constructor" Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Games_PvpGameWrapper__ctor.htm" />
   <HelpKINode Title="PvpLobby enumeration member" Url="html/T_GW2CSharp_Enums_GameMode.htm" />
   <HelpKINode Title="PvpStatistic class">
@@ -1310,7 +1325,7 @@
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper.htm" />
   </HelpKINode>
-  <HelpKINode Title="PvpStatisticWrapper.Get method" Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper_Get.htm" />
+  <HelpKINode Title="PvpStatisticWrapper.Get method" Url="html/Overload_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper_Get.htm" />
   <HelpKINode Title="PvpStatisticWrapper.PvpStatisticWrapper constructor" Url="html/M_GW2CSharp_V2_Authenticated_Pvp_Stats_PvpStatisticWrapper__ctor.htm" />
   <HelpKINode Title="Quaggan class">
     <HelpKINode Title="Quaggan Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Quaggans_Quaggan.htm" />
@@ -1332,7 +1347,10 @@
   <HelpKINode Title="QuagganWrapper.Get method" Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_Get.htm" />
   <HelpKINode Title="QuagganWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper_GetAll.htm" />
   <HelpKINode Title="QuagganWrapper.QuagganWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Quaggans_QuagganWrapper__ctor.htm" />
-  <HelpKINode Title="Quantity property" Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItem_Quantity.htm" />
+  <HelpKINode Title="Quantity property">
+    <HelpKINode Title="TpItem.Quantity Property " Url="html/P_GW2CSharp_V2_Unauthenticated_Commerce_TpItem_Quantity.htm" />
+    <HelpKINode Title="Transaction.Quantity Property " Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Quantity.htm" />
+  </HelpKINode>
   <HelpKINode Title="Race enumeration" Url="html/T_GW2CSharp_Enums_Race.htm" />
   <HelpKINode Title="Ranger enumeration member">
     <HelpKINode Title="Profession Enumeration" Url="html/T_GW2CSharp_Enums_Profession.htm" />
@@ -1577,12 +1595,12 @@
   <HelpKINode Title="SkinWrapper class">
     <HelpKINode Title="SkinWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper.htm" />
     <HelpKINode Title="about SkinWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper.htm" />
-    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper.htm" />
   </HelpKINode>
   <HelpKINode Title="SkinWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper_GetAll.htm" />
   <HelpKINode Title="SkinWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper_GetById.htm" />
-  <HelpKINode Title="SkinWrapper.SkinWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper__ctor.htm" />
+  <HelpKINode Title="SkinWrapper.SkinWrapper constructor" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Items_Skins_SkinWrapper__ctor.htm" />
   <HelpKINode Title="SmallBundle enumeration member" Url="html/T_GW2CSharp_Enums_Weapon.htm" />
   <HelpKINode Title="Snack enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Recipes_Enums_RecipeType.htm" />
   <HelpKINode Title="SoloArenaRated enumeration member" Url="html/T_GW2CSharp_V2_Authenticated_Pvp_Stats_Enums_Ladder.htm" />
@@ -1649,7 +1667,7 @@
     <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper.htm" />
   </HelpKINode>
-  <HelpKINode Title="TokeninfoWrapper.Get method" Url="html/M_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper_Get.htm" />
+  <HelpKINode Title="TokeninfoWrapper.Get method" Url="html/Overload_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper_Get.htm" />
   <HelpKINode Title="TokeninfoWrapper.TokeninfoWrapper constructor" Url="html/M_GW2CSharp_V2_Authenticated_TokenInfo_TokeninfoWrapper__ctor.htm" />
   <HelpKINode Title="Tool enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
   <HelpKINode Title="Torch enumeration member">
@@ -1679,6 +1697,32 @@
   <HelpKINode Title="TpItemListing.TpItemListing constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Commerce_TpItemListing__ctor.htm" />
   <HelpKINode Title="Tradingpost property" Url="html/P_GW2CSharp_V2_Authenticated_TokenInfo_Permission_Tradingpost.htm" />
   <HelpKINode Title="Trait enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Items_Enums_ItemType.htm" />
+  <HelpKINode Title="Transaction class">
+    <HelpKINode Title="Transaction Class" Url="html/T_GW2CSharp_V2_Authenticated_Commerce_Transaction.htm" />
+    <HelpKINode Title="about Transaction class" Url="html/T_GW2CSharp_V2_Authenticated_Commerce_Transaction.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Authenticated_Commerce_Transaction__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Commerce_Transaction.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_GW2CSharp_V2_Authenticated_Commerce_Transaction.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Transaction.Created property" Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Created.htm" />
+  <HelpKINode Title="Transaction.Id property" Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Id.htm" />
+  <HelpKINode Title="Transaction.ItemId property" Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_ItemId.htm" />
+  <HelpKINode Title="Transaction.Price property" Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Price.htm" />
+  <HelpKINode Title="Transaction.Purchased property" Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Purchased.htm" />
+  <HelpKINode Title="Transaction.Quantity property" Url="html/P_GW2CSharp_V2_Authenticated_Commerce_Transaction_Quantity.htm" />
+  <HelpKINode Title="Transaction.Transaction constructor" Url="html/M_GW2CSharp_V2_Authenticated_Commerce_Transaction__ctor.htm" />
+  <HelpKINode Title="Transactions property" Url="html/P_GW2CSharp_V2_V2Endpoint_Transactions.htm" />
+  <HelpKINode Title="TransactionsWrapper class">
+    <HelpKINode Title="TransactionsWrapper Class" Url="html/T_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper.htm" />
+    <HelpKINode Title="about TransactionsWrapper class" Url="html/T_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper.htm" />
+    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TransactionsWrapper.GetCurrentBuys method" Url="html/Overload_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper_GetCurrentBuys.htm" />
+  <HelpKINode Title="TransactionsWrapper.GetCurrentSells method" Url="html/Overload_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper_GetCurrentSells.htm" />
+  <HelpKINode Title="TransactionsWrapper.GetHistoryBuys method" Url="html/Overload_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper_GetHistoryBuys.htm" />
+  <HelpKINode Title="TransactionsWrapper.GetHistorySells method" Url="html/Overload_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper_GetHistorySells.htm" />
+  <HelpKINode Title="TransactionsWrapper.TransactionsWrapper constructor" Url="html/M_GW2CSharp_V2_Authenticated_Commerce_TransactionsWrapper__ctor.htm" />
   <HelpKINode Title="TransmutationCharge enumeration member" Url="html/T_GW2CSharp_V2_Unauthenticated_Currencies_Enums_CurrencyType.htm" />
   <HelpKINode Title="Trident enumeration member">
     <HelpKINode Title="RecipeType Enumeration" Url="html/T_GW2CSharp_V2_Unauthenticated_Recipes_Enums_RecipeType.htm" />
@@ -1741,7 +1785,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V1_V1Endpoint.htm" />
   </HelpKINode>
   <HelpKINode Title="V1Endpoint.V1Endpoint constructor" Url="html/M_GW2CSharp_V1_V1Endpoint__ctor.htm" />
-  <HelpKINode Title="V2 property" Url="html/P_GW2CSharp_GW2Api_V2.htm" />
+  <HelpKINode Title="V2 method" Url="html/Overload_GW2CSharp_GW2Api_V2.htm" />
   <HelpKINode Title="V2Endpoint class">
     <HelpKINode Title="V2Endpoint Class" Url="html/T_GW2CSharp_V2_V2Endpoint.htm" />
     <HelpKINode Title="about V2Endpoint class" Url="html/T_GW2CSharp_V2_V2Endpoint.htm" />
@@ -1768,6 +1812,7 @@
   <HelpKINode Title="V2Endpoint.RessourceFiles property" Url="html/P_GW2CSharp_V2_V2Endpoint_RessourceFiles.htm" />
   <HelpKINode Title="V2Endpoint.Skins property" Url="html/P_GW2CSharp_V2_V2Endpoint_Skins.htm" />
   <HelpKINode Title="V2Endpoint.TokenInfo property" Url="html/P_GW2CSharp_V2_V2Endpoint_TokenInfo.htm" />
+  <HelpKINode Title="V2Endpoint.Transactions property" Url="html/P_GW2CSharp_V2_V2Endpoint_Transactions.htm" />
   <HelpKINode Title="V2Endpoint.V2Endpoint constructor" Url="html/M_GW2CSharp_V2_V2Endpoint__ctor.htm" />
   <HelpKINode Title="V2Endpoint.Worlds property" Url="html/P_GW2CSharp_V2_V2Endpoint_Worlds.htm" />
   <HelpKINode Title="V2Endpoint.WvWMatches property" Url="html/P_GW2CSharp_V2_V2Endpoint_WvWMatches.htm" />
@@ -1828,14 +1873,14 @@
   <HelpKINode Title="WorldWrapper class">
     <HelpKINode Title="WorldWrapper Class" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper.htm" />
     <HelpKINode Title="about WorldWrapper class" Url="html/T_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper.htm" />
-    <HelpKINode Title="constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper__ctor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper.htm" />
   </HelpKINode>
-  <HelpKINode Title="WorldWrapper.GetAll method" Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetAll.htm" />
-  <HelpKINode Title="WorldWrapper.GetById method" Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetById.htm" />
+  <HelpKINode Title="WorldWrapper.GetAll method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetAll.htm" />
+  <HelpKINode Title="WorldWrapper.GetById method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetById.htm" />
   <HelpKINode Title="WorldWrapper.GetByIds method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByIds.htm" />
-  <HelpKINode Title="WorldWrapper.GetByPage method" Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByPage.htm" />
-  <HelpKINode Title="WorldWrapper.WorldWrapper constructor" Url="html/M_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper__ctor.htm" />
+  <HelpKINode Title="WorldWrapper.GetByPage method" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper_GetByPage.htm" />
+  <HelpKINode Title="WorldWrapper.WorldWrapper constructor" Url="html/Overload_GW2CSharp_V2_Unauthenticated_Worlds_WorldWrapper__ctor.htm" />
   <HelpKINode Title="Wvw enumeration member" Url="html/T_GW2CSharp_Enums_GameMode.htm" />
   <HelpKINode Title="WvWMatches property" Url="html/P_GW2CSharp_V2_V2Endpoint_WvWMatches.htm" />
   <HelpKINode Title="WvWObjectives property" Url="html/P_GW2CSharp_V2_V2Endpoint_WvWObjectives.htm" />
